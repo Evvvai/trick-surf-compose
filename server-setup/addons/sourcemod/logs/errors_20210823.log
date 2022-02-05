@@ -1,0 +1,575 @@
+L 08/23/2021 - 00:55:23: SourceMod error session started
+L 08/23/2021 - 00:55:23: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 00:55:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:55:23: [SM] Call stack trace:
+L 08/23/2021 - 00:55:23: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 00:55:23: [SM]   [1] Line 29, include/time_online.sp::SQL_time_played
+L 08/23/2021 - 00:55:24: Error log file session closed.
+L 08/23/2021 - 00:55:57: SourceMod error session started
+L 08/23/2021 - 00:55:57: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 00:55:57: [SM] Exception reported: Entity 12 (12) is invalid
+L 08/23/2021 - 00:55:57: [SM] Blaming: DisableRadar.smx
+L 08/23/2021 - 00:55:57: [SM] Call stack trace:
+L 08/23/2021 - 00:55:57: [SM]   [0] GetEntProp
+L 08/23/2021 - 00:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/23/2021 - 00:56:27: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:56:27: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:56:27: [SM] Call stack trace:
+L 08/23/2021 - 00:56:27: [SM]   [0] GetEntData
+L 08/23/2021 - 00:56:27: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:56:27: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:56:36: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:56:36: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:56:36: [SM] Call stack trace:
+L 08/23/2021 - 00:56:36: [SM]   [0] GetEntData
+L 08/23/2021 - 00:56:36: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:56:36: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:56:39: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:56:39: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:56:39: [SM] Call stack trace:
+L 08/23/2021 - 00:56:39: [SM]   [0] GetEntData
+L 08/23/2021 - 00:56:39: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:56:39: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:58:28: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:58:28: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:58:28: [SM] Call stack trace:
+L 08/23/2021 - 00:58:28: [SM]   [0] GetEntData
+L 08/23/2021 - 00:58:28: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:58:28: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:58:43: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:58:43: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:58:43: [SM] Call stack trace:
+L 08/23/2021 - 00:58:43: [SM]   [0] GetEntData
+L 08/23/2021 - 00:58:43: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:58:43: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:58:46: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:58:46: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:58:46: [SM] Call stack trace:
+L 08/23/2021 - 00:58:46: [SM]   [0] GetEntData
+L 08/23/2021 - 00:58:46: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:58:46: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 00:58:49: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 00:58:49: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 00:58:49: [SM] Call stack trace:
+L 08/23/2021 - 00:58:49: [SM]   [0] GetEntData
+L 08/23/2021 - 00:58:49: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 00:58:49: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:00:55: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:00:55: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:00:55: [SM] Call stack trace:
+L 08/23/2021 - 01:00:55: [SM]   [0] GetEntData
+L 08/23/2021 - 01:00:55: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:00:55: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:00:59: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:00:59: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:00:59: [SM] Call stack trace:
+L 08/23/2021 - 01:00:59: [SM]   [0] GetEntData
+L 08/23/2021 - 01:00:59: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:00:59: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:00:59: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:00:59: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:00:59: [SM] Call stack trace:
+L 08/23/2021 - 01:00:59: [SM]   [0] GetEntData
+L 08/23/2021 - 01:00:59: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:00:59: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:01:02: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:01:02: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:01:02: [SM] Call stack trace:
+L 08/23/2021 - 01:01:02: [SM]   [0] GetEntData
+L 08/23/2021 - 01:01:02: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:01:02: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:24:43: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:24:43: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:24:43: [SM] Call stack trace:
+L 08/23/2021 - 01:24:43: [SM]   [0] GetEntData
+L 08/23/2021 - 01:24:43: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:24:43: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:38:35: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:38:35: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:38:35: [SM] Call stack trace:
+L 08/23/2021 - 01:38:35: [SM]   [0] GetEntData
+L 08/23/2021 - 01:38:35: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:38:35: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:39:18: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:39:18: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:39:18: [SM] Call stack trace:
+L 08/23/2021 - 01:39:18: [SM]   [0] GetEntData
+L 08/23/2021 - 01:39:18: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:39:18: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:39:22: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:39:22: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:39:22: [SM] Call stack trace:
+L 08/23/2021 - 01:39:22: [SM]   [0] GetEntData
+L 08/23/2021 - 01:39:22: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:39:22: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:39:23: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:39:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:39:23: [SM] Call stack trace:
+L 08/23/2021 - 01:39:23: [SM]   [0] GetEntData
+L 08/23/2021 - 01:39:23: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:39:23: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:40:23: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:40:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:40:23: [SM] Call stack trace:
+L 08/23/2021 - 01:40:23: [SM]   [0] GetEntData
+L 08/23/2021 - 01:40:23: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:40:23: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:40:23: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:40:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:40:23: [SM] Call stack trace:
+L 08/23/2021 - 01:40:23: [SM]   [0] GetEntData
+L 08/23/2021 - 01:40:23: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:40:23: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:40:24: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:40:24: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:40:24: [SM] Call stack trace:
+L 08/23/2021 - 01:40:24: [SM]   [0] GetEntData
+L 08/23/2021 - 01:40:24: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:40:24: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:40:25: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:40:25: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:40:25: [SM] Call stack trace:
+L 08/23/2021 - 01:40:25: [SM]   [0] GetEntData
+L 08/23/2021 - 01:40:25: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:40:25: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:42:36: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:42:36: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:42:36: [SM] Call stack trace:
+L 08/23/2021 - 01:42:36: [SM]   [0] GetEntData
+L 08/23/2021 - 01:42:36: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:42:36: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:42:37: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:42:37: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:42:37: [SM] Call stack trace:
+L 08/23/2021 - 01:42:37: [SM]   [0] GetEntData
+L 08/23/2021 - 01:42:37: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:42:37: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:44:54: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:44:54: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:44:54: [SM] Call stack trace:
+L 08/23/2021 - 01:44:54: [SM]   [0] GetEntData
+L 08/23/2021 - 01:44:54: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:44:54: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:44:54: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:44:54: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:44:54: [SM] Call stack trace:
+L 08/23/2021 - 01:44:54: [SM]   [0] GetEntData
+L 08/23/2021 - 01:44:54: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:44:54: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:51:20: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:51:20: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:51:20: [SM] Call stack trace:
+L 08/23/2021 - 01:51:20: [SM]   [0] GetEntData
+L 08/23/2021 - 01:51:20: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:51:20: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:51:21: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:51:21: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:51:21: [SM] Call stack trace:
+L 08/23/2021 - 01:51:21: [SM]   [0] GetEntData
+L 08/23/2021 - 01:51:21: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:51:21: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:51:23: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:51:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:51:23: [SM] Call stack trace:
+L 08/23/2021 - 01:51:23: [SM]   [0] GetEntData
+L 08/23/2021 - 01:51:23: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:51:23: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:51:34: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:51:34: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:51:34: [SM] Call stack trace:
+L 08/23/2021 - 01:51:34: [SM]   [0] GetEntData
+L 08/23/2021 - 01:51:34: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:51:34: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 01:54:35: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:54:35: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:54:35: [SM] Call stack trace:
+L 08/23/2021 - 01:54:35: [SM]   [0] GetEntData
+L 08/23/2021 - 01:54:35: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:54:35: [SM]   [2] Line 63, include/show_triggers.sp::OnClientDisconnect_Post
+L 08/23/2021 - 01:56:03: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 01:56:03: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 01:56:03: [SM] Call stack trace:
+L 08/23/2021 - 01:56:03: [SM]   [0] GetEntData
+L 08/23/2021 - 01:56:03: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 01:56:03: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 02:10:23: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 02:10:23: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 02:10:23: [SM] Call stack trace:
+L 08/23/2021 - 02:10:23: [SM]   [0] GetEntData
+L 08/23/2021 - 02:10:23: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 02:10:23: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 02:10:24: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 02:10:24: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 02:10:24: [SM] Call stack trace:
+L 08/23/2021 - 02:10:24: [SM]   [0] GetEntData
+L 08/23/2021 - 02:10:24: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 02:10:24: [SM]   [2] Line 40, include/show_triggers.sp::cmd_show_triggers
+L 08/23/2021 - 02:12:02: [SM] Exception reported: Offset -1 is invalid
+L 08/23/2021 - 02:12:02: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 02:12:02: [SM] Call stack trace:
+L 08/23/2021 - 02:12:02: [SM]   [0] GetEntData
+L 08/23/2021 - 02:12:02: [SM]   [1] Line 101, include/show_triggers.sp::transmit_triggers
+L 08/23/2021 - 02:12:02: [SM]   [2] Line 63, include/show_triggers.sp::OnClientDisconnect_Post
+L 08/23/2021 - 02:43:34: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 02:43:34: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 02:43:34: [SM] Call stack trace:
+L 08/23/2021 - 02:43:34: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 02:43:34: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 09:42:37: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 09:42:37: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 09:42:37: [SM] Call stack trace:
+L 08/23/2021 - 09:42:37: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 09:42:37: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 09:42:38: Error log file session closed.
+L 08/23/2021 - 10:09:25: SourceMod error session started
+L 08/23/2021 - 10:09:25: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 10:09:25: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 10:09:25: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 10:09:25: [SM] Call stack trace:
+L 08/23/2021 - 10:09:25: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 10:09:25: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 10:09:48: Error log file session closed.
+L 08/23/2021 - 10:16:57: SourceMod error session started
+L 08/23/2021 - 10:16:57: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 10:16:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 10:16:57: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 10:16:57: [SM] Call stack trace:
+L 08/23/2021 - 10:16:57: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 10:16:57: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 10:17:22: Error log file session closed.
+L 08/23/2021 - 10:27:18: SourceMod error session started
+L 08/23/2021 - 10:27:18: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 10:27:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 10:27:18: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 10:27:18: [SM] Call stack trace:
+L 08/23/2021 - 10:27:18: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 10:27:18: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 10:27:41: Error log file session closed.
+L 08/23/2021 - 11:46:39: SourceMod error session started
+L 08/23/2021 - 11:46:39: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 11:46:39: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 11:46:39: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 11:46:39: [SM] Call stack trace:
+L 08/23/2021 - 11:46:39: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 11:46:39: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 11:48:53: Error log file session closed.
+L 08/23/2021 - 11:51:18: SourceMod error session started
+L 08/23/2021 - 11:51:18: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 11:51:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 11:51:18: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 11:51:18: [SM] Call stack trace:
+L 08/23/2021 - 11:51:18: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 11:51:18: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 11:52:04: Error log file session closed.
+L 08/23/2021 - 12:02:27: SourceMod error session started
+L 08/23/2021 - 12:02:27: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 12:02:27: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 12:02:27: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 12:02:27: [SM] Call stack trace:
+L 08/23/2021 - 12:02:27: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 12:02:27: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 12:02:58: Error log file session closed.
+L 08/23/2021 - 13:41:48: SourceMod error session started
+L 08/23/2021 - 13:41:48: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 13:41:48: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 13:41:48: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 13:41:48: [SM] Call stack trace:
+L 08/23/2021 - 13:41:48: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 13:41:48: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 13:51:19: Error log file session closed.
+L 08/23/2021 - 13:51:20: SourceMod error session started
+L 08/23/2021 - 13:51:20: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 13:51:20: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 13:51:20: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 13:51:20: [SM] Call stack trace:
+L 08/23/2021 - 13:51:20: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 13:51:20: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 15:41:26: Error log file session closed.
+L 08/23/2021 - 15:41:27: SourceMod error session started
+L 08/23/2021 - 15:41:27: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 15:41:27: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 15:41:27: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 15:41:27: [SM] Call stack trace:
+L 08/23/2021 - 15:41:27: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 15:41:27: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 16:20:40: Error log file session closed.
+L 08/23/2021 - 16:20:41: SourceMod error session started
+L 08/23/2021 - 16:20:41: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 16:20:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 16:20:41: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 16:20:41: [SM] Call stack trace:
+L 08/23/2021 - 16:20:41: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 16:20:41: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 16:58:17: Error log file session closed.
+L 08/23/2021 - 16:58:19: SourceMod error session started
+L 08/23/2021 - 16:58:19: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 16:58:19: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 16:58:19: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 16:58:19: [SM] Call stack trace:
+L 08/23/2021 - 16:58:19: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 16:58:19: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 17:25:02: Error log file session closed.
+L 08/23/2021 - 17:25:03: SourceMod error session started
+L 08/23/2021 - 17:25:03: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 17:25:03: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 17:25:03: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 17:25:03: [SM] Call stack trace:
+L 08/23/2021 - 17:25:03: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 17:25:03: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 18:16:03: Error log file session closed.
+L 08/23/2021 - 18:16:04: SourceMod error session started
+L 08/23/2021 - 18:16:04: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 18:16:04: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 18:16:04: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 18:16:04: [SM] Call stack trace:
+L 08/23/2021 - 18:16:04: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 18:16:04: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 18:16:20: Error log file session closed.
+L 08/23/2021 - 18:17:00: SourceMod error session started
+L 08/23/2021 - 18:17:00: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 18:17:00: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/23/2021 - 18:17:51: Error log file session closed.
+L 08/23/2021 - 18:27:50: SourceMod error session started
+L 08/23/2021 - 18:27:50: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210823.log")
+L 08/23/2021 - 18:27:50: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 18:27:50: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 18:27:50: [SM] Call stack trace:
+L 08/23/2021 - 18:27:50: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 18:27:50: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/23/2021 - 21:18:53: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 21:18:53: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 21:18:53: [SM] Call stack trace:
+L 08/23/2021 - 21:18:53: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 21:18:53: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 08/23/2021 - 21:18:53: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/23/2021 - 21:18:53: [SM] Blaming: dm_trick.smx
+L 08/23/2021 - 21:18:53: [SM] Call stack trace:
+L 08/23/2021 - 21:18:53: [SM]   [0] DBResultSet.HasResults.get
+L 08/23/2021 - 21:18:53: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 08/23/2021 - 23:37:09: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:37:09: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:37:09: [SM] Call stack trace:
+L 08/23/2021 - 23:37:09: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:37:09: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:37:25: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:37:25: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:37:25: [SM] Call stack trace:
+L 08/23/2021 - 23:37:25: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:37:25: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:37:40: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:37:40: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:37:40: [SM] Call stack trace:
+L 08/23/2021 - 23:37:40: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:37:40: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:38:14: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:38:14: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:38:14: [SM] Call stack trace:
+L 08/23/2021 - 23:38:14: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:38:14: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:38:16: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:38:16: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:38:16: [SM] Call stack trace:
+L 08/23/2021 - 23:38:16: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:38:16: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:38:19: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:38:19: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:38:19: [SM] Call stack trace:
+L 08/23/2021 - 23:38:19: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:38:19: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:38:21: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:38:21: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:38:21: [SM] Call stack trace:
+L 08/23/2021 - 23:38:21: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:38:21: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:38:22: [SM] Exception reported: Client index 880 is invalid
+L 08/23/2021 - 23:38:22: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:38:22: [SM] Call stack trace:
+L 08/23/2021 - 23:38:22: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:38:22: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:39:44: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:39:44: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:39:44: [SM] Call stack trace:
+L 08/23/2021 - 23:39:44: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:39:44: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:57:49: [SM] Exception reported: Client index 875 is invalid
+L 08/23/2021 - 23:57:49: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:57:49: [SM] Call stack trace:
+L 08/23/2021 - 23:57:49: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:57:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:57:49: [SM] Exception reported: Client index 875 is invalid
+L 08/23/2021 - 23:57:49: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:57:49: [SM] Call stack trace:
+L 08/23/2021 - 23:57:49: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:57:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:57:50: [SM] Exception reported: Client index 875 is invalid
+L 08/23/2021 - 23:57:50: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:57:50: [SM] Call stack trace:
+L 08/23/2021 - 23:57:50: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:57:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:57:50: [SM] Exception reported: Client index 875 is invalid
+L 08/23/2021 - 23:57:50: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:57:50: [SM] Call stack trace:
+L 08/23/2021 - 23:57:50: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:57:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:58:28: [SM] Exception reported: Client index 875 is invalid
+L 08/23/2021 - 23:58:28: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:58:28: [SM] Call stack trace:
+L 08/23/2021 - 23:58:28: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:58:28: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:03: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:03: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:03: [SM] Call stack trace:
+L 08/23/2021 - 23:59:03: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:03: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:06: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:06: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:06: [SM] Call stack trace:
+L 08/23/2021 - 23:59:06: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:06: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:08: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:08: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:08: [SM] Call stack trace:
+L 08/23/2021 - 23:59:08: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:08: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:27: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:27: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:27: [SM] Call stack trace:
+L 08/23/2021 - 23:59:27: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:27: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:32: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:32: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:32: [SM] Call stack trace:
+L 08/23/2021 - 23:59:32: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:32: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:38: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:38: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:38: [SM] Call stack trace:
+L 08/23/2021 - 23:59:38: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:38: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:41: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:41: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:41: [SM] Call stack trace:
+L 08/23/2021 - 23:59:41: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:41: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:45: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:45: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:45: [SM] Call stack trace:
+L 08/23/2021 - 23:59:45: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:45: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:46: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:46: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:46: [SM] Call stack trace:
+L 08/23/2021 - 23:59:46: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:46: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:47: [SM] Exception reported: Client index 888 is invalid
+L 08/23/2021 - 23:59:47: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:47: [SM] Call stack trace:
+L 08/23/2021 - 23:59:47: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:48: [SM] Exception reported: Client index 888 is invalid
+L 08/23/2021 - 23:59:48: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:48: [SM] Call stack trace:
+L 08/23/2021 - 23:59:48: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:50: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:50: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:50: [SM] Call stack trace:
+L 08/23/2021 - 23:59:50: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:50: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:51: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:51: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:51: [SM] Call stack trace:
+L 08/23/2021 - 23:59:51: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:51: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:51: [SM] Exception reported: Client index 888 is invalid
+L 08/23/2021 - 23:59:51: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:51: [SM] Call stack trace:
+L 08/23/2021 - 23:59:51: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:52: [SM] Exception reported: Client index 888 is invalid
+L 08/23/2021 - 23:59:52: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:52: [SM] Call stack trace:
+L 08/23/2021 - 23:59:52: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:52: [SM] Exception reported: Client index 888 is invalid
+L 08/23/2021 - 23:59:52: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:52: [SM] Call stack trace:
+L 08/23/2021 - 23:59:52: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/23/2021 - 23:59:53: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:53: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:53: [SM] Call stack trace:
+L 08/23/2021 - 23:59:53: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:53: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/23/2021 - 23:59:59: [SM] Exception reported: Client 4 is not in game
+L 08/23/2021 - 23:59:59: [SM] Blaming: sm_hide.smx
+L 08/23/2021 - 23:59:59: [SM] Call stack trace:
+L 08/23/2021 - 23:59:59: [SM]   [0] GetClientTeam
+L 08/23/2021 - 23:59:59: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/24/2021 - 00:00:04: Error log file session closed.

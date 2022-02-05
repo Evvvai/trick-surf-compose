@@ -1,0 +1,45 @@
+L 08/15/2021 - 01:00:52: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210815.log") (Version "1.10.0.6510")
+L 08/15/2021 - 01:00:52: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 01:00:52: [dm_trick.smx]  SUCCESS db_connect()
+L 08/15/2021 - 02:20:54: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "yakiness<79><STEAM_1:1:568198462><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:27: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "yakiness<79><STEAM_1:1:568198462><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:27: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "yakiness<79><STEAM_1:1:568198462><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:27: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "yakiness<79><STEAM_1:1:568198462><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:27: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "KingYoshi<80><STEAM_1:1:116460625><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:28: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "KingYoshi<80><STEAM_1:1:116460625><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:28: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "KingYoshi<80><STEAM_1:1:116460625><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:28: [funcommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" ignited "KingYoshi<80><STEAM_1:1:116460625><>" (seconds "20.000000")
+L 08/15/2021 - 02:21:32: [playercommands.smx] "ᴇᴠʌı<75><STEAM_1:0:108778791><>" slayed "KingYoshi<80><STEAM_1:1:116460625><>"
+L 08/15/2021 - 03:11:49: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 04:06:22: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 04:08:38: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 07:28:31: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 10:26:20: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 11:44:06: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 12:18:10: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 17:27:56: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 17:42:23: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 19:03:57: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 21:46:35: [basecommands.smx] "ᴇᴠʌı<115><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/15/2021 - 21:46:38: [SM] Changed map to "surf_trick_g"
+L 08/15/2021 - 21:46:42: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 21:46:42: [dm_trick.smx]  SUCCESS db_connect()
+L 08/15/2021 - 22:19:04: [basecommands.smx] "ᴇᴠʌı<115><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/15/2021 - 22:19:07: [SM] Changed map to "surf_trick_g"
+L 08/15/2021 - 22:19:10: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 22:19:10: [dm_trick.smx]  SUCCESS db_connect()
+L 08/15/2021 - 22:57:06: [basecommands.smx] "ᴇᴠʌı<115><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/15/2021 - 22:57:09: [SM] Changed map to "surf_trick_g"
+L 08/15/2021 - 22:57:12: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 22:57:12: [dm_trick.smx]  SUCCESS db_connect()
+L 08/15/2021 - 23:19:58: Log file closed.
+L 08/15/2021 - 23:20:20: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210815.log") (Version "1.10.0.6510")
+L 08/15/2021 - 23:20:20: [dm_trick.smx]  SUCCESS db_connect()
+L 08/15/2021 - 23:20:32: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 23:27:02: [basevotes.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" initiated a ban vote against "!!!!__4eTkO_B_}|{b@H__!!!!<9><STEAM_1:0:228464156><>"
+L 08/15/2021 - 23:27:22: [basevotes.smx] Vote ban successful, banned "!!!!__4eTkO_B_}|{b@H__!!!!<9><STEAM_1:0:228464156><>" (minutes "30") (reason "Votebanned")
+L 08/15/2021 - 23:58:30: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/15/2021 - 23:58:33: [SM] Changed map to "surf_trick_g"
+L 08/15/2021 - 23:58:36: -------- Mapchange to surf_trick_g --------
+L 08/15/2021 - 23:58:36: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 00:06:24: Log file closed.

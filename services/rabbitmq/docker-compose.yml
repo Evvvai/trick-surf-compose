@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  rabbitmq:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - RABBITMQ_DEFAULT_USER=${RABBITMQ_USER}
+      - RABBITMQ_DEFAULT_PASS=${RABBITMQ_PASSWORD}
+    # volumes:
+    # - ./.docker/rabbitmq/etc/:/etc/rabbitmq/
+    # - ./.docker/rabbitmq/data/:/var/lib/rabbitmq/
+    # - ./.docker/rabbitmq/logs/:/var/log/rabbitmq/
+    ports:
+      - 15672:15672
+      - 5672:5672
+    networks:
+      - default

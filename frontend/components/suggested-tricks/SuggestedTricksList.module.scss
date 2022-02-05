@@ -1,0 +1,59 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.pagination {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+
+  > :hover {
+    box-shadow: 0 0 7px var(--color-highlight);
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  &Button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    cursor: pointer;
+
+    background-color: var(--color-background-content);
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    color: var(--color-text);
+    font-size: 1rem;
+
+    @include tablet {
+      width: 60px;
+      height: 25px;
+      font-size: 0.8rem;
+    }
+
+    @include mobile {
+      font-size: 0.7rem;
+      width: 50px;
+      height: 20px;
+    }
+
+    svg {
+      max-width: 20px;
+      max-height: 20px;
+
+      fill: var(--color-text);
+    }
+    transition: all 0.2s ease-out;
+  }
+
+  &None {
+    opacity: 0;
+    pointer-events: none;
+  }
+}

@@ -1,0 +1,61 @@
+L 08/18/2021 - 00:01:25: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210818.log") (Version "1.10.0.6510")
+L 08/18/2021 - 00:01:25: [funcommands.smx] "FEAST<2><STEAM_1:0:159860788><>" toggled noclip on "FEAST<2><STEAM_1:0:159860788><>"
+L 08/18/2021 - 00:01:26: [funcommands.smx] "FEAST<2><STEAM_1:0:159860788><>" toggled noclip on "FEAST<2><STEAM_1:0:159860788><>"
+L 08/18/2021 - 00:01:42: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_maxvelocity") (value "2000")
+L 08/18/2021 - 00:01:55: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_maxvelocity") (value "2500")
+L 08/18/2021 - 00:03:38: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_maxvelocity") (value "3500")
+L 08/18/2021 - 00:08:15: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 00:57:35: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 01:53:58: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 02:24:10: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" toggled noclip on "ArturPertuh<9><STEAM_1:0:49334172><>"
+L 08/18/2021 - 02:25:08: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" toggled noclip on "ArturPertuh<9><STEAM_1:0:49334172><>"
+L 08/18/2021 - 02:42:04: [playercommands.smx] "FEAST<8><STEAM_1:0:159860788><>" slayed "ArturPertuh<9><STEAM_1:0:49334172><>"
+L 08/18/2021 - 03:15:11: [funcommands.smx] "surf_lags_x<12><STEAM_1:1:80244186><>" toggled noclip on "AlpenGold<11><STEAM_1:0:70114936><>"
+L 08/18/2021 - 03:15:17: [funcommands.smx] "surf_lags_x<12><STEAM_1:1:80244186><>" toggled noclip on "AlpenGold<11><STEAM_1:0:70114936><>"
+L 08/18/2021 - 03:15:18: [funcommands.smx] "surf_lags_x<12><STEAM_1:1:80244186><>" toggled noclip on "AlpenGold<11><STEAM_1:0:70114936><>"
+L 08/18/2021 - 03:15:20: [funcommands.smx] "surf_lags_x<12><STEAM_1:1:80244186><>" toggled noclip on "AlpenGold<11><STEAM_1:0:70114936><>"
+L 08/18/2021 - 03:16:49: [playercommands.smx] "FEAST<8><STEAM_1:0:159860788><>" slayed "haise<14><STEAM_1:1:615045981><>"
+L 08/18/2021 - 03:16:49: [playercommands.smx] "FEAST<8><STEAM_1:0:159860788><>" slayed "surf_lags_x<12><STEAM_1:1:80244186><>"
+L 08/18/2021 - 03:17:43: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" set gravity on "surf_lags_x<12><STEAM_1:1:80244186><>" (amount "4.000000")
+L 08/18/2021 - 03:17:43: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" set gravity on "surf_lags_x<12><STEAM_1:1:80244186><>" (amount "1.000000")
+L 08/18/2021 - 03:17:54: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" set gravity on "surf_lags_x<12><STEAM_1:1:80244186><>" (amount "4.000000")
+L 08/18/2021 - 03:17:54: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" set gravity on "ArturPertuh<9><STEAM_1:0:49334172><>" (amount "1.000000")
+L 08/18/2021 - 03:17:56: [funcommands.smx] "FEAST<8><STEAM_1:0:159860788><>" set gravity on "surf_lags_x<12><STEAM_1:1:80244186><>" (amount "1.000000")
+L 08/18/2021 - 04:49:41: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 04:49:43: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 04:49:47: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 04:49:48: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 04:50:02: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 04:50:04: [funcommands.smx] "FEAST<20><STEAM_1:0:159860788><>" toggled noclip on "FEAST<20><STEAM_1:0:159860788><>"
+L 08/18/2021 - 05:19:37: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 05:20:32: Log file closed.
+L 08/18/2021 - 05:21:19: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210818.log") (Version "1.10.0.6510")
+L 08/18/2021 - 05:21:19: [dm_trick.smx]  SUCCESS db_connect()
+L 08/18/2021 - 05:25:23: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 07:50:15: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 08:31:28: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 09:53:42: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 10:07:43: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 10:51:55: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 11:18:30: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 11:36:34: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 14:19:24: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 17:08:13: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 17:23:02: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 18:36:00: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 19:22:27: -------- Mapchange to surf_trick_gxd --------
+L 08/18/2021 - 23:53:24: [basecommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" kicked "yakiness<57><STEAM_1:1:568198462><>" (reason "")
+L 08/18/2021 - 23:54:04: [basevotes.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" initiated a kick vote against "yakiness<63><STEAM_1:1:568198462><>"
+L 08/18/2021 - 23:54:24: [basevotes.smx] Vote failed.
+L 08/18/2021 - 23:57:06: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/18/2021 - 23:57:07: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/18/2021 - 23:57:10: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/18/2021 - 23:57:11: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/18/2021 - 23:57:23: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "Черныш<58><STEAM_1:0:552799651><>" (amount "1.000000")
+L 08/18/2021 - 23:57:24: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/18/2021 - 23:57:29: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "0.500000")
+L 08/18/2021 - 23:57:32: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "4.000000")
+L 08/18/2021 - 23:57:33: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/18/2021 - 23:57:39: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "4.000000")
+L 08/18/2021 - 23:57:41: [funcommands.smx] "surf_lags_x<59><STEAM_1:1:80244186><>" set gravity on "yakiness<63><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/19/2021 - 00:00:34: Log file closed.

@@ -1,0 +1,290 @@
+L 08/22/2021 - 00:18:15: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 00:18:15: [playercommands.smx] "surf_lags_x<47><STEAM_1:1:80244186><>" renamed "Путь в нирвану и бесконечность<45><STEAM_1:1:568198462><>" (to "�")
+L 08/22/2021 - 00:54:51: [basecommands.smx] "Alo?<47><STEAM_1:1:80244186><>" changed cvar (cvar "mp_restartgame") (value "1")
+L 08/22/2021 - 01:18:52: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 01:18:52: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 01:55:05: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 02:09:49: [funcommands.smx] "binds + surfing -> cringe<53><STEAM_1:0:159860788><>" toggled noclip on "binds + surfing -> cringe<53><STEAM_1:0:159860788><>"
+L 08/22/2021 - 02:09:51: [funcommands.smx] "binds + surfing -> cringe<53><STEAM_1:0:159860788><>" toggled noclip on "binds + surfing -> cringe<53><STEAM_1:0:159860788><>"
+L 08/22/2021 - 02:09:53: [funcommands.smx] "binds + surfing -> cringe<53><STEAM_1:0:159860788><>" toggled noclip on "binds + surfing -> cringe<53><STEAM_1:0:159860788><>"
+L 08/22/2021 - 02:09:56: [funcommands.smx] "binds + surfing -> cringe<53><STEAM_1:0:159860788><>" toggled noclip on "binds + surfing -> cringe<53><STEAM_1:0:159860788><>"
+L 08/22/2021 - 02:26:37: Log file closed.
+L 08/22/2021 - 02:27:07: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 02:27:07: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 02:27:57: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 02:32:15: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_skyworld_nf"
+L 08/22/2021 - 02:32:18: [SM] Changed map to "surf_skyworld_nf"
+L 08/22/2021 - 02:32:20: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:33:22: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 02:33:22: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 02:34:28: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 02:34:28: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 02:34:43: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_skyworld_nf"
+L 08/22/2021 - 02:34:46: [SM] Changed map to "surf_skyworld_nf"
+L 08/22/2021 - 02:34:47: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:39:49: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_skywo"
+L 08/22/2021 - 02:39:52: [SM] Changed map to "surf_skywo"
+L 08/22/2021 - 02:39:53: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:40:54: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 08/22/2021 - 02:41:26: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/22/2021 - 02:41:46: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "15")
+L 08/22/2021 - 02:41:48: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "12")
+L 08/22/2021 - 02:42:02: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "14")
+L 08/22/2021 - 02:42:21: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 02:42:24: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 02:44:40: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_skyw"
+L 08/22/2021 - 02:44:43: [SM] Changed map to "surf_skyw"
+L 08/22/2021 - 02:44:44: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:46:44: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 02:46:47: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 02:46:48: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:46:58: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:53:07: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 02:53:07: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 02:53:53: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "0")
+L 08/22/2021 - 02:54:00: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 02:54:03: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 02:54:04: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 02:54:04: [HitReg_Gxd.smx] Found offset for Weapon_ShootPosition 290
+L 08/22/2021 - 02:54:26: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/22/2021 - 02:54:36: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20")
+L 08/22/2021 - 02:54:39: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "14")
+L 08/22/2021 - 02:55:09: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 02:55:10: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 02:55:29: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 02:55:33: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 02:55:54: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "1")
+L 08/22/2021 - 02:55:57: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "0")
+L 08/22/2021 - 02:57:47: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_t") (value "1")
+L 08/22/2021 - 02:57:49: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_ct") (value "1")
+L 08/22/2021 - 02:57:58: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "0")
+L 08/22/2021 - 02:58:10: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "1")
+L 08/22/2021 - 02:58:17: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "0")
+L 08/22/2021 - 02:58:20: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "1")
+L 08/22/2021 - 03:00:06: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_skyw"
+L 08/22/2021 - 03:00:09: [SM] Changed map to "surf_skyw"
+L 08/22/2021 - 03:00:10: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:00:40: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_ct") (value "1")
+L 08/22/2021 - 03:00:42: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_t") (value "1")
+L 08/22/2021 - 03:00:56: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/22/2021 - 03:01:34: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "htf_enable") (value "0")
+L 08/22/2021 - 03:01:41: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_restartgame") (value "1")
+L 08/22/2021 - 03:01:58: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:02:51: Log file closed.
+L 08/22/2021 - 03:03:25: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 03:03:25: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 03:03:52: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:03:55: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:03:56: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:04:24: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/22/2021 - 03:05:00: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:05:02: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:05:03: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:05:24: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:05:57: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:06:00: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:06:01: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:06:01: [HitReg_Gxd.smx] Found offset for Weapon_ShootPosition 290
+L 08/22/2021 - 03:06:15: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:07:41: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:07:44: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:07:45: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:07:57: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:08:54: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:08:57: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:08:58: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:08:59: [HitReg_Gxd.smx] Found offset for Weapon_ShootPosition 290
+L 08/22/2021 - 03:09:10: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:09:54: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:09:57: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:09:58: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:10:09: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:10:13: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "1")
+L 08/22/2021 - 03:10:46: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_ct") (value "1")
+L 08/22/2021 - 03:10:47: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_t") (value "1")
+L 08/22/2021 - 03:11:02: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "13")
+L 08/22/2021 - 03:11:09: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/22/2021 - 03:11:31: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_restartgame") (value "1")
+L 08/22/2021 - 03:12:19: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:12:22: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:12:33: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:12:36: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:12:43: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:12:47: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:12:54: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2]")
+L 08/22/2021 - 03:12:59: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:13:07: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "0")
+L 08/22/2021 - 03:14:13: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:14:16: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:14:26: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:14:29: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:14:34: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "0.2")
+L 08/22/2021 - 03:14:39: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "host_timescale") (value "1")
+L 08/22/2021 - 03:15:35: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_roundtime") (value "2")
+L 08/22/2021 - 03:15:36: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_roundtime") (value "1")
+L 08/22/2021 - 03:15:48: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_ct") (value "0")
+L 08/22/2021 - 03:15:50: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_respawn_on_death_t") (value "0")
+L 08/22/2021 - 03:16:00: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_restartgame") (value "1")
+L 08/22/2021 - 03:16:19: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "htf_type") (value "1")
+L 08/22/2021 - 03:17:27: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_autobunnyhopping") (value "1")
+L 08/22/2021 - 03:21:58: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:22:01: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:22:02: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:23:07: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_freezetime") (value "1")
+L 08/22/2021 - 03:26:47: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_sky"
+L 08/22/2021 - 03:26:50: [SM] Changed map to "surf_sky"
+L 08/22/2021 - 03:26:51: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:28:19: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 03:28:19: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:28:51: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:29:08: Log file closed.
+L 08/22/2021 - 03:30:08: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 03:30:08: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:30:41: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:33:49: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:34:59: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:37:10: Log file closed.
+L 08/22/2021 - 03:41:47: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 03:41:47: -------- Mapchange to surf_skyworld_nf --------
+L 08/22/2021 - 03:42:38: Log file closed.
+L 08/22/2021 - 03:43:14: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 03:43:14: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 03:46:40: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 03:52:14: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 03:52:14: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 03:57:17: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 04:04:19: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 04:40:03: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 05:08:56: Log file closed.
+L 08/22/2021 - 05:13:08: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 05:13:08: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 05:13:22: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 05:29:03: [basecommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/22/2021 - 05:29:06: [SM] Changed map to "surf_trick_gxd"
+L 08/22/2021 - 05:29:08: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 05:29:09: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 05:29:20: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 05:32:23: [basecommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/22/2021 - 05:32:26: [SM] Changed map to "surf_trick_gxd"
+L 08/22/2021 - 05:32:29: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 05:43:18: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:18: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:18: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:18: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:19: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:19: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:19: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:19: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:19: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:20: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:20: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:20: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:20: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:21: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:21: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:21: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:21: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:21: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:22: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:23: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "haise<3><STEAM_1:1:615045981><>" (damage "5")
+L 08/22/2021 - 05:43:33: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" drugged "haise<3><STEAM_1:1:615045981><>"
+L 08/22/2021 - 05:43:44: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" renamed "haise<3><STEAM_1:1:615045981><>" (to "seeih")
+L 08/22/2021 - 05:43:48: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "seeih<3><STEAM_1:1:615045981><>" (damage "0")
+L 08/22/2021 - 05:43:50: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "Daniel<2><STEAM_1:1:208097453><>" (damage "0")
+L 08/22/2021 - 05:43:51: [playercommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" slapped "seeih<3><STEAM_1:1:615045981><>" (damage "0")
+L 08/22/2021 - 05:44:16: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" undrugged "seeih<3><STEAM_1:1:615045981><>"
+L 08/22/2021 - 05:44:59: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 05:45:01: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 05:45:03: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 05:45:03: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 05:45:03: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 05:45:03: [funcommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" ignited "seeih<3><STEAM_1:1:615045981><>" (seconds "20.000000")
+L 08/22/2021 - 06:56:32: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 07:02:05: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" slayed "binds + surfing -> cringe<6><STEAM_1:0:159860788><>"
+L 08/22/2021 - 07:02:15: [funcommands.smx] "Alo?<8><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<6><STEAM_1:0:159860788><>" (amount "4.000000")
+L 08/22/2021 - 07:02:17: [funcommands.smx] "Alo?<8><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<6><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/22/2021 - 07:02:26: [funcommands.smx] "Alo?<8><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<6><STEAM_1:0:159860788><>" (amount "4.000000")
+L 08/22/2021 - 07:02:27: [funcommands.smx] "Alo?<8><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<6><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/22/2021 - 07:07:57: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" slayed "binds + surfing -> cringe<6><STEAM_1:0:159860788><>"
+L 08/22/2021 - 07:14:35: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" renamed "ᴇᴠʌı<9><STEAM_1:0:108778791><>" (to "ᴇᴠʌı[new]")
+L 08/22/2021 - 07:14:49: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" renamed "ᴇᴠʌı[new]<9><STEAM_1:0:108778791><>" (to "ᴇᴠʌı[nubi]")
+L 08/22/2021 - 07:40:30: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" slayed "binds + surfing -> cringe<6><STEAM_1:0:159860788><>"
+L 08/22/2021 - 07:40:31: [playercommands.smx] "Alo?<8><STEAM_1:1:80244186><>" slayed "Witch<7><STEAM_1:0:39533277><>"
+L 08/22/2021 - 08:02:09: [basecommands.smx] "Alo?<8><STEAM_1:1:80244186><>" kicked "binds + surfing -> cringe<6><STEAM_1:0:159860788><>" (reason "")
+L 08/22/2021 - 08:02:15: [basecommands.smx] "Alo?<8><STEAM_1:1:80244186><>" kicked "Alo?<8><STEAM_1:1:80244186><>" (reason "")
+L 08/22/2021 - 08:32:41: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 08/22/2021 - 08:32:47: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "150")
+L 08/22/2021 - 08:33:07: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "dm_time") (value "1")
+L 08/22/2021 - 08:33:13: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "sp_time") (value "1")
+L 08/22/2021 - 08:33:26: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 08/22/2021 - 08:33:46: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "10000")
+L 08/22/2021 - 08:33:53: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 08/22/2021 - 08:34:34: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "10")
+L 08/22/2021 - 08:34:47: [basecommands.smx] "ᴇᴠʌı[nubi]<9><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "24")
+L 08/22/2021 - 11:33:44: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 12:36:19: Log file closed.
+L 08/22/2021 - 15:58:35: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 15:58:35: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 13:00:57: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 13:01:18: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 13:01:18: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 13:05:12: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 15:15:13: [basebans.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" banned "8===============><21><STEAM_1:1:1146082><>" (minutes "0") (reason "Racism")
+L 08/22/2021 - 15:15:22: [basebans.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:1146082")
+L 08/22/2021 - 15:17:35: [basebans.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:1146082")
+L 08/22/2021 - 15:52:37: [basevotes.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" initiated a ban vote against "slakm47<27><STEAM_1:0:463282357><>"
+L 08/22/2021 - 15:52:58: [basevotes.smx] Vote ban successful, banned "slakm47<27><STEAM_1:0:463282357><>" (minutes "30") (reason "Votebanned")
+L 08/22/2021 - 15:53:12: [basebans.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:463282357")
+L 08/22/2021 - 15:59:50: [basecommands.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/22/2021 - 15:59:53: [SM] Changed map to "surf_trick_gxd"
+L 08/22/2021 - 15:59:54: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 16:03:42: [basevotes.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" initiated a ban vote against "sheeeeeeeeesh....<28><STEAM_1:1:601584629><>"
+L 08/22/2021 - 16:04:01: [basevotes.smx] Vote ban successful, banned "sheeeeeeeeesh....<28><STEAM_1:1:601584629><>" (minutes "30") (reason "Votebanned")
+L 08/22/2021 - 16:04:03: [basebans.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:601584629")
+L 08/22/2021 - 19:26:54: Log file closed.
+L 08/22/2021 - 19:27:12: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 19:27:12: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 19:28:27: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:29:19: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:30:00: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 19:30:00: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 19:34:33: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:35:23: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:51:20: Log file closed.
+L 08/22/2021 - 19:51:41: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 19:51:41: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:52:05: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:55:45: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/22/2021 - 19:55:48: [SM] Changed map to "surf_trick_gxd"
+L 08/22/2021 - 19:55:49: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:55:49: [dm_trick.smx]  SUCCESS db_connect()
+L 08/22/2021 - 19:55:56: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 19:56:03: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 20:00:25: -------- Mapchange to surf_trick_gxd --------
+L 08/22/2021 - 20:48:06: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "36")
+L 08/22/2021 - 20:55:37: [basecommands.smx] "Alo?<16><STEAM_1:1:80244186><>" kicked "!! Denis<15><STEAM_1:0:121278263><>" (reason "")
+L 08/22/2021 - 20:55:56: [basevotes.smx] "Alo?<16><STEAM_1:1:80244186><>" initiated a kick vote against "!! Denis<26><STEAM_1:0:121278263><>"
+L 08/22/2021 - 20:56:17: [basevotes.smx] Vote kick successful, kicked "!! Denis<26><STEAM_1:0:121278263><>" (reason ""Site?"")
+L 08/22/2021 - 20:58:40: [basecommands.smx] "Alo?<16><STEAM_1:1:80244186><>" kicked "Lelush<19><STEAM_1:1:540413981><>" (reason "Racism")
+L 08/22/2021 - 20:58:51: [basebans.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:540413981")
+L 08/22/2021 - 20:59:42: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "360")
+L 08/22/2021 - 20:59:52: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "150")
+L 08/22/2021 - 21:00:14: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "dm_time") (value "1")
+L 08/22/2021 - 21:00:42: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "1500")
+L 08/22/2021 - 21:00:56: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 08/22/2021 - 21:02:02: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "15")
+L 08/22/2021 - 21:02:04: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "16")
+L 08/22/2021 - 21:02:53: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "24")
+L 08/22/2021 - 21:04:32: [basecommands.smx] "ᴇᴠʌı<22><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "30")
+L 08/22/2021 - 21:10:20: [basevotes.smx] "Alo?<16><STEAM_1:1:80244186><>" initiated a ban vote against "ᴇᴠʌı<22><STEAM_1:0:108778791><>"
+L 08/22/2021 - 21:10:41: [basevotes.smx] Vote ban successful, banned "ᴇᴠʌı<22><STEAM_1:0:108778791><>" (minutes "30") (reason "Votebanned")
+L 08/22/2021 - 21:11:04: [basebans.smx] "Console<0><Console><Console>" removed ban (filter "STEAM_1:0:108778791")
+L 08/22/2021 - 21:40:47: [basebans.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" banned "loli<18><STEAM_1:1:567743198><>" (minutes "0") (reason "Racism")
+L 08/22/2021 - 21:41:01: [basebans.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:567743198")
+L 08/22/2021 - 21:50:12: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "scurlex.<17><STEAM_1:0:620197564><>"
+L 08/22/2021 - 21:50:29: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "scurlex.<17><STEAM_1:0:620197564><>"
+L 08/22/2021 - 21:50:38: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "8===============><6><STEAM_1:1:1146082><>"
+L 08/22/2021 - 21:50:40: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "8===============><6><STEAM_1:1:1146082><>"
+L 08/22/2021 - 21:51:03: [basebans.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" banned "8===============><6><STEAM_1:1:1146082><>" (minutes "30") (reason "[SM] Введите в чате причину бана или sm_abortban чтобы отменить бан")
+L 08/22/2021 - 21:51:33: [basebans.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:1146082")
+L 08/23/2021 - 00:26:35: Log file closed.

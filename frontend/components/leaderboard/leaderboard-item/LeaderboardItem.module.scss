@@ -1,0 +1,135 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  &Inner {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  > :hover {
+    background-color: var(--color-background-content);
+    border-radius: 5px;
+
+    .item {
+      &Data {
+        :first-child {
+          opacity: 1;
+          transform: translateX(0px);
+
+          transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+      }
+    }
+  }
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+  padding: 5px;
+
+  @include tablet {
+    font-size: 0.7rem;
+    padding: 3px;
+  }
+
+  @include mobile {
+    font-size: 0.38rem;
+    padding: 1px;
+  }
+
+  &Ind {
+    width: 5%;
+    min-width: 15px;
+    max-width: 35px;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-sub-text);
+
+    &.My {
+      color: var(--color-highlight);
+      transform: scale(1.4);
+    }
+  }
+
+  &Player {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 35%;
+    color: var(--color-trick-name);
+    gap: 5px;
+
+    cursor: pointer;
+
+    overflow: hidden;
+
+    @include mobile {
+      width: 25%;
+    }
+  }
+
+  &Avg {
+    width: 15%;
+    align-items: center;
+    color: var(--color-point);
+  }
+
+  &Pc {
+    width: 15%;
+    align-items: center;
+
+    color: var(--color-percent-completes);
+  }
+
+  &Data {
+    width: 10%;
+    align-items: flex-end;
+    color: var(--color-sub-text);
+    justify-content: flex-end;
+
+    :first-child {
+      opacity: 0;
+      transform: translateX(-10px);
+      padding-right: 5px;
+      color: var(--color-highlight);
+      font-size: 0.8rem;
+      font-weight: 700;
+
+      transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+
+      @include tablet {
+        font-size: 0.6rem;
+        padding-right: 3px;
+      }
+
+      @include mobile {
+        font-size: 0.4rem;
+        padding-right: 1px;
+      }
+    }
+
+    @include mobile {
+      width: 10%;
+    }
+  }
+}
+
+.info {
+  padding-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 2px;
+  border-top: 1px solid var(--color-border);
+}

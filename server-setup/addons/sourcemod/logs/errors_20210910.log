@@ -1,0 +1,304 @@
+L 09/10/2021 - 00:24:49: SourceMod error session started
+L 09/10/2021 - 00:24:49: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 00:24:49: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 00:24:49: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 00:24:49: [SM] Call stack trace:
+L 09/10/2021 - 00:24:49: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 00:24:49: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/10/2021 - 00:52:50: Error log file session closed.
+L 09/10/2021 - 00:52:51: SourceMod error session started
+L 09/10/2021 - 00:52:51: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 00:52:51: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 00:52:51: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 00:52:51: [SM] Call stack trace:
+L 09/10/2021 - 00:52:51: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 00:52:51: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/10/2021 - 00:54:44: Error log file session closed.
+L 09/10/2021 - 11:29:15: SourceMod error session started
+L 09/10/2021 - 11:29:15: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 11:29:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 11:29:15: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 11:29:15: [SM] Call stack trace:
+L 09/10/2021 - 11:29:15: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 11:29:15: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 11:49:47: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 11:49:47: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 11:49:47: [SM] Call stack trace:
+L 09/10/2021 - 11:49:47: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 11:49:47: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/10/2021 - 12:55:52: Error log file session closed.
+L 09/10/2021 - 15:27:00: SourceMod error session started
+L 09/10/2021 - 15:27:00: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 15:27:00: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 15:27:00: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 15:27:00: [SM] Call stack trace:
+L 09/10/2021 - 15:27:00: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 15:27:00: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 16:27:44: Error log file session closed.
+L 09/10/2021 - 16:27:45: SourceMod error session started
+L 09/10/2021 - 16:27:45: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 16:27:45: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 16:27:45: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 16:27:45: [SM] Call stack trace:
+L 09/10/2021 - 16:27:45: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 16:27:45: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/10/2021 - 16:28:13: Error log file session closed.
+L 09/10/2021 - 16:55:55: SourceMod error session started
+L 09/10/2021 - 16:55:55: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 16:55:55: [SM] Exception reported: Client index 798 is invalid
+L 09/10/2021 - 16:55:55: [SM] Blaming: sm_hide.smx
+L 09/10/2021 - 16:55:55: [SM] Call stack trace:
+L 09/10/2021 - 16:55:55: [SM]   [0] GetClientTeam
+L 09/10/2021 - 16:55:55: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/10/2021 - 17:13:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 17:13:57: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 17:13:57: [SM] Call stack trace:
+L 09/10/2021 - 17:13:57: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 17:13:57: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 17:35:04: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 17:35:04: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 17:35:04: [SM] Call stack trace:
+L 09/10/2021 - 17:35:04: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 17:35:04: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 17:35:04: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 17:35:04: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 17:35:04: [SM] Call stack trace:
+L 09/10/2021 - 17:35:04: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 17:35:04: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 09/10/2021 - 17:45:54: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 17:45:54: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 17:45:54: [SM] Call stack trace:
+L 09/10/2021 - 17:45:54: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 17:45:54: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 17:45:54: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 17:45:54: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 17:45:54: [SM] Call stack trace:
+L 09/10/2021 - 17:45:54: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 17:45:54: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 09/10/2021 - 18:02:36: SourceMod error session started
+L 09/10/2021 - 18:02:36: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 18:02:36: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/10/2021 - 18:02:36: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:02:36: [SM] Call stack trace:
+L 09/10/2021 - 18:02:36: [SM]   [0] ArrayList.GetString
+L 09/10/2021 - 18:02:36: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/10/2021 - 18:02:36: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/10/2021 - 18:04:36: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/10/2021 - 18:04:36: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:04:36: [SM] Call stack trace:
+L 09/10/2021 - 18:04:36: [SM]   [0] ArrayList.GetString
+L 09/10/2021 - 18:04:36: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/10/2021 - 18:04:36: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/10/2021 - 18:05:40: [SM] Exception reported: Invalid Handle 0 (error: 4)
+L 09/10/2021 - 18:05:40: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:05:40: [SM] Call stack trace:
+L 09/10/2021 - 18:05:40: [SM]   [0] ArrayList.Length.get
+L 09/10/2021 - 18:05:40: [SM]   [1] Line 266, include/utils.sp::save_speed_time_during_trick
+L 09/10/2021 - 18:05:40: [SM]   [2] Line 152, include/trick_assistant.sp::select_trick_touch_callback
+L 09/10/2021 - 18:05:41: [SM] Exception reported: Invalid Handle 0 (error: 4)
+L 09/10/2021 - 18:05:41: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:05:41: [SM] Call stack trace:
+L 09/10/2021 - 18:05:41: [SM]   [0] ArrayList.SetArray
+L 09/10/2021 - 18:05:41: [SM]   [1] Line 168, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 18:05:42: [SM] Exception reported: Invalid Handle 0 (error: 4)
+L 09/10/2021 - 18:05:42: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:05:42: [SM] Call stack trace:
+L 09/10/2021 - 18:05:42: [SM]   [0] ArrayList.SetArray
+L 09/10/2021 - 18:05:42: [SM]   [1] Line 168, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 18:13:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 18:13:17: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:13:17: [SM] Call stack trace:
+L 09/10/2021 - 18:13:17: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 18:13:17: [SM]   [1] Line 21, include/achievements.sp::achievements_alert_callback
+L 09/10/2021 - 18:20:39: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 18:20:39: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:20:39: [SM] Call stack trace:
+L 09/10/2021 - 18:20:39: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 18:20:39: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 18:25:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 18:25:23: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:25:23: [SM] Call stack trace:
+L 09/10/2021 - 18:25:23: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 18:25:23: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 18:25:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 18:25:23: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 18:25:23: [SM] Call stack trace:
+L 09/10/2021 - 18:25:23: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 18:25:23: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 09/10/2021 - 19:15:35: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:35: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:35: [SM] Call stack trace:
+L 09/10/2021 - 19:15:35: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:36: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:36: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:36: [SM] Call stack trace:
+L 09/10/2021 - 19:15:36: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:37: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:37: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:37: [SM] Call stack trace:
+L 09/10/2021 - 19:15:37: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:38: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:38: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:38: [SM] Call stack trace:
+L 09/10/2021 - 19:15:38: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:39: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:39: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:39: [SM] Call stack trace:
+L 09/10/2021 - 19:15:39: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:40: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:40: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:40: [SM] Call stack trace:
+L 09/10/2021 - 19:15:40: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:41: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:41: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:41: [SM] Call stack trace:
+L 09/10/2021 - 19:15:41: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:42: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:42: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:42: [SM] Call stack trace:
+L 09/10/2021 - 19:15:42: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:43: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:43: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:43: [SM] Call stack trace:
+L 09/10/2021 - 19:15:43: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:44: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:44: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:44: [SM] Call stack trace:
+L 09/10/2021 - 19:15:44: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:45: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:45: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:45: [SM] Call stack trace:
+L 09/10/2021 - 19:15:45: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:46: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:46: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:46: [SM] Call stack trace:
+L 09/10/2021 - 19:15:46: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:47: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:47: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:47: [SM] Call stack trace:
+L 09/10/2021 - 19:15:47: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:48: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:48: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:48: [SM] Call stack trace:
+L 09/10/2021 - 19:15:48: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:49: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:49: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:49: [SM] Call stack trace:
+L 09/10/2021 - 19:15:49: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:50: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:50: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:50: [SM] Call stack trace:
+L 09/10/2021 - 19:15:50: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:51: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:51: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:51: [SM] Call stack trace:
+L 09/10/2021 - 19:15:51: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:52: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:52: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:52: [SM] Call stack trace:
+L 09/10/2021 - 19:15:52: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:53: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:53: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:53: [SM] Call stack trace:
+L 09/10/2021 - 19:15:53: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:54: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:54: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:54: [SM] Call stack trace:
+L 09/10/2021 - 19:15:54: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:54: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:15:55: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 19:15:55: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 19:15:55: [SM] Call stack trace:
+L 09/10/2021 - 19:15:55: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 19:15:55: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 19:59:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 19:59:17: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 19:59:17: [SM] Call stack trace:
+L 09/10/2021 - 19:59:17: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 19:59:17: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/10/2021 - 19:59:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 19:59:17: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 19:59:17: [SM] Call stack trace:
+L 09/10/2021 - 19:59:17: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 19:59:17: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 09/10/2021 - 21:07:08: Error log file session closed.
+L 09/10/2021 - 21:59:45: SourceMod error session started
+L 09/10/2021 - 21:59:45: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 21:59:45: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:45: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:45: [SM] Call stack trace:
+L 09/10/2021 - 21:59:45: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 21:59:46: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:46: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:46: [SM] Call stack trace:
+L 09/10/2021 - 21:59:46: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 21:59:47: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:47: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:47: [SM] Call stack trace:
+L 09/10/2021 - 21:59:47: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 21:59:48: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:48: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:48: [SM] Call stack trace:
+L 09/10/2021 - 21:59:48: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 21:59:49: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:49: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:49: [SM] Call stack trace:
+L 09/10/2021 - 21:59:49: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 21:59:50: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 21:59:50: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 21:59:50: [SM] Call stack trace:
+L 09/10/2021 - 21:59:50: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 21:59:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 22:09:02: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 22:09:02: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 22:09:02: [SM] Call stack trace:
+L 09/10/2021 - 22:09:02: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 22:09:02: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 22:09:03: [SM] Exception reported: Client index 0 is invalid
+L 09/10/2021 - 22:09:03: [SM] Blaming: HitReg_Gxd.smx
+L 09/10/2021 - 22:09:03: [SM] Call stack trace:
+L 09/10/2021 - 22:09:03: [SM]   [0] GetClientWeapon
+L 09/10/2021 - 22:09:03: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/10/2021 - 22:41:56: Error log file session closed.
+L 09/10/2021 - 22:41:58: SourceMod error session started
+L 09/10/2021 - 22:41:58: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210910.log")
+L 09/10/2021 - 22:41:58: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 22:41:58: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 22:41:58: [SM] Call stack trace:
+L 09/10/2021 - 22:41:58: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 22:41:58: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/10/2021 - 22:48:27: [SM] Exception reported: Client 2 is not in game
+L 09/10/2021 - 22:48:27: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 22:48:27: [SM] Call stack trace:
+L 09/10/2021 - 22:48:27: [SM]   [0] IsPlayerAlive
+L 09/10/2021 - 22:48:27: [SM]   [1] Line 36, include/saveloc.sp::cmd_teleport
+L 09/10/2021 - 23:49:00: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/10/2021 - 23:49:00: [SM] Blaming: dm_trick.smx
+L 09/10/2021 - 23:49:00: [SM] Call stack trace:
+L 09/10/2021 - 23:49:00: [SM]   [0] DBResultSet.HasResults.get
+L 09/10/2021 - 23:49:00: [SM]   [1] Line 139, include/saveloc.sp::load_loc_cl_data_callback
+L 09/11/2021 - 00:46:05: Error log file session closed.

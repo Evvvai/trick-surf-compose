@@ -1,0 +1,289 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Maps {
+  id: Int!
+  name: String!
+  alternativeName: String
+  src: String
+  dateCreated: DateTime!
+}
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+type SuggestedTricksRates {
+  id: Int!
+  trickId: Int!
+  playerId: Int!
+  rate: Rate!
+  dateAdd: DateTime!
+}
+
+enum Rate {
+  up
+  down
+}
+
+type SuggestedTricks {
+  id: Int!
+  name: String!
+  point: Int!
+  velocity: Int!
+  dateAdd: DateTime!
+  dateModify: DateTime!
+  status: Status!
+  authorId: Int!
+  mapId: Int!
+  route: [Triggers!]!
+  author: Players!
+  rates: SuggestedTrickRate!
+}
+
+enum Status {
+  pending
+  accepted
+  declined
+}
+
+type Triggers {
+  id: Int!
+  name: String
+  alternativeName: String
+  src: String
+  x: Int
+  y: Int
+  z: Int
+  mapId: Int!
+}
+
+type Tricks {
+  id: Int!
+  name: String!
+  point: Int!
+  velocity: Int!
+  dateAdd: DateTime!
+  authorId: Int!
+  mapId: Int!
+  route: [Triggers!]!
+  author: Players!
+}
+
+type Players {
+  id: Int!
+  steamid: String!
+  steamid64: String!
+  nick: String!
+  profileurl: String
+  avatarfull: String
+  avatarCustom: String
+  dashboard: String
+  dateJoined: DateTime!
+  lastLoginSite: DateTime
+  lastLoginServer: DateTime
+  role: String
+}
+
+type LeaderboardCached {
+  id: Int!
+  playerId: Int!
+  steamid64: String!
+  nick: String!
+  acPlace: Int!
+  ac: Int!
+  apPlace: Int!
+  ap: Int!
+  upPlace: Int!
+  up: Int!
+  ucPlace: Int!
+  uc: Int!
+  avg: String!
+  place: Int!
+  completesPercent: Float!
+  mapId: Int!
+  player: Players!
+}
+
+type TricksStats {
+  index: Int!
+  id: Int!
+  name: String!
+  point: Int!
+  velocity: Int!
+  dateAdd: DateTime!
+  routeIds: String!
+  len: Int
+  authorSteamid: String
+  completes: Int
+  myCompletes: Int
+  route: [Triggers!]!
+  author: Players!
+}
+
+type PlayersStats {
+  acPlace: Int
+  ac: Int!
+  apPlace: Int
+  ap: Int!
+  upPlace: Int
+  up: Int!
+  ucPlace: Int
+  uc: Int!
+  avg: Float!
+  place: Int!
+  completesPercent: Float
+  tricksPoints: Int
+  tricksCounts: Int
+  twrCounts: Int
+  swrCounts: Int
+  tricksCreated: Int
+}
+
+type SuggestedTrickRate {
+  up: Int!
+  down: Int!
+}
+
+type PlayerToken {
+  token: String!
+  player: Players!
+}
+
+type Leaderboard {
+  playerId: Int!
+  steamid64: String!
+  nick: String!
+  acPlace: String
+  ac: Int!
+  apPlace: Int
+  ap: Int!
+  upPlace: Int
+  up: Int!
+  ucPlace: Int
+  uc: Int!
+  avg: String!
+  place: Int!
+  completesPercent: String
+  player: Players!
+}
+
+type WR {
+  id: Int!
+  playerId: Int!
+  trickId: Int!
+  speed: Int!
+  time: Float!
+  dateAdd: DateTime!
+  player: Players!
+}
+
+type WRNotify {
+  id: Int!
+}
+
+type Query {
+  maps: [Maps!]!
+  map(id: Float!): Maps!
+  players: [Players!]!
+  playersBySteamids(steamids64: [String!]!): [Players!]
+  playerStats(mapId: Int!, steamid64: String!): PlayersStats!
+  findOneBySteamid64(steamid64: String!): Players!
+  leaderboard(input: LeaderboardInput!): [Leaderboard!]
+  leaderboardCached(input: LeaderboardInput!): [LeaderboardCached!]!
+  triggers(input: TriggersInput!): [Triggers!]!
+  trigger(id: Int!, input: TriggersInput!): Triggers!
+  tricks(input: TricksInput!): [Tricks!]!
+  trick(id: Int!, input: TricksInput!): Tricks!
+  getTrickByName(id: String!): Tricks!
+  tricksStats(input: TricksStatsInput!): [TricksStats!]!
+  suggestedTricks(input: SuggestedTricksInput!): [SuggestedTricks!]!
+  playerRate(ids: [Int!]!): [SuggestedTricksRates!]
+  swr(trickId: Int!): WR!
+  twr(trickId: Int!): WR!
+  swrNotifyNone(steamid64: String!): WRNotify!
+  twrNotifyNone(steamid64: String!): WRNotify!
+}
+
+input LeaderboardInput {
+  """Map id"""
+  mapId: Int!
+
+  """Limit"""
+  limit: Int
+
+  """Offset"""
+  offset: Int
+}
+
+input TriggersInput {
+  """Map id"""
+  mapId: Int!
+}
+
+input TricksInput {
+  """Map id"""
+  mapId: Int!
+}
+
+input TricksStatsInput {
+  """Map id"""
+  mapId: Int!
+
+  """User steamd"""
+  steamid: String
+}
+
+input SuggestedTricksInput {
+  """Map id"""
+  mapId: Int!
+
+  """Limit"""
+  limit: Int
+
+  """Offset"""
+  offset: Int
+}
+
+type Mutation {
+  setAvatar(url: String!): Players!
+  setDashboard(url: String!): Players!
+  playerNewFriends: [Players!]!
+  auth: PlayerToken!
+  updateTrigger(input: TriggersUpdateInput!): Triggers!
+  updatePhoto(id: Float!, url: String!): Triggers!
+  sendTrick(input: SendTrickInput!): SuggestedTricks!
+  acceptTrick(id: Int!): SuggestedTricks!
+  declineTrick(id: Int!): SuggestedTricks!
+  rateTrick(trickId: Int!, rate: Rate!): SuggestedTricksRates!
+}
+
+input TriggersUpdateInput {
+  src: String!
+  name: String!
+  id: Int!
+}
+
+input SendTrickInput {
+  """Name trick"""
+  name: String!
+
+  """Points for trick"""
+  point: Int!
+
+  """Velocity prestrafe /u nlimited"""
+  velocity: Int!
+
+  """
+  Route for trick "trigger_id,trigger_id"
+  """
+  route: String!
+
+  """Author id"""
+  authorId: Int!
+
+  """Map id"""
+  mapId: Int!
+}

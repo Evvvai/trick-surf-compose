@@ -1,0 +1,372 @@
+L 08/07/2021 - 00:17:00: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:17:00: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:28:45: Log file closed.
+L 08/07/2021 - 00:29:27: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:29:27: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:36:33: Log file closed.
+L 08/07/2021 - 00:39:10: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:39:10: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:39:34: Log file closed.
+L 08/07/2021 - 00:40:24: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:40:24: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:41:50: Log file closed.
+L 08/07/2021 - 00:43:20: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:43:20: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:44:39: Log file closed.
+L 08/07/2021 - 00:45:30: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:45:30: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:47:43: Log file closed.
+L 08/07/2021 - 00:48:34: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:48:34: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 00:53:55: Log file closed.
+L 08/07/2021 - 00:59:27: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 00:59:27: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 00:59:51: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 01:03:42: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_accelerate") (value "10")
+L 08/07/2021 - 01:04:00: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "10")
+L 08/07/2021 - 01:04:03: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "0")
+L 08/07/2021 - 01:04:05: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "5")
+L 08/07/2021 - 01:04:13: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/07/2021 - 01:04:29: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "3.5")
+L 08/07/2021 - 01:04:44: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4.7")
+L 08/07/2021 - 01:04:49: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4.5")
+L 08/07/2021 - 01:04:53: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4.2")
+L 08/07/2021 - 01:05:01: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/07/2021 - 01:05:46: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "3.9")
+L 08/07/2021 - 01:07:54: Log file closed.
+L 08/07/2021 - 01:08:19: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:08:19: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:11:20: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 01:38:03: Log file closed.
+L 08/07/2021 - 01:38:24: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:38:24: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:40:27: Log file closed.
+L 08/07/2021 - 01:40:48: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:40:48: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:42:51: Log file closed.
+L 08/07/2021 - 01:43:15: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:43:15: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:43:27: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 01:50:43: Log file closed.
+L 08/07/2021 - 01:51:18: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:51:18: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:56:32: Log file closed.
+L 08/07/2021 - 01:56:52: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 01:56:52: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 01:58:35: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 02:01:39: Log file closed.
+L 08/07/2021 - 02:02:03: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 02:02:03: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 02:02:14: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 02:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "102")
+L 08/07/2021 - 02:09:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "102")
+L 08/07/2021 - 02:09:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "102")
+L 08/07/2021 - 02:12:12: Log file closed.
+L 08/07/2021 - 02:12:31: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 02:12:31: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 02:12:40: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 02:54:08: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 03:04:03: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 03:10:09: Log file closed.
+L 08/07/2021 - 03:10:30: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 03:10:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 03:12:43: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 03:14:46: Log file closed.
+L 08/07/2021 - 03:15:09: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 03:15:09: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 03:20:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 03:20:54: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 03:26:58: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 04:31:47: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 04:32:00: Log file closed.
+L 08/07/2021 - 04:32:21: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 04:32:21: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 04:32:57: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 04:35:42: Log file closed.
+L 08/07/2021 - 04:36:02: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 04:36:02: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 04:36:39: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 04:39:20: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/07/2021 - 05:02:35: Log file closed.
+L 08/07/2021 - 05:02:56: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 05:02:56: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:03:39: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:09:18: Log file closed.
+L 08/07/2021 - 05:09:37: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 05:09:37: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:09:49: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:11:37: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 05:11:40: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 05:11:43: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:11:43: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:27:30: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 05:27:33: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 05:27:36: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:27:36: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:28:36: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 05:28:39: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 05:28:42: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:28:42: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:31:04: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 05:31:07: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 05:31:10: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:31:10: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:32:25: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 05:32:28: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 05:32:30: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:32:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:36:00: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_sg"
+L 08/07/2021 - 05:36:03: [SM] Changed map to "surf_trick_sg"
+L 08/07/2021 - 05:36:06: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 05:36:43: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 05:49:29: Log file closed.
+L 08/07/2021 - 05:49:50: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 05:49:50: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:50:01: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 05:50:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 08/07/2021 - 05:50:35: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_sg"
+L 08/07/2021 - 05:50:38: [SM] Changed map to "surf_trick_sg"
+L 08/07/2021 - 05:50:40: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 05:50:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "64")
+L 08/07/2021 - 05:51:30: Log file closed.
+L 08/07/2021 - 05:51:49: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 05:51:49: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:52:01: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 05:52:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "256")
+L 08/07/2021 - 05:53:30: Log file closed.
+L 08/07/2021 - 05:53:52: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 05:53:52: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 05:54:20: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 05:54:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 06:12:51: Log file closed.
+L 08/07/2021 - 06:13:11: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 06:13:11: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 07:37:28: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 07:37:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 07:39:51: Log file closed.
+L 08/07/2021 - 07:40:13: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 07:40:13: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 07:40:23: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 07:40:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 07:42:18: Log file closed.
+L 08/07/2021 - 07:42:39: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 07:42:39: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 07:44:00: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 07:44:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 07:52:13: Log file closed.
+L 08/07/2021 - 07:52:34: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 07:52:34: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 07:55:58: Log file closed.
+L 08/07/2021 - 07:56:20: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 07:56:20: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 07:57:19: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 07:57:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 08:20:45: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 08:20:48: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 08:20:51: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 08:20:51: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 08:20:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 08:25:01: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 08:25:04: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 08:25:07: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 08:25:07: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 08:25:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 08:29:08: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 08:29:11: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 08:29:14: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 08:29:14: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 08:29:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 08:42:54: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 08:42:57: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 08:43:00: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 08:43:01: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 08:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 08:59:04: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 08:59:07: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 08:59:10: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 08:59:10: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 08:59:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:02:39: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:02:42: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:02:45: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:02:45: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 09:02:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:07:16: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:07:19: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:07:22: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:07:22: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 09:07:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:13:16: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:13:19: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:13:23: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:13:23: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 09:13:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:14:26: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:14:29: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:14:31: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:14:31: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 09:14:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:15:56: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:15:59: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:16:02: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:16:02: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 09:16:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:52:41: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 09:52:44: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 09:52:47: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 09:52:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 09:56:11: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 08/07/2021 - 10:53:07: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 10:53:10: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 10:53:13: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 10:53:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 10:59:22: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 10:59:25: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 10:59:28: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 10:59:28: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 10:59:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 11:04:40: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 11:04:43: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 11:04:46: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 11:04:46: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 11:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 11:05:50: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Oliver<14><BOT><>" (reason "")
+L 08/07/2021 - 11:05:52: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Larry<15><BOT><>" (reason "")
+L 08/07/2021 - 11:05:54: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yuri<16><BOT><>" (reason "")
+L 08/07/2021 - 11:05:54: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yanni<17><BOT><>" (reason "")
+L 08/07/2021 - 11:05:54: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ferris<18><BOT><>" (reason "")
+L 08/07/2021 - 11:05:54: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ulric<19><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yuri<20><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Uri<21><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Eugene<22><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Graham<23><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ulysses<24><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yuri<25><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Larry<26><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Fred<27><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Harvey<28><BOT><>" (reason "")
+L 08/07/2021 - 11:05:55: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Walt<29><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Harvey<30><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Frasier<31><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Niles<32><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ryan<33><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Eugene<34><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Irwin<35><BOT><>" (reason "")
+L 08/07/2021 - 11:05:56: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Niles<36><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Wesley<37><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Wally<38><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Fergus<39><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yogi<40><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Niles<41><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Irwin<42><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "George<43><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Elmer<44><BOT><>" (reason "")
+L 08/07/2021 - 11:05:57: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ryan<45><BOT><>" (reason "")
+L 08/07/2021 - 11:05:58: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Elliot<46><BOT><>" (reason "")
+L 08/07/2021 - 11:06:00: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Lester<47><BOT><>" (reason "")
+L 08/07/2021 - 11:06:00: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ferris<48><BOT><>" (reason "")
+L 08/07/2021 - 11:06:01: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "George<49><BOT><>" (reason "")
+L 08/07/2021 - 11:06:01: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Neil<50><BOT><>" (reason "")
+L 08/07/2021 - 11:06:01: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Elliot<51><BOT><>" (reason "")
+L 08/07/2021 - 11:06:01: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Clarence<52><BOT><>" (reason "")
+L 08/07/2021 - 11:06:02: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Waldo<53><BOT><>" (reason "")
+L 08/07/2021 - 11:06:02: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Oliver<54><BOT><>" (reason "")
+L 08/07/2021 - 11:06:04: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Marvin<55><BOT><>" (reason "")
+L 08/07/2021 - 11:06:04: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Opie<56><BOT><>" (reason "")
+L 08/07/2021 - 11:06:05: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ferris<57><BOT><>" (reason "")
+L 08/07/2021 - 11:06:05: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Clarence<58><BOT><>" (reason "")
+L 08/07/2021 - 11:06:05: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Niles<59><BOT><>" (reason "")
+L 08/07/2021 - 11:06:05: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Allen<60><BOT><>" (reason "")
+L 08/07/2021 - 11:06:14: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Frank<61><BOT><>" (reason "")
+L 08/07/2021 - 11:06:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Marvin<63><BOT><>" (reason "")
+L 08/07/2021 - 11:06:24: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Walt<62><BOT><>" (reason "")
+L 08/07/2021 - 11:06:26: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ferris<64><BOT><>" (reason "")
+L 08/07/2021 - 11:06:29: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ernie<65><BOT><>" (reason "")
+L 08/07/2021 - 11:06:30: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Neil<66><BOT><>" (reason "")
+L 08/07/2021 - 11:06:43: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "Oliver<67><BOT><>" (to "livOrl")
+L 08/07/2021 - 11:06:48: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "Wesley<68><BOT><>" (to "lsWses")
+L 08/07/2021 - 11:06:49: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "lsWses<68><BOT><>" (to "sseWse")
+L 08/07/2021 - 11:06:50: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "sseWse<68><BOT><>" (to "ssssse")
+L 08/07/2021 - 11:06:51: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "ssssse<68><BOT><>" (to "sessee")
+L 08/07/2021 - 11:06:52: [playercommands.smx] "LYTH<13><STEAM_1:0:159860788><>" renamed "sessee<68><BOT><>" (to "sessee")
+L 08/07/2021 - 11:07:18: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "livOrl<67><BOT><>" (reason "")
+L 08/07/2021 - 11:07:19: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "sessee<68><BOT><>" (reason "")
+L 08/07/2021 - 11:07:22: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Walt<69><BOT><>" (reason "")
+L 08/07/2021 - 11:07:22: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Oliver<70><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Frasier<71><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Wally<72><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "George<73><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Yogi<74><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Eugene<75><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Waldo<76><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Fergus<77><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Frank<78><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Ernie<79><BOT><>" (reason "")
+L 08/07/2021 - 11:07:23: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Albert<80><BOT><>" (reason "")
+L 08/07/2021 - 11:07:24: [basecommands.smx] "LYTH<13><STEAM_1:0:159860788><>" kicked "Allen<81><BOT><>" (reason "")
+L 08/07/2021 - 11:07:52: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Marvin<83><BOT><>" (reason "")
+L 08/07/2021 - 11:07:53: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Graham<82><BOT><>" (reason "")
+L 08/07/2021 - 11:07:54: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Elmer<84><BOT><>" (reason "")
+L 08/07/2021 - 11:07:55: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Yogi<85><BOT><>" (reason "")
+L 08/07/2021 - 11:07:55: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Allen<86><BOT><>" (reason "")
+L 08/07/2021 - 11:07:55: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Elliot<87><BOT><>" (reason "")
+L 08/07/2021 - 11:07:56: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Wesley<88><BOT><>" (reason "")
+L 08/07/2021 - 11:07:56: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Yogi<89><BOT><>" (reason "")
+L 08/07/2021 - 11:07:56: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" kicked "Allen<90><BOT><>" (reason "")
+L 08/07/2021 - 11:10:53: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/07/2021 - 11:10:56: [SM] Changed map to "surf_trick_xy"
+L 08/07/2021 - 11:10:59: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 11:10:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:15:09: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 12:15:09: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 12:15:36: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 12:15:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:29:07: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_sg"
+L 08/07/2021 - 12:29:10: [SM] Changed map to "surf_trick_sg"
+L 08/07/2021 - 12:29:13: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 12:29:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:33:00: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 12:33:00: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 12:33:12: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 12:33:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:36:06: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 12:36:06: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 12:36:20: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 12:36:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:37:10: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 12:37:10: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 12:37:24: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 12:37:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 12:38:45: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 12:38:45: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 13:11:07: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:11:07: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 13:11:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:11:42: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 13:11:42: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 13:12:54: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:12:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:13:38: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:13:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:15:02: Log file closed.
+L 08/07/2021 - 13:15:23: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 13:15:23: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 13:19:47: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:20:20: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 13:20:20: [dm_trick.smx]  SUCCESS db_connect()
+L 08/07/2021 - 13:23:47: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:25:26: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 13:25:26: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:25:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:26:37: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:26:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:27:19: -------- Mapchange to surf_trick_xy --------
+L 08/07/2021 - 13:27:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:35:46: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 13:35:46: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 13:35:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxfilesize") (value "500")
+L 08/07/2021 - 13:40:13: Log file closed.
+L 08/07/2021 - 17:44:38: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210807.log") (Version "1.10.0.6510")
+L 08/07/2021 - 17:44:38: -------- Mapchange to surf_trick_sg --------
+L 08/07/2021 - 21:32:29: -------- Mapchange to surf_trick_sg --------
+L 08/08/2021 - 00:29:06: Log file closed.

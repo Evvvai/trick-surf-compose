@@ -1,0 +1,43 @@
+L 09/05/2021 - 04:35:15: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 04:35:15: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 04:36:38: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 07:46:29: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 08:26:16: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 08:45:07: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 08:59:19: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 09:03:18: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 10:27:30: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 10:38:45: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 10:55:34: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 11:08:04: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 12:39:49: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 13:12:16: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 13:18:06: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 17:56:04: [basevotes.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" initiated a ban vote against "rufik00900<231><STEAM_1:0:622035126><>"
+L 09/05/2021 - 17:56:24: [basevotes.smx] Vote ban failed, unable to ban "rufik00900" (reason "Player no longer available")
+L 09/05/2021 - 18:09:53: [funcommands.smx] "DEMONSTRATE<233><STEAM_1:0:159860788><>" toggled noclip on "DEMONSTRATE<233><STEAM_1:0:159860788><>"
+L 09/05/2021 - 18:12:03: [basebans.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" banned "indignation<215><STEAM_1:0:525445108><>" (minutes "0") (reason "Racism")
+L 09/05/2021 - 18:12:19: [basebans.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:525445108")
+L 09/05/2021 - 18:20:52: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "indignation<236><STEAM_1:0:525445108><>" (reason "")
+L 09/05/2021 - 18:20:52: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "skyress<205><STEAM_1:0:451419478><>" (reason "")
+L 09/05/2021 - 18:20:52: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "KingYoshi<219><STEAM_1:1:116460625><>" (reason "")
+L 09/05/2021 - 18:20:53: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "durgod<221><STEAM_1:1:452270899><>" (reason "")
+L 09/05/2021 - 18:20:53: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "ArturPertuh<222><STEAM_1:0:49334172><>" (reason "")
+L 09/05/2021 - 18:20:53: [basecommands.smx] "ᴇᴠʌı<229><STEAM_1:0:108778791><>" kicked "ᴇᴠʌı<229><STEAM_1:0:108778791><>" (reason "")
+L 09/05/2021 - 18:21:17: [basecommands.smx] "ᴇᴠʌı<237><STEAM_1:0:108778791><>" kicked "повести<214><STEAM_1:0:422082772><>" (reason "")
+L 09/05/2021 - 18:22:36: [basebans.smx] "DEMONSTRATE<233><STEAM_1:0:159860788><>" banned "indignation<239><STEAM_1:0:525445108><>" (minutes "0") (reason "dsaf")
+L 09/05/2021 - 18:22:45: [basebans.smx] "DEMONSTRATE<233><STEAM_1:0:159860788><>" banned "xdxdxdxdxdxdxdxd<227><STEAM_1:1:474162506><>" (minutes "0") (reason "Racism")
+L 09/05/2021 - 18:22:51: [basebans.smx] "ᴇᴠʌı<237><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:525445108")
+L 09/05/2021 - 18:23:06: [basebans.smx] "ᴇᴠʌı<237><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:474162506")
+L 09/05/2021 - 19:18:14: Log file closed.
+L 09/05/2021 - 19:18:29: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 19:18:29: [dm_trick.smx]  SUCCESS db_connect()
+L 09/05/2021 - 19:18:34: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 19:18:45: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 19:20:50: [basebans.smx] "DEMONSTRATE<5><STEAM_1:0:159860788><>" banned "indignation<3><STEAM_1:0:525445108><>" (minutes "0") (reason "Abusive")
+L 09/05/2021 - 20:19:08: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 20:52:39: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 21:28:45: [basebans.smx] "Console<0><Console><Console>" removed ban (filter "STEAM_1:0:525445108")
+L 09/05/2021 - 22:29:18: [playercommands.smx] "Music louder, eyes closed<20><STEAM_1:1:80244186><>" slapped "Gwin<18><STEAM_1:1:453450386><>" (damage "0")
+L 09/05/2021 - 22:29:19: [playercommands.smx] "Music louder, eyes closed<20><STEAM_1:1:80244186><>" slapped "Gwin<18><STEAM_1:1:453450386><>" (damage "0")
+L 09/06/2021 - 01:19:01: Log file closed.

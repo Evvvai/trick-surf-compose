@@ -1,0 +1,94 @@
+L 08/10/2021 - 02:26:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6510")
+L 08/10/2021 - 02:26:54: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/10/2021 - 02:27:01: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 08/10/2021 - 02:31:13: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/10/2021 - 02:31:16: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 08/10/2021 - 02:38:02: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" ignited "Yada<48><STEAM_1:1:197641908><>" (seconds "20.000000")
+L 08/10/2021 - 02:58:16: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" ignited "ᴇᴠʌı<3><STEAM_1:0:108778791><>" (seconds "20.000000")
+L 08/10/2021 - 02:58:16: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" ignited "Черныш<49><STEAM_1:0:552799651><>" (seconds "20.000000")
+L 08/10/2021 - 03:03:17: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/10/2021 - 03:03:20: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 08/10/2021 - 03:05:45: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" froze "Yada<48><STEAM_1:1:197641908><>"
+L 08/10/2021 - 03:05:53: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" froze "Yada<48><STEAM_1:1:197641908><>"
+L 08/10/2021 - 11:41:42: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "de_dust"
+L 08/10/2021 - 11:41:45: [SM] Changed map to "de_dust"
+L 08/10/2021 - 11:41:51: -------- Mapchange to de_dust2 --------
+L 08/10/2021 - 11:41:51: [dm_trick.smx]  SUCCESS db_connect()
+L 08/10/2021 - 11:42:43: [basecommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/10/2021 - 11:45:19: [basecommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/10/2021 - 11:45:22: [SM] Changed map to "surf_trick_g"
+L 08/10/2021 - 11:45:26: -------- Mapchange to surf_trick_g --------
+L 08/10/2021 - 12:27:55: [funcommands.smx] "ᴇᴠʌı<3><STEAM_1:0:108778791><>" ignited "drained<71><STEAM_1:0:67907739><>" (seconds "20.000000")
+L 08/10/2021 - 12:44:45: [basevotes.smx] "Demon in pain<67><STEAM_1:0:159860788><>" initiated a ban vote against "tobikbarsik35<73><STEAM_1:0:578391036><>"
+L 08/10/2021 - 12:45:06: [basevotes.smx] Vote ban successful, banned "tobikbarsik35<73><STEAM_1:0:578391036><>" (minutes "30") (reason "Votebanned")
+L 08/10/2021 - 15:37:03: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 15:37:10: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 15:37:13: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 15:37:13: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 15:37:14: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 15:37:16: [funcommands.smx] "Demon in pain<67><STEAM_1:0:159860788><>" toggled noclip on "Screenshot_14.png<87><STEAM_1:1:1146082><>"
+L 08/10/2021 - 19:00:48: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<87><STEAM_1:1:1146082><>" (amount "0.500000")
+L 08/10/2021 - 19:00:52: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<87><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 19:01:03: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<87><STEAM_1:1:1146082><>" (amount "0.500000")
+L 08/10/2021 - 19:01:08: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<87><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 19:38:04: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:06: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:10: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:12: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:14: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:17: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:25: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:27: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:34: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:35: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:44: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:46: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:51: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:38:54: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 19:43:27: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "dnmo<102><STEAM_1:1:502946022><>"
+L 08/10/2021 - 19:43:28: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "dnmo<102><STEAM_1:1:502946022><>"
+L 08/10/2021 - 20:14:16: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:14:19: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:14:27: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:14:39: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:14:45: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:15:08: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 20:15:12: [funcommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" toggled noclip on "Demon in pain<105><STEAM_1:0:159860788><>"
+L 08/10/2021 - 22:22:15: [basecommands.smx] "Demon in pain<105><STEAM_1:0:159860788><>" changed map to "de_dust"
+L 08/10/2021 - 22:22:18: [SM] Changed map to "de_dust"
+L 08/10/2021 - 22:22:24: -------- Mapchange to de_dust2 --------
+L 08/10/2021 - 22:33:08: [basecommands.smx] "ᴇᴠʌı<139><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/10/2021 - 22:33:12: [SM] Changed map to "surf_trick_g"
+L 08/10/2021 - 22:33:16: -------- Mapchange to surf_trick_g --------
+L 08/10/2021 - 22:41:53: Log file closed.
+L 08/10/2021 - 22:42:16: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6510")
+L 08/10/2021 - 22:42:16: [dm_trick.smx]  SUCCESS db_connect()
+L 08/10/2021 - 22:42:26: -------- Mapchange to surf_trick_g --------
+L 08/10/2021 - 23:22:01: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:22:07: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:22:18: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "0.100000")
+L 08/10/2021 - 23:22:19: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:22:55: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "0.100000")
+L 08/10/2021 - 23:23:09: [playercommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" slayed "Screenshot_14.png<3><STEAM_1:1:1146082><>"
+L 08/10/2021 - 23:23:15: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:23:34: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:23:35: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:23:44: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:23:46: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:23:50: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:23:51: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:23:53: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:23:53: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:24:02: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:24:03: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:24:08: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:24:09: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:24:15: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:24:15: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:25:08: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:25:08: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:25:12: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "4.000000")
+L 08/10/2021 - 23:25:12: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/10/2021 - 23:25:14: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "0.100000")
+L 08/10/2021 - 23:25:19: [funcommands.smx] "Prevent double touch<6><STEAM_1:0:159860788><>" set gravity on "Screenshot_14.png<3><STEAM_1:1:1146082><>" (amount "1.000000")
+L 08/11/2021 - 01:50:56: Log file closed.

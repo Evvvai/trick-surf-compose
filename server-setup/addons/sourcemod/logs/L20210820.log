@@ -1,0 +1,103 @@
+L 08/20/2021 - 04:28:09: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210820.log") (Version "1.10.0.6510")
+L 08/20/2021 - 04:28:09: [basebans.smx] "ᴇᴠʌı<86><STEAM_1:0:108778791><>" banned "Gwiness<85><STEAM_1:1:453450386><>" (minutes "0") (reason "Racism")
+L 08/20/2021 - 04:28:16: [basebans.smx] "ᴇᴠʌı<86><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:453450386")
+L 08/20/2021 - 04:29:32: [basebans.smx] "ᴇᴠʌı<86><STEAM_1:0:108778791><>" banned "AlpenGold<79><STEAM_1:0:70114936><>" (minutes "0") (reason "Racism")
+L 08/20/2021 - 04:29:40: [basebans.smx] "ᴇᴠʌı<86><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:70114936")
+L 08/20/2021 - 05:00:00: [basebans.smx] "ᴇᴠʌı<89><STEAM_1:0:108778791><>" banned "Gwiness<87><STEAM_1:1:453450386><>" (minutes "0") (reason "Racism")
+L 08/20/2021 - 05:00:04: [basebans.smx] "ᴇᴠʌı<89><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:453450386")
+L 08/20/2021 - 05:00:15: [basebans.smx] "ᴇᴠʌı<89><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:70114936")
+L 08/20/2021 - 06:42:54: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:43:00: Log file closed.
+L 08/20/2021 - 06:43:23: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210820.log") (Version "1.10.0.6510")
+L 08/20/2021 - 06:43:23: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 06:44:23: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:44:47: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:45:17: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:48:39: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:48:42: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:48:45: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:48:45: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 06:53:06: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:53:09: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:53:12: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:53:13: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 06:54:30: [basecommands.smx] "ᴇᴠʌı<8><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:54:33: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:54:36: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:54:36: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 06:54:59: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:56:04: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:56:32: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:57:27: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:57:30: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 06:57:32: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 06:58:31: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:07:26: [basecommands.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:07:29: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:07:31: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:07:44: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:07:56: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:11:29: [basecommands.smx] "ᴇᴠʌı<20><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:11:32: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:11:35: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:12:26: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:13:57: Log file closed.
+L 08/20/2021 - 07:14:32: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210820.log") (Version "1.10.0.6510")
+L 08/20/2021 - 07:14:32: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:18:02: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:18:05: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 07:18:08: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 07:18:08: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 08:11:27: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 08:11:50: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed map to "surf_sarca"
+L 08/20/2021 - 08:11:53: [SM] Changed map to "surf_sarca"
+L 08/20/2021 - 08:11:55: -------- Mapchange to surf_sarca --------
+L 08/20/2021 - 08:12:11: -------- Mapchange to surf_sarca --------
+L 08/20/2021 - 08:14:42: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed map to "surf_sarca"
+L 08/20/2021 - 08:14:45: [SM] Changed map to "surf_sarca"
+L 08/20/2021 - 08:14:48: -------- Mapchange to surf_sarca --------
+L 08/20/2021 - 08:14:48: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 08:21:49: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/20/2021 - 09:03:06: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 09:03:09: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 09:03:12: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 09:04:28: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 09:04:31: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 09:04:34: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 09:04:34: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 09:06:09: [basecommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" changed cvar (cvar "hitregfixtype") (value "0")
+L 08/20/2021 - 09:33:03: [basebans.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" banned "да<11><STEAM_1:0:501009804><>" (minutes "0") (reason "Racism")
+L 08/20/2021 - 09:33:11: [basebans.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:501009804")
+L 08/20/2021 - 10:09:04: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 10:10:39: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 10:19:08: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed map to "surf_sarca"
+L 08/20/2021 - 10:19:11: [SM] Changed map to "surf_sarca"
+L 08/20/2021 - 10:19:14: -------- Mapchange to surf_sarca --------
+L 08/20/2021 - 10:19:14: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 10:27:45: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed map to "surf_sarca"
+L 08/20/2021 - 10:27:48: [SM] Changed map to "surf_sarca"
+L 08/20/2021 - 10:27:50: -------- Mapchange to surf_sarca --------
+L 08/20/2021 - 10:27:50: [dm_trick.smx]  SUCCESS db_connect()
+L 08/20/2021 - 10:29:25: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "hitregfixtype") (value "0")
+L 08/20/2021 - 10:53:41: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_skyname") (value "mr08")
+L 08/20/2021 - 10:53:52: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_skyname") (value "mr07")
+L 08/20/2021 - 10:53:56: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_skyname") (value "mr08")
+L 08/20/2021 - 11:36:03: [basevotes.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" initiated a ban vote against "[13Rus]๖ۣۜGorenie<15><STEAM_1:0:19336938><>"
+L 08/20/2021 - 11:36:19: [basevotes.smx] Vote failed.
+L 08/20/2021 - 12:03:56: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 12:03:59: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 12:04:02: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 14:54:26: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 16:16:02: [basecommands.smx] "BjYw09DIcAEPNnr.jpg<27><STEAM_1:1:1146082><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 16:16:05: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 16:16:08: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 16:47:40: [basecommands.smx] "BjYw09DIcAEPNnr.jpg<27><STEAM_1:1:1146082><>" changed map to "surf_trick_gxd"
+L 08/20/2021 - 16:47:43: [SM] Changed map to "surf_trick_gxd"
+L 08/20/2021 - 16:47:47: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 20:23:27: [funcommands.smx] "FEAST<62><STEAM_1:0:159860788><>" toggled noclip on "FEAST<62><STEAM_1:0:159860788><>"
+L 08/20/2021 - 20:23:30: [funcommands.smx] "FEAST<62><STEAM_1:0:159860788><>" toggled noclip on "FEAST<62><STEAM_1:0:159860788><>"
+L 08/20/2021 - 20:27:35: [basecommands.smx] "FEAST<62><STEAM_1:0:159860788><>" kicked "Yada<65><STEAM_1:1:197641908><>" (reason "")
+L 08/20/2021 - 23:21:53: [basevotes.smx] "ᴇᴠʌı<91><STEAM_1:0:108778791><>" initiated a ban vote against "aura<79><STEAM_1:1:618296767><>"
+L 08/20/2021 - 23:22:10: [basebans.smx] "FEAST<87><STEAM_1:0:159860788><>" banned "aura<79><STEAM_1:1:618296767><>" (minutes "30") (reason "Racism")
+L 08/20/2021 - 23:22:13: [basevotes.smx] Vote ban failed, unable to ban "aura" (reason "Player no longer available")
+L 08/21/2021 - 00:05:37: Log file closed.

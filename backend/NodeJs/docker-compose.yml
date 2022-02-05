@@ -1,0 +1,21 @@
+version: '2.8'
+services:
+  rabbitmq:
+    image: evvvai/surfgxds-backend:v2
+    container_name: surfgxds-backend
+    environment:
+      - SERVER_HOST=http://localhost
+      - CLIENT_HOST=http://localhost:3000
+      - DATABASE_HOST=62.113.115.251
+      - DATABASE_PORT=3306
+      - DATABASE_USER=root
+      - DATABASE_PASSWORD=gg
+      - DATABASE_DB=surfgxds
+      - PORT=8080
+    expose:
+      - 8081
+    ports:
+      - 8081:8081
+    networks:
+      - default
+    restart: always

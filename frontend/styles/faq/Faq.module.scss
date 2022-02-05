@@ -1,0 +1,143 @@
+/* Faq */
+/* ////////////////////////////////////////////////////// */
+
+.faq {
+  margin: 0 auto;
+  max-width: 1368px;
+  animation: fadein 0.4s ease-in;
+  padding: 5px;
+
+  * code {
+    color: var(--color-highlight);
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+    font-size: 0.95rem;
+  }
+}
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  color: var(--font-color-base-darker);
+  font-size: 1.5rem;
+  letter-spacing: 10px;
+
+  margin-top: 25px;
+}
+
+.hr {
+  position: relative;
+
+  display: flex;
+  align-items: flex-end;
+
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  padding: 5px 0;
+}
+
+/* ////////////////////////////////////////////////////// */
+
+.embend {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 10px;
+  padding: 10px 0;
+
+  &Avatar {
+    min-height: 64px;
+    min-width: 64px;
+    max-height: 64px;
+    max-width: 64px;
+    background-color: var(--background-color);
+    border-radius: 50%;
+    overflow: hidden;
+
+    img {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  &Body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &Description {
+    padding-top: 5px;
+    color: var(--color-sub-text);
+    font-size: 1rem;
+  }
+
+  &Nick {
+    font-size: 1.25rem;
+    color: var(--color-text);
+  }
+}
+
+/* ////////////////////////////////////////////////////// */
+
+.about {
+  &Item {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &Text {
+    color: var(--color-text);
+    font-size: 1.1rem;
+
+    &.vip {
+      color: var(--color-point);
+      font-size: 1rem;
+      padding-right: 5px;
+    }
+  }
+
+  &Link {
+  }
+}
+
+/* ////////////////////////////////////////////////////// */
+
+.commands {
+  &Item {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &Text {
+    color: var(--color-text);
+    font-size: 1.1rem;
+
+    .vip {
+      color: var(--color-point);
+      font-size: 1rem;
+      padding-right: 5px;
+    }
+  }
+
+  &Link {
+  }
+}
+
+/* ////////////////////////////////////////////////////// */
+
+.host {
+  &Text {
+    color: var(--color-text);
+    font-size: 1.1rem;
+  }
+}
+
+/* ////////////////////////////////////////////////////// */

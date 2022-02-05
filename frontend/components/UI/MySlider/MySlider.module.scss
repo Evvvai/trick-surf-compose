@@ -1,0 +1,77 @@
+.minMaxSlider {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.minMaxSlider > label {
+  display: none;
+}
+
+.minMaxSlider > input {
+  cursor: pointer;
+  position: absolute;
+}
+
+/* webkit specific styling */
+.minMaxSlider > input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  outline: none !important;
+  background: transparent;
+}
+.minMaxSlider > input.min {
+  height: 0.4rem;
+  border-radius: 5px 0 0 5px;
+
+  background-image: linear-gradient(
+    to right,
+    var(--color-background-highlight) 0%,
+    var(--color-background-highlight) var(--minRangePercent),
+    var(--color-highlight) var(--minRangePercent),
+    var(--color-highlight) 100%
+  );
+}
+
+.minMaxSlider > input.max {
+  height: 0.4rem;
+  border-radius: 0 5px 5px 0;
+
+  background-image: linear-gradient(
+    to right,
+    var(--color-highlight) 0%,
+    var(--color-highlight) var(--maxRangePercent),
+    var(--color-background-highlight) var(--maxRangePercent),
+    var(--color-background-highlight) 100%
+  );
+}
+
+.range {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  &Max {
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  &Min {
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  &Current {
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+}

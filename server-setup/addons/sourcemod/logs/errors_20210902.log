@@ -1,0 +1,1737 @@
+L 09/02/2021 - 00:45:33: SourceMod error session started
+L 09/02/2021 - 00:45:33: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 00:45:33: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 00:45:33: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 00:45:33: [SM] Call stack trace:
+L 09/02/2021 - 00:45:33: [SM]   [0] LogError
+L 09/02/2021 - 00:45:33: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 03:29:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 03:29:18: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 03:29:18: [SM] Call stack trace:
+L 09/02/2021 - 03:29:18: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 03:29:18: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 09/02/2021 - 06:05:11: Error log file session closed.
+L 09/02/2021 - 06:05:12: SourceMod error session started
+L 09/02/2021 - 06:05:12: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 06:05:12: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 06:05:12: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 06:05:12: [SM] Call stack trace:
+L 09/02/2021 - 06:05:12: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 06:05:12: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 06:44:47: Error log file session closed.
+L 09/02/2021 - 06:44:49: SourceMod error session started
+L 09/02/2021 - 06:44:49: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 06:44:49: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 06:44:49: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 06:44:49: [SM] Call stack trace:
+L 09/02/2021 - 06:44:49: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 06:44:49: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 06:48:38: Error log file session closed.
+L 09/02/2021 - 08:31:09: SourceMod error session started
+L 09/02/2021 - 08:31:09: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 08:31:09: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 08:31:09: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 08:31:09: [SM] Call stack trace:
+L 09/02/2021 - 08:31:09: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 08:31:09: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 08:31:24: Error log file session closed.
+L 09/02/2021 - 08:45:56: SourceMod error session started
+L 09/02/2021 - 08:45:56: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 08:45:56: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 08:45:56: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 08:45:56: [SM] Call stack trace:
+L 09/02/2021 - 08:45:56: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 08:45:56: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 09:01:18: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:18: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:18: [SM] Call stack trace:
+L 09/02/2021 - 09:01:18: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:18: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:19: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:19: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:19: [SM] Call stack trace:
+L 09/02/2021 - 09:01:19: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:19: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:20: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:20: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:20: [SM] Call stack trace:
+L 09/02/2021 - 09:01:20: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:20: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:21: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:21: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:21: [SM] Call stack trace:
+L 09/02/2021 - 09:01:21: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:21: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:22: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:22: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:22: [SM] Call stack trace:
+L 09/02/2021 - 09:01:22: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:22: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:23: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:23: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:23: [SM] Call stack trace:
+L 09/02/2021 - 09:01:23: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:23: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:24: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:24: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:24: [SM] Call stack trace:
+L 09/02/2021 - 09:01:24: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:24: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:25: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:25: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:25: [SM] Call stack trace:
+L 09/02/2021 - 09:01:25: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:25: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:26: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:26: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:26: [SM] Call stack trace:
+L 09/02/2021 - 09:01:26: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:26: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:27: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:27: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:27: [SM] Call stack trace:
+L 09/02/2021 - 09:01:27: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:27: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:28: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:28: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:28: [SM] Call stack trace:
+L 09/02/2021 - 09:01:28: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:28: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:29: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:29: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:29: [SM] Call stack trace:
+L 09/02/2021 - 09:01:29: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:29: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:30: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:30: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:30: [SM] Call stack trace:
+L 09/02/2021 - 09:01:30: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:30: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:31: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:31: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:31: [SM] Call stack trace:
+L 09/02/2021 - 09:01:31: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:31: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:32: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:32: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:32: [SM] Call stack trace:
+L 09/02/2021 - 09:01:32: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:32: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:33: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:33: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:33: [SM] Call stack trace:
+L 09/02/2021 - 09:01:33: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:33: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:34: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:34: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:34: [SM] Call stack trace:
+L 09/02/2021 - 09:01:34: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:34: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:35: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:35: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:35: [SM] Call stack trace:
+L 09/02/2021 - 09:01:35: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:36: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:36: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:36: [SM] Call stack trace:
+L 09/02/2021 - 09:01:36: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:37: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:37: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:37: [SM] Call stack trace:
+L 09/02/2021 - 09:01:37: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 09:01:38: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 09:01:38: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 09:01:38: [SM] Call stack trace:
+L 09/02/2021 - 09:01:38: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 09:01:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 10:35:33: Error log file session closed.
+L 09/02/2021 - 10:35:34: SourceMod error session started
+L 09/02/2021 - 10:35:34: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 10:35:34: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 10:35:34: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 10:35:34: [SM] Call stack trace:
+L 09/02/2021 - 10:35:34: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 10:35:34: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 11:36:07: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:07: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:07: [SM] Call stack trace:
+L 09/02/2021 - 11:36:07: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:07: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:08: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:08: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:08: [SM] Call stack trace:
+L 09/02/2021 - 11:36:08: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:08: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:09: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:09: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:09: [SM] Call stack trace:
+L 09/02/2021 - 11:36:09: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:09: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:10: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:10: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:10: [SM] Call stack trace:
+L 09/02/2021 - 11:36:10: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:10: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:11: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:11: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:11: [SM] Call stack trace:
+L 09/02/2021 - 11:36:11: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:11: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:12: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:12: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:12: [SM] Call stack trace:
+L 09/02/2021 - 11:36:12: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:12: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:13: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:13: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:13: [SM] Call stack trace:
+L 09/02/2021 - 11:36:13: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:13: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:14: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:14: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:14: [SM] Call stack trace:
+L 09/02/2021 - 11:36:14: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:14: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:15: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:15: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:15: [SM] Call stack trace:
+L 09/02/2021 - 11:36:15: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:15: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:16: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:16: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:16: [SM] Call stack trace:
+L 09/02/2021 - 11:36:16: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:16: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:17: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:17: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:17: [SM] Call stack trace:
+L 09/02/2021 - 11:36:17: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:17: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:18: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:18: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:18: [SM] Call stack trace:
+L 09/02/2021 - 11:36:18: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:18: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:19: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:19: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:19: [SM] Call stack trace:
+L 09/02/2021 - 11:36:19: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:19: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:20: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:20: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:20: [SM] Call stack trace:
+L 09/02/2021 - 11:36:20: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:20: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:21: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:21: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:21: [SM] Call stack trace:
+L 09/02/2021 - 11:36:21: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:21: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:22: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:22: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:22: [SM] Call stack trace:
+L 09/02/2021 - 11:36:22: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:22: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:23: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:23: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:23: [SM] Call stack trace:
+L 09/02/2021 - 11:36:23: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:23: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:24: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:24: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:24: [SM] Call stack trace:
+L 09/02/2021 - 11:36:24: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:24: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:25: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:25: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:25: [SM] Call stack trace:
+L 09/02/2021 - 11:36:25: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:25: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:26: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:26: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:26: [SM] Call stack trace:
+L 09/02/2021 - 11:36:26: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:26: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:36:27: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:36:27: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:36:27: [SM] Call stack trace:
+L 09/02/2021 - 11:36:27: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:36:27: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:16: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:16: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:16: [SM] Call stack trace:
+L 09/02/2021 - 11:41:16: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:16: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:17: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:17: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:17: [SM] Call stack trace:
+L 09/02/2021 - 11:41:17: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:17: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:18: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:18: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:18: [SM] Call stack trace:
+L 09/02/2021 - 11:41:18: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:18: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:19: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:19: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:19: [SM] Call stack trace:
+L 09/02/2021 - 11:41:19: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:19: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:20: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:20: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:20: [SM] Call stack trace:
+L 09/02/2021 - 11:41:20: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:20: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:21: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:21: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:21: [SM] Call stack trace:
+L 09/02/2021 - 11:41:21: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:21: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:22: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:22: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:22: [SM] Call stack trace:
+L 09/02/2021 - 11:41:22: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:22: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:23: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:23: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:23: [SM] Call stack trace:
+L 09/02/2021 - 11:41:23: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:23: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:24: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:24: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:24: [SM] Call stack trace:
+L 09/02/2021 - 11:41:24: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:24: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:25: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:25: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:25: [SM] Call stack trace:
+L 09/02/2021 - 11:41:25: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:25: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:26: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:26: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:26: [SM] Call stack trace:
+L 09/02/2021 - 11:41:26: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:26: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:27: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:27: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:27: [SM] Call stack trace:
+L 09/02/2021 - 11:41:27: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:27: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:29: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:29: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:29: [SM] Call stack trace:
+L 09/02/2021 - 11:41:29: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:29: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:30: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:30: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:30: [SM] Call stack trace:
+L 09/02/2021 - 11:41:30: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:30: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:31: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:31: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:31: [SM] Call stack trace:
+L 09/02/2021 - 11:41:31: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:31: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:32: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:32: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:32: [SM] Call stack trace:
+L 09/02/2021 - 11:41:32: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:32: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:33: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:33: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:33: [SM] Call stack trace:
+L 09/02/2021 - 11:41:33: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:33: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:34: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:34: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:34: [SM] Call stack trace:
+L 09/02/2021 - 11:41:34: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:34: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:35: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:35: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:35: [SM] Call stack trace:
+L 09/02/2021 - 11:41:35: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:36: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:36: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:36: [SM] Call stack trace:
+L 09/02/2021 - 11:41:36: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 11:41:37: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 11:41:37: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 11:41:37: [SM] Call stack trace:
+L 09/02/2021 - 11:41:37: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 11:41:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:32: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:32: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:32: [SM] Call stack trace:
+L 09/02/2021 - 12:47:32: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:32: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:33: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:33: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:33: [SM] Call stack trace:
+L 09/02/2021 - 12:47:33: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:33: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:34: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:34: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:34: [SM] Call stack trace:
+L 09/02/2021 - 12:47:34: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:34: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:35: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:35: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:35: [SM] Call stack trace:
+L 09/02/2021 - 12:47:35: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:36: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:36: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:36: [SM] Call stack trace:
+L 09/02/2021 - 12:47:36: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:37: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:37: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:37: [SM] Call stack trace:
+L 09/02/2021 - 12:47:37: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:38: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:38: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:38: [SM] Call stack trace:
+L 09/02/2021 - 12:47:38: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:39: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:39: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:39: [SM] Call stack trace:
+L 09/02/2021 - 12:47:39: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:40: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:40: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:40: [SM] Call stack trace:
+L 09/02/2021 - 12:47:40: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:41: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:41: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:41: [SM] Call stack trace:
+L 09/02/2021 - 12:47:41: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:42: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:42: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:42: [SM] Call stack trace:
+L 09/02/2021 - 12:47:42: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:43: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:43: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:43: [SM] Call stack trace:
+L 09/02/2021 - 12:47:43: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:44: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:44: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:44: [SM] Call stack trace:
+L 09/02/2021 - 12:47:44: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:45: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:45: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:45: [SM] Call stack trace:
+L 09/02/2021 - 12:47:45: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:46: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:46: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:46: [SM] Call stack trace:
+L 09/02/2021 - 12:47:46: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:47: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:47: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:47: [SM] Call stack trace:
+L 09/02/2021 - 12:47:47: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:48: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:48: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:48: [SM] Call stack trace:
+L 09/02/2021 - 12:47:48: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:49: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:49: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:49: [SM] Call stack trace:
+L 09/02/2021 - 12:47:49: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 12:47:50: [SM] Exception reported: Client index 0 is invalid
+L 09/02/2021 - 12:47:50: [SM] Blaming: HitReg_Gxd.smx
+L 09/02/2021 - 12:47:50: [SM] Call stack trace:
+L 09/02/2021 - 12:47:50: [SM]   [0] GetClientWeapon
+L 09/02/2021 - 12:47:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 09/02/2021 - 14:35:35: Error log file session closed.
+L 09/02/2021 - 14:35:36: SourceMod error session started
+L 09/02/2021 - 14:35:36: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 14:35:36: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 14:35:36: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 14:35:36: [SM] Call stack trace:
+L 09/02/2021 - 14:35:36: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 14:35:36: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 15:54:34: Error log file session closed.
+L 09/02/2021 - 15:54:36: SourceMod error session started
+L 09/02/2021 - 15:54:36: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 15:54:36: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 15:54:36: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 15:54:36: [SM] Call stack trace:
+L 09/02/2021 - 15:54:36: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 15:54:36: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 16:38:44: Error log file session closed.
+L 09/02/2021 - 16:38:45: SourceMod error session started
+L 09/02/2021 - 16:38:45: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 16:38:45: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 16:38:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 16:38:45: [SM] Call stack trace:
+L 09/02/2021 - 16:38:45: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 16:38:45: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 16:53:26: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 16:53:26: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 16:53:26: [SM] Call stack trace:
+L 09/02/2021 - 16:53:26: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 16:53:26: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:05:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:05:17: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:05:17: [SM] Call stack trace:
+L 09/02/2021 - 17:05:17: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:05:17: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:05:48: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:05:48: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:05:48: [SM] Call stack trace:
+L 09/02/2021 - 17:05:48: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:05:48: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:06:20: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:06:20: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:06:20: [SM] Call stack trace:
+L 09/02/2021 - 17:06:20: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:06:20: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:06:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:06:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:06:45: [SM] Call stack trace:
+L 09/02/2021 - 17:06:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:06:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:06:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:06:51: [dm_trick.smx] fffff: Can't connect to MySQL server on '178.20.47.151' (110)
+L 09/02/2021 - 17:07:23: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:07:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:07:23: [SM] Call stack trace:
+L 09/02/2021 - 17:07:23: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:07:23: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:07:54: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:07:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:07:54: [SM] Call stack trace:
+L 09/02/2021 - 17:07:54: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:07:54: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:08:26: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:08:26: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:08:26: [SM] Call stack trace:
+L 09/02/2021 - 17:08:26: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:08:26: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:08:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:08:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:08:45: [SM] Call stack trace:
+L 09/02/2021 - 17:08:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:08:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:08:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:08:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:08:57: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:08:57: [SM] Call stack trace:
+L 09/02/2021 - 17:08:57: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:08:57: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:09:29: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:09:29: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:09:29: [SM] Call stack trace:
+L 09/02/2021 - 17:09:29: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:09:29: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:10:00: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:10:00: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:10:00: [SM] Call stack trace:
+L 09/02/2021 - 17:10:00: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:10:00: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:10:32: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:10:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:10:32: [SM] Call stack trace:
+L 09/02/2021 - 17:10:32: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:10:32: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:10:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:10:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:10:45: [SM] Call stack trace:
+L 09/02/2021 - 17:10:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:10:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:10:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:11:35: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:11:35: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:11:35: [SM] Call stack trace:
+L 09/02/2021 - 17:11:35: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:11:35: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:12:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:12:06: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:12:06: [SM] Call stack trace:
+L 09/02/2021 - 17:12:06: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:12:06: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:12:38: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:12:38: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:12:38: [SM] Call stack trace:
+L 09/02/2021 - 17:12:38: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:12:38: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:12:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:12:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:12:45: [SM] Call stack trace:
+L 09/02/2021 - 17:12:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:12:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:12:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:13:09: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:13:09: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:13:09: [SM] Call stack trace:
+L 09/02/2021 - 17:13:09: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:13:09: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:13:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:13:41: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:13:41: [SM] Call stack trace:
+L 09/02/2021 - 17:13:41: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:13:41: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:14:12: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:14:12: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:14:12: [SM] Call stack trace:
+L 09/02/2021 - 17:14:12: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:14:12: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:14:44: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:14:44: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:14:44: [SM] Call stack trace:
+L 09/02/2021 - 17:14:44: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:14:44: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:14:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:14:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:14:45: [SM] Call stack trace:
+L 09/02/2021 - 17:14:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:14:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:14:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:15:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:15:15: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:15:15: [SM] Call stack trace:
+L 09/02/2021 - 17:15:15: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:15:15: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:15:46: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:15:46: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:15:46: [SM] Call stack trace:
+L 09/02/2021 - 17:15:46: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:15:46: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:16:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:16:18: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:16:18: [SM] Call stack trace:
+L 09/02/2021 - 17:16:18: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:16:18: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:16:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:16:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:16:45: [SM] Call stack trace:
+L 09/02/2021 - 17:16:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:16:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:16:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:16:49: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:16:49: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:16:49: [SM] Call stack trace:
+L 09/02/2021 - 17:16:49: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:16:49: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:17:21: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:17:21: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:17:21: [SM] Call stack trace:
+L 09/02/2021 - 17:17:21: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:17:21: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:17:52: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:17:52: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:17:52: [SM] Call stack trace:
+L 09/02/2021 - 17:17:52: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:17:52: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:18:24: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:18:24: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:18:24: [SM] Call stack trace:
+L 09/02/2021 - 17:18:24: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:18:24: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:18:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:18:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:18:45: [SM] Call stack trace:
+L 09/02/2021 - 17:18:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:18:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:18:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:18:55: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:18:55: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:18:55: [SM] Call stack trace:
+L 09/02/2021 - 17:18:55: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:18:55: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:19:27: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:19:27: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:19:27: [SM] Call stack trace:
+L 09/02/2021 - 17:19:27: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:19:27: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:19:58: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:19:58: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:19:58: [SM] Call stack trace:
+L 09/02/2021 - 17:19:58: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:19:58: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:20:30: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 17:20:30: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:20:30: [SM] Call stack trace:
+L 09/02/2021 - 17:20:30: [SM]   [0] LogError
+L 09/02/2021 - 17:20:30: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 17:20:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:20:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:20:45: [SM] Call stack trace:
+L 09/02/2021 - 17:20:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:20:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:20:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:21:01: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 17:21:01: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:21:01: [SM] Call stack trace:
+L 09/02/2021 - 17:21:01: [SM]   [0] LogError
+L 09/02/2021 - 17:21:01: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 17:21:33: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 17:21:33: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:21:33: [SM] Call stack trace:
+L 09/02/2021 - 17:21:33: [SM]   [0] LogError
+L 09/02/2021 - 17:21:33: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 17:22:04: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:22:04: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:22:04: [SM] Call stack trace:
+L 09/02/2021 - 17:22:04: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:22:04: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:22:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:22:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:22:45: [SM] Call stack trace:
+L 09/02/2021 - 17:22:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:22:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:22:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:23:07: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:23:07: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:23:07: [SM] Call stack trace:
+L 09/02/2021 - 17:23:07: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:23:07: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:23:39: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:23:39: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:23:39: [SM] Call stack trace:
+L 09/02/2021 - 17:23:39: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:23:39: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:24:10: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:24:10: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:24:10: [SM] Call stack trace:
+L 09/02/2021 - 17:24:10: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:24:10: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:24:42: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:24:42: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:24:42: [SM] Call stack trace:
+L 09/02/2021 - 17:24:42: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:24:42: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:24:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:24:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:24:45: [SM] Call stack trace:
+L 09/02/2021 - 17:24:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:24:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:24:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:25:13: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:25:13: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:25:13: [SM] Call stack trace:
+L 09/02/2021 - 17:25:13: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:25:13: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:25:45: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:25:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:25:45: [SM] Call stack trace:
+L 09/02/2021 - 17:25:45: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:25:45: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:26:16: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:26:16: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:26:16: [SM] Call stack trace:
+L 09/02/2021 - 17:26:16: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:26:16: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:26:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:26:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:26:45: [SM] Call stack trace:
+L 09/02/2021 - 17:26:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:26:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:26:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:26:48: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:26:48: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:26:48: [SM] Call stack trace:
+L 09/02/2021 - 17:26:48: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:26:48: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:27:19: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:27:19: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:27:19: [SM] Call stack trace:
+L 09/02/2021 - 17:27:19: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:27:19: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:27:51: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:27:51: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:27:51: [SM] Call stack trace:
+L 09/02/2021 - 17:27:51: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:27:51: [SM]   [1] Line 146, include/trick_assistant.sp::select_trick_touch_callback
+L 09/02/2021 - 17:28:22: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:28:22: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:28:22: [SM] Call stack trace:
+L 09/02/2021 - 17:28:22: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:28:22: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:28:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:28:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:28:45: [SM] Call stack trace:
+L 09/02/2021 - 17:28:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:28:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:28:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:28:54: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:28:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:28:54: [SM] Call stack trace:
+L 09/02/2021 - 17:28:54: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:28:54: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:29:25: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:29:25: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:29:25: [SM] Call stack trace:
+L 09/02/2021 - 17:29:25: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:29:25: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:29:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:29:57: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:29:57: [SM] Call stack trace:
+L 09/02/2021 - 17:29:57: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:29:57: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:30:28: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:30:28: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:30:28: [SM] Call stack trace:
+L 09/02/2021 - 17:30:28: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:30:28: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:30:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:30:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:30:45: [SM] Call stack trace:
+L 09/02/2021 - 17:30:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:30:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:30:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:31:00: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:31:00: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:31:00: [SM] Call stack trace:
+L 09/02/2021 - 17:31:00: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:31:00: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:31:31: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:31:31: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:31:31: [SM] Call stack trace:
+L 09/02/2021 - 17:31:31: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:31:31: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:32:03: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:32:03: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:32:03: [SM] Call stack trace:
+L 09/02/2021 - 17:32:03: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:32:03: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:32:34: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:32:34: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:32:34: [SM] Call stack trace:
+L 09/02/2021 - 17:32:34: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:32:34: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:32:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:32:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:32:45: [SM] Call stack trace:
+L 09/02/2021 - 17:32:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:32:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:32:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:33:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:33:06: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:33:06: [SM] Call stack trace:
+L 09/02/2021 - 17:33:06: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:33:06: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:33:37: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 17:33:37: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:33:37: [SM] Call stack trace:
+L 09/02/2021 - 17:33:37: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 17:33:37: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 17:34:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:34:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:34:45: [SM] Call stack trace:
+L 09/02/2021 - 17:34:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:34:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:34:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:36:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:36:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:36:45: [SM] Call stack trace:
+L 09/02/2021 - 17:36:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:36:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:36:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:38:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:38:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:38:45: [SM] Call stack trace:
+L 09/02/2021 - 17:38:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:38:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:38:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:40:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:40:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:40:45: [SM] Call stack trace:
+L 09/02/2021 - 17:40:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:40:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:40:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:42:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:42:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:42:45: [SM] Call stack trace:
+L 09/02/2021 - 17:42:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:42:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:42:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:44:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:44:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:44:45: [SM] Call stack trace:
+L 09/02/2021 - 17:44:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:44:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:44:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:46:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:46:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:46:45: [SM] Call stack trace:
+L 09/02/2021 - 17:46:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:46:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:46:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:48:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:48:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:48:45: [SM] Call stack trace:
+L 09/02/2021 - 17:48:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:48:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:48:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:50:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:50:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:50:45: [SM] Call stack trace:
+L 09/02/2021 - 17:50:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:50:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:50:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:52:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:52:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:52:45: [SM] Call stack trace:
+L 09/02/2021 - 17:52:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:52:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:52:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:54:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:54:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:54:45: [SM] Call stack trace:
+L 09/02/2021 - 17:54:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:54:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:54:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:56:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:56:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:56:45: [SM] Call stack trace:
+L 09/02/2021 - 17:56:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:56:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:56:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 17:58:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 17:58:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 17:58:45: [SM] Call stack trace:
+L 09/02/2021 - 17:58:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 17:58:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 17:58:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:00:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:00:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:00:45: [SM] Call stack trace:
+L 09/02/2021 - 18:00:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:00:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:00:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:02:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:02:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:02:45: [SM] Call stack trace:
+L 09/02/2021 - 18:02:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:02:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:02:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:04:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:04:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:04:45: [SM] Call stack trace:
+L 09/02/2021 - 18:04:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:04:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:04:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:06:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:06:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:06:45: [SM] Call stack trace:
+L 09/02/2021 - 18:06:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:06:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:06:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:08:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:08:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:08:45: [SM] Call stack trace:
+L 09/02/2021 - 18:08:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:08:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:08:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:10:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:10:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:10:45: [SM] Call stack trace:
+L 09/02/2021 - 18:10:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:10:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:10:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:12:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:12:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:12:45: [SM] Call stack trace:
+L 09/02/2021 - 18:12:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:12:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:12:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:14:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:14:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:14:45: [SM] Call stack trace:
+L 09/02/2021 - 18:14:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:14:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:14:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:16:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:16:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:16:45: [SM] Call stack trace:
+L 09/02/2021 - 18:16:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:16:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:16:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:18:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:18:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:18:45: [SM] Call stack trace:
+L 09/02/2021 - 18:18:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:18:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:18:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:20:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:20:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:20:45: [SM] Call stack trace:
+L 09/02/2021 - 18:20:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:20:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:20:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:22:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:22:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:22:45: [SM] Call stack trace:
+L 09/02/2021 - 18:22:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:22:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:22:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:24:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:24:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:24:45: [SM] Call stack trace:
+L 09/02/2021 - 18:24:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:24:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:24:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:26:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:26:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:26:45: [SM] Call stack trace:
+L 09/02/2021 - 18:26:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:26:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:26:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:28:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:28:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:28:45: [SM] Call stack trace:
+L 09/02/2021 - 18:28:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:28:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:28:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:30:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:30:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:30:45: [SM] Call stack trace:
+L 09/02/2021 - 18:30:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:30:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:30:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:32:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:32:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:32:45: [SM] Call stack trace:
+L 09/02/2021 - 18:32:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:32:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:32:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:34:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:34:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:34:45: [SM] Call stack trace:
+L 09/02/2021 - 18:34:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:34:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:34:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:36:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:36:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:36:45: [SM] Call stack trace:
+L 09/02/2021 - 18:36:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:36:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:36:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:38:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:38:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:38:45: [SM] Call stack trace:
+L 09/02/2021 - 18:38:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:38:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:38:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:40:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:40:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:40:45: [SM] Call stack trace:
+L 09/02/2021 - 18:40:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:40:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:40:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:42:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:42:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:42:45: [SM] Call stack trace:
+L 09/02/2021 - 18:42:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:42:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:42:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:44:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:44:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:44:45: [SM] Call stack trace:
+L 09/02/2021 - 18:44:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:44:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:44:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:46:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:46:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:46:45: [SM] Call stack trace:
+L 09/02/2021 - 18:46:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:46:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:46:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:48:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:48:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:48:45: [SM] Call stack trace:
+L 09/02/2021 - 18:48:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:48:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:48:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:50:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:50:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:50:45: [SM] Call stack trace:
+L 09/02/2021 - 18:50:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:50:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:50:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:52:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:52:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:52:45: [SM] Call stack trace:
+L 09/02/2021 - 18:52:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:52:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:52:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:54:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:54:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:54:45: [SM] Call stack trace:
+L 09/02/2021 - 18:54:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:54:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:54:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:56:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:56:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:56:45: [SM] Call stack trace:
+L 09/02/2021 - 18:56:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:56:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:56:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 18:58:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 18:58:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 18:58:45: [SM] Call stack trace:
+L 09/02/2021 - 18:58:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 18:58:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 18:58:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:00:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:00:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:00:45: [SM] Call stack trace:
+L 09/02/2021 - 19:00:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:00:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:00:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:02:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:02:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:02:45: [SM] Call stack trace:
+L 09/02/2021 - 19:02:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:02:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:02:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:04:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:04:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:04:45: [SM] Call stack trace:
+L 09/02/2021 - 19:04:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:04:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:04:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:06:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:06:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:06:45: [SM] Call stack trace:
+L 09/02/2021 - 19:06:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:06:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:06:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:08:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:08:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:08:45: [SM] Call stack trace:
+L 09/02/2021 - 19:08:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:08:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:08:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:10:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:10:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:10:45: [SM] Call stack trace:
+L 09/02/2021 - 19:10:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:10:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:10:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:12:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:12:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:12:45: [SM] Call stack trace:
+L 09/02/2021 - 19:12:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:12:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:12:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:14:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:14:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:14:45: [SM] Call stack trace:
+L 09/02/2021 - 19:14:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:14:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:14:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:16:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:16:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:16:45: [SM] Call stack trace:
+L 09/02/2021 - 19:16:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:16:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:16:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:18:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:18:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:18:45: [SM] Call stack trace:
+L 09/02/2021 - 19:18:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:18:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:18:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:20:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:20:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:20:45: [SM] Call stack trace:
+L 09/02/2021 - 19:20:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:20:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:20:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:22:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:22:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:22:45: [SM] Call stack trace:
+L 09/02/2021 - 19:22:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:22:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:22:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:24:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:24:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:24:45: [SM] Call stack trace:
+L 09/02/2021 - 19:24:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:24:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:24:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:26:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:26:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:26:45: [SM] Call stack trace:
+L 09/02/2021 - 19:26:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:26:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:26:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:28:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:28:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:28:45: [SM] Call stack trace:
+L 09/02/2021 - 19:28:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:28:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:28:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:29:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 19:29:15: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:29:15: [SM] Call stack trace:
+L 09/02/2021 - 19:29:15: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 19:29:15: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 19:29:47: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 19:29:47: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:29:47: [SM] Call stack trace:
+L 09/02/2021 - 19:29:47: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 19:29:47: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 19:30:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 19:30:18: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:30:18: [SM] Call stack trace:
+L 09/02/2021 - 19:30:18: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 19:30:18: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 19:30:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:30:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:30:45: [SM] Call stack trace:
+L 09/02/2021 - 19:30:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:30:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:30:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:30:50: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 19:30:50: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:30:50: [SM] Call stack trace:
+L 09/02/2021 - 19:30:50: [SM]   [0] LogError
+L 09/02/2021 - 19:30:50: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 19:31:21: [SM] Exception reported: String formatted incorrectly - parameter 2 (total 1)
+L 09/02/2021 - 19:31:21: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:31:21: [SM] Call stack trace:
+L 09/02/2021 - 19:31:21: [SM]   [0] LogError
+L 09/02/2021 - 19:31:21: [SM]   [1] Line 103, include/db.sp::SQL_SelectTrickRoutesSpeedTimeCB
+L 09/02/2021 - 19:32:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:32:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:32:45: [SM] Call stack trace:
+L 09/02/2021 - 19:32:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:32:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:32:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:33:25: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 19:33:25: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:33:25: [SM] Call stack trace:
+L 09/02/2021 - 19:33:25: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 19:33:25: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 19:33:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 19:33:57: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:33:57: [SM] Call stack trace:
+L 09/02/2021 - 19:33:57: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 19:33:57: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/02/2021 - 19:34:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:34:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:34:45: [SM] Call stack trace:
+L 09/02/2021 - 19:34:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:34:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:34:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:36:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:36:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:36:45: [SM] Call stack trace:
+L 09/02/2021 - 19:36:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:36:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:36:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:38:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:38:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:38:45: [SM] Call stack trace:
+L 09/02/2021 - 19:38:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:38:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:38:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:40:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:40:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:40:45: [SM] Call stack trace:
+L 09/02/2021 - 19:40:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:40:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:40:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:42:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:42:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:42:45: [SM] Call stack trace:
+L 09/02/2021 - 19:42:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:42:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:42:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:44:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:44:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:44:45: [SM] Call stack trace:
+L 09/02/2021 - 19:44:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:44:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:44:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:46:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:46:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:46:45: [SM] Call stack trace:
+L 09/02/2021 - 19:46:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:46:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:46:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:48:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:48:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:48:45: [SM] Call stack trace:
+L 09/02/2021 - 19:48:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:48:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:48:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:50:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:50:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:50:45: [SM] Call stack trace:
+L 09/02/2021 - 19:50:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:50:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:50:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:52:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:52:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:52:45: [SM] Call stack trace:
+L 09/02/2021 - 19:52:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:52:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:52:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:54:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:54:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:54:45: [SM] Call stack trace:
+L 09/02/2021 - 19:54:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:54:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:54:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:56:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:56:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:56:45: [SM] Call stack trace:
+L 09/02/2021 - 19:56:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:56:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:56:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 19:58:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 19:58:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 19:58:45: [SM] Call stack trace:
+L 09/02/2021 - 19:58:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 19:58:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 19:58:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:00:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:00:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:00:45: [SM] Call stack trace:
+L 09/02/2021 - 20:00:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:00:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:00:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:02:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:02:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:02:45: [SM] Call stack trace:
+L 09/02/2021 - 20:02:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:02:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:02:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:04:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:04:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:04:45: [SM] Call stack trace:
+L 09/02/2021 - 20:04:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:04:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:04:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:06:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:06:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:06:45: [SM] Call stack trace:
+L 09/02/2021 - 20:06:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:06:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:06:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:08:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:08:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:08:45: [SM] Call stack trace:
+L 09/02/2021 - 20:08:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:08:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:08:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:10:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:10:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:10:45: [SM] Call stack trace:
+L 09/02/2021 - 20:10:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:10:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:10:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:12:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:12:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:12:45: [SM] Call stack trace:
+L 09/02/2021 - 20:12:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:12:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:12:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:14:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:14:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:14:45: [SM] Call stack trace:
+L 09/02/2021 - 20:14:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:14:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:14:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:16:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:16:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:16:45: [SM] Call stack trace:
+L 09/02/2021 - 20:16:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:16:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:16:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:18:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:18:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:18:45: [SM] Call stack trace:
+L 09/02/2021 - 20:18:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:18:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:18:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:20:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:20:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:20:45: [SM] Call stack trace:
+L 09/02/2021 - 20:20:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:20:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:20:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:22:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:22:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:22:45: [SM] Call stack trace:
+L 09/02/2021 - 20:22:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:22:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:22:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:24:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:24:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:24:45: [SM] Call stack trace:
+L 09/02/2021 - 20:24:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:24:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:24:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:26:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:26:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:26:45: [SM] Call stack trace:
+L 09/02/2021 - 20:26:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:26:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:26:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:28:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:28:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:28:45: [SM] Call stack trace:
+L 09/02/2021 - 20:28:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:28:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:28:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:30:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:30:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:30:45: [SM] Call stack trace:
+L 09/02/2021 - 20:30:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:30:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:30:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:32:45: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:32:45: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:32:45: [SM] Call stack trace:
+L 09/02/2021 - 20:32:45: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:32:45: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:32:45: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:54:21: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:54:21: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:54:21: [SM] Call stack trace:
+L 09/02/2021 - 20:54:21: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:54:21: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:54:21: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:54:22: Error log file session closed.
+L 09/02/2021 - 20:56:23: SourceMod error session started
+L 09/02/2021 - 20:56:23: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 20:56:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:56:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:56:23: [SM] Call stack trace:
+L 09/02/2021 - 20:56:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:56:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:56:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 20:58:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 20:58:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 20:58:23: [SM] Call stack trace:
+L 09/02/2021 - 20:58:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 20:58:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 20:58:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:00:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:00:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:00:23: [SM] Call stack trace:
+L 09/02/2021 - 21:00:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:00:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:00:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:02:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:02:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:02:23: [SM] Call stack trace:
+L 09/02/2021 - 21:02:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:02:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:02:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:04:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:04:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:04:23: [SM] Call stack trace:
+L 09/02/2021 - 21:04:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:04:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:04:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:06:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:06:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:06:23: [SM] Call stack trace:
+L 09/02/2021 - 21:06:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:06:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:06:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:08:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:08:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:08:23: [SM] Call stack trace:
+L 09/02/2021 - 21:08:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:08:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:08:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:10:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:10:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:10:23: [SM] Call stack trace:
+L 09/02/2021 - 21:10:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:10:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:10:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:12:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:12:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:12:23: [SM] Call stack trace:
+L 09/02/2021 - 21:12:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:12:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:12:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:14:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:14:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:14:23: [SM] Call stack trace:
+L 09/02/2021 - 21:14:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:14:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:14:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:16:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:16:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:16:23: [SM] Call stack trace:
+L 09/02/2021 - 21:16:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:16:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:16:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:18:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:18:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:18:23: [SM] Call stack trace:
+L 09/02/2021 - 21:18:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:18:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:18:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:20:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:20:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:20:23: [SM] Call stack trace:
+L 09/02/2021 - 21:20:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:20:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:20:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:22:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:22:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:22:23: [SM] Call stack trace:
+L 09/02/2021 - 21:22:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:22:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:22:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:24:23: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:24:23: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:24:23: [SM] Call stack trace:
+L 09/02/2021 - 21:24:23: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:24:23: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:24:23: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:25:53: Error log file session closed.
+L 09/02/2021 - 21:26:25: SourceMod error session started
+L 09/02/2021 - 21:26:25: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 21:26:25: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:26:25: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:26:25: [SM] Call stack trace:
+L 09/02/2021 - 21:26:25: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:26:25: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:26:25: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:28:25: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:28:25: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:28:25: [SM] Call stack trace:
+L 09/02/2021 - 21:28:25: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:28:25: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:28:25: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:29:07: Error log file session closed.
+L 09/02/2021 - 21:30:28: SourceMod error session started
+L 09/02/2021 - 21:30:28: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 21:30:28: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:30:28: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:30:28: [SM] Call stack trace:
+L 09/02/2021 - 21:30:28: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:30:28: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:30:28: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:31:05: Error log file session closed.
+L 09/02/2021 - 21:32:32: SourceMod error session started
+L 09/02/2021 - 21:32:32: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 21:32:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:32:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:32:32: [SM] Call stack trace:
+L 09/02/2021 - 21:32:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:32:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:32:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:34:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:34:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:34:32: [SM] Call stack trace:
+L 09/02/2021 - 21:34:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:34:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:34:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:36:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:36:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:36:32: [SM] Call stack trace:
+L 09/02/2021 - 21:36:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:36:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:36:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:38:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:38:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:38:32: [SM] Call stack trace:
+L 09/02/2021 - 21:38:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:38:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:38:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:40:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:40:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:40:32: [SM] Call stack trace:
+L 09/02/2021 - 21:40:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:40:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:40:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:42:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:42:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:42:32: [SM] Call stack trace:
+L 09/02/2021 - 21:42:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:42:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:42:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:44:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:44:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:44:32: [SM] Call stack trace:
+L 09/02/2021 - 21:44:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:44:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:44:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:46:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:46:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:46:32: [SM] Call stack trace:
+L 09/02/2021 - 21:46:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:46:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:46:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:48:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:48:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:48:32: [SM] Call stack trace:
+L 09/02/2021 - 21:48:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:48:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:48:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:50:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:50:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:50:32: [SM] Call stack trace:
+L 09/02/2021 - 21:50:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:50:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:50:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:52:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:52:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:52:32: [SM] Call stack trace:
+L 09/02/2021 - 21:52:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:52:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:52:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:54:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:54:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:54:32: [SM] Call stack trace:
+L 09/02/2021 - 21:54:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:54:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:54:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:56:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:56:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:56:32: [SM] Call stack trace:
+L 09/02/2021 - 21:56:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:56:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:56:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 21:58:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 21:58:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 21:58:32: [SM] Call stack trace:
+L 09/02/2021 - 21:58:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 21:58:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 21:58:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:00:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:00:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:00:32: [SM] Call stack trace:
+L 09/02/2021 - 22:00:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:00:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:00:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:02:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:02:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:02:32: [SM] Call stack trace:
+L 09/02/2021 - 22:02:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:02:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:02:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:04:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:04:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:04:32: [SM] Call stack trace:
+L 09/02/2021 - 22:04:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:04:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:04:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:06:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:06:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:06:32: [SM] Call stack trace:
+L 09/02/2021 - 22:06:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:06:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:06:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:08:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:08:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:08:32: [SM] Call stack trace:
+L 09/02/2021 - 22:08:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:08:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:08:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:10:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:10:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:10:32: [SM] Call stack trace:
+L 09/02/2021 - 22:10:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:10:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:10:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:12:32: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:12:32: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:12:32: [SM] Call stack trace:
+L 09/02/2021 - 22:12:32: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:12:32: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:12:32: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:14:47: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:14:47: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:14:47: [SM] Call stack trace:
+L 09/02/2021 - 22:14:47: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:14:47: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:14:47: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:14:48: Error log file session closed.
+L 09/02/2021 - 22:15:50: SourceMod error session started
+L 09/02/2021 - 22:15:50: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210902.log")
+L 09/02/2021 - 22:15:50: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 22:15:50: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:15:50: [SM] Call stack trace:
+L 09/02/2021 - 22:15:50: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 22:15:50: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 09/02/2021 - 22:15:50: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/02/2021 - 22:15:50: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:15:50: [SM] Call stack trace:
+L 09/02/2021 - 22:15:50: [SM]   [0] DBResultSet.HasResults.get
+L 09/02/2021 - 22:15:50: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 09/02/2021 - 22:16:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:16:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:16:54: [SM] Call stack trace:
+L 09/02/2021 - 22:16:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:16:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:16:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:18:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:18:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:18:54: [SM] Call stack trace:
+L 09/02/2021 - 22:18:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:18:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:18:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:20:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:20:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:20:54: [SM] Call stack trace:
+L 09/02/2021 - 22:20:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:20:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:20:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:22:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:22:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:22:54: [SM] Call stack trace:
+L 09/02/2021 - 22:22:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:22:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:22:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:24:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:24:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:24:54: [SM] Call stack trace:
+L 09/02/2021 - 22:24:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:24:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:24:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:26:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:26:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:26:54: [SM] Call stack trace:
+L 09/02/2021 - 22:26:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:26:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:26:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:28:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:28:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:28:54: [SM] Call stack trace:
+L 09/02/2021 - 22:28:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:28:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:28:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:30:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:30:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:30:54: [SM] Call stack trace:
+L 09/02/2021 - 22:30:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:30:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:30:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:32:54: [SM] Exception reported: Invalid index 48 (count: 0)
+L 09/02/2021 - 22:32:54: [SM] Blaming: dm_trick.smx
+L 09/02/2021 - 22:32:54: [SM] Call stack trace:
+L 09/02/2021 - 22:32:54: [SM]   [0] ArrayList.GetString
+L 09/02/2021 - 22:32:54: [SM]   [1] Line 79, include/top_displays.sp::top_update
+L 09/02/2021 - 22:32:54: [SM]   [2] Line 21, include/top_displays.sp::load_info
+L 09/02/2021 - 22:34:03: Error log file session closed.

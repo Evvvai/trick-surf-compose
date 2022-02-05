@@ -1,0 +1,53 @@
+.footer {
+  position: sticky;
+  width: 100%;
+  z-index: 10;
+  font-size: 0px;
+  height: var(--footer-height);
+
+  svg {
+    width: 100%;
+    height: var(--footer-height-wave);
+    fill: var(--color-header-bg);
+  }
+
+  &Content {
+    width: 100%;
+    height: var(--footer-height-content);
+    background-color: var(--color-header-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: row;
+
+    span {
+      margin: 0 15px;
+      color: var(--color-sub-text);
+    }
+  }
+
+  &Item {
+    color: var(--color-sub-text);
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--color-text);
+    }
+  }
+
+  @include mobile {
+    .footer {
+      &Content {
+        font-size: 0.6rem;
+
+        span {
+          margin: 0 2px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1861 @@
+L 08/31/2021 - 00:02:43: SourceMod error session started
+L 08/31/2021 - 00:02:43: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 00:02:43: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 00:02:43: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 00:02:43: [SM] Call stack trace:
+L 08/31/2021 - 00:02:43: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 00:02:43: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 00:21:29: Error log file session closed.
+L 08/31/2021 - 00:45:10: SourceMod error session started
+L 08/31/2021 - 00:45:10: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 00:45:10: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 00:45:10: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 00:45:10: [SM] Call stack trace:
+L 08/31/2021 - 00:45:10: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 00:45:10: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 01:07:22: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 01:07:22: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 01:07:22: [SM] Call stack trace:
+L 08/31/2021 - 01:07:22: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 01:07:22: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 01:07:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 01:07:41: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 01:07:41: [SM] Call stack trace:
+L 08/31/2021 - 01:07:41: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 01:07:41: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 02:12:34: Error log file session closed.
+L 08/31/2021 - 02:12:35: SourceMod error session started
+L 08/31/2021 - 02:12:35: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 02:12:35: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 02:12:35: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 02:12:35: [SM] Call stack trace:
+L 08/31/2021 - 02:12:35: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 02:12:35: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 11:10:44: Error log file session closed.
+L 08/31/2021 - 11:10:46: SourceMod error session started
+L 08/31/2021 - 11:10:46: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 11:10:46: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 11:10:46: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 11:10:46: [SM] Call stack trace:
+L 08/31/2021 - 11:10:46: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 11:10:46: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 11:38:30: Error log file session closed.
+L 08/31/2021 - 11:38:31: SourceMod error session started
+L 08/31/2021 - 11:38:31: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 11:38:31: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 11:38:31: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 11:38:31: [SM] Call stack trace:
+L 08/31/2021 - 11:38:31: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 11:38:31: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 12:37:58: Error log file session closed.
+L 08/31/2021 - 13:33:31: SourceMod error session started
+L 08/31/2021 - 13:33:31: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 13:33:31: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 13:33:31: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 13:33:31: [SM] Call stack trace:
+L 08/31/2021 - 13:33:31: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 13:33:31: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 08/31/2021 - 13:38:02: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 13:38:02: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 13:38:02: [SM] Call stack trace:
+L 08/31/2021 - 13:38:02: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 13:38:02: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 08/31/2021 - 13:38:02: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 13:38:02: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 13:38:02: [SM] Call stack trace:
+L 08/31/2021 - 13:38:02: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 13:38:02: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 08/31/2021 - 17:40:06: Error log file session closed.
+L 08/31/2021 - 17:40:07: SourceMod error session started
+L 08/31/2021 - 17:40:07: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210831.log")
+L 08/31/2021 - 17:40:07: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 17:40:07: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 17:40:07: [SM] Call stack trace:
+L 08/31/2021 - 17:40:07: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 17:40:07: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/31/2021 - 19:42:40: [SM] Exception reported: Client index 814 is invalid
+L 08/31/2021 - 19:42:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 19:42:40: [SM] Call stack trace:
+L 08/31/2021 - 19:42:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 19:42:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 20:54:34: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:34: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:34: [SM] Call stack trace:
+L 08/31/2021 - 20:54:34: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:34: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:35: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:35: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:35: [SM] Call stack trace:
+L 08/31/2021 - 20:54:35: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:35: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:35: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:35: [SM] Call stack trace:
+L 08/31/2021 - 20:54:35: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:35: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:35: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:35: [SM] Call stack trace:
+L 08/31/2021 - 20:54:35: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:35: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:35: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:35: [SM] Call stack trace:
+L 08/31/2021 - 20:54:35: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:35: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:35: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:35: [SM] Call stack trace:
+L 08/31/2021 - 20:54:35: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:35: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:36: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:36: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:36: [SM] Call stack trace:
+L 08/31/2021 - 20:54:36: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:36: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:36: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:36: [SM] Call stack trace:
+L 08/31/2021 - 20:54:36: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:36: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:36: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:36: [SM] Call stack trace:
+L 08/31/2021 - 20:54:36: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:36: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:36: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:36: [SM] Call stack trace:
+L 08/31/2021 - 20:54:36: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:36: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:36: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:36: [SM] Call stack trace:
+L 08/31/2021 - 20:54:36: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:36: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:37: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:37: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:37: [SM] Call stack trace:
+L 08/31/2021 - 20:54:37: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:37: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:37: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:37: [SM] Call stack trace:
+L 08/31/2021 - 20:54:37: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:37: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:37: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:37: [SM] Call stack trace:
+L 08/31/2021 - 20:54:37: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:37: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:37: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:37: [SM] Call stack trace:
+L 08/31/2021 - 20:54:37: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:37: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:37: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:37: [SM] Call stack trace:
+L 08/31/2021 - 20:54:37: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:37: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:38: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:38: [SM] Call stack trace:
+L 08/31/2021 - 20:54:38: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:38: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:38: [SM] Call stack trace:
+L 08/31/2021 - 20:54:38: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:38: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:38: [SM] Call stack trace:
+L 08/31/2021 - 20:54:38: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:38: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:38: [SM] Call stack trace:
+L 08/31/2021 - 20:54:38: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:38: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:38: [SM] Call stack trace:
+L 08/31/2021 - 20:54:38: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:38: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:39: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:39: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:39: [SM] Call stack trace:
+L 08/31/2021 - 20:54:39: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:39: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:39: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:39: [SM] Call stack trace:
+L 08/31/2021 - 20:54:39: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:39: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:39: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:39: [SM] Call stack trace:
+L 08/31/2021 - 20:54:39: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:39: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:39: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:39: [SM] Call stack trace:
+L 08/31/2021 - 20:54:39: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:39: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:39: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:39: [SM] Call stack trace:
+L 08/31/2021 - 20:54:39: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:39: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:40: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:40: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:40: [SM] Call stack trace:
+L 08/31/2021 - 20:54:40: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:40: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:40: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:40: [SM] Call stack trace:
+L 08/31/2021 - 20:54:40: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:40: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:40: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:40: [SM] Call stack trace:
+L 08/31/2021 - 20:54:40: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:40: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:40: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:40: [SM] Call stack trace:
+L 08/31/2021 - 20:54:40: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:40: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:41: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:41: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:41: [SM] Call stack trace:
+L 08/31/2021 - 20:54:41: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:41: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:41: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:41: [SM] Call stack trace:
+L 08/31/2021 - 20:54:41: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:41: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:41: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:41: [SM] Call stack trace:
+L 08/31/2021 - 20:54:41: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:41: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:41: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:41: [SM] Call stack trace:
+L 08/31/2021 - 20:54:41: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:41: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:41: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:41: [SM] Call stack trace:
+L 08/31/2021 - 20:54:41: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:41: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:42: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:42: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:42: [SM] Call stack trace:
+L 08/31/2021 - 20:54:42: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:42: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:42: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:42: [SM] Call stack trace:
+L 08/31/2021 - 20:54:42: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:42: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:42: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:42: [SM] Call stack trace:
+L 08/31/2021 - 20:54:42: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:42: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:42: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:42: [SM] Call stack trace:
+L 08/31/2021 - 20:54:42: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:42: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:42: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:42: [SM] Call stack trace:
+L 08/31/2021 - 20:54:42: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:42: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:43: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:43: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:43: [SM] Call stack trace:
+L 08/31/2021 - 20:54:43: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:43: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:43: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:43: [SM] Call stack trace:
+L 08/31/2021 - 20:54:43: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:43: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:43: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:43: [SM] Call stack trace:
+L 08/31/2021 - 20:54:43: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:43: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:43: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:43: [SM] Call stack trace:
+L 08/31/2021 - 20:54:43: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:43: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:43: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:43: [SM] Call stack trace:
+L 08/31/2021 - 20:54:43: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:43: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:44: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:44: [SM] Call stack trace:
+L 08/31/2021 - 20:54:44: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:44: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:44: [SM] Call stack trace:
+L 08/31/2021 - 20:54:44: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:44: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:44: [SM] Call stack trace:
+L 08/31/2021 - 20:54:44: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:44: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:44: [SM] Call stack trace:
+L 08/31/2021 - 20:54:44: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:44: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:44: [SM] Call stack trace:
+L 08/31/2021 - 20:54:44: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:44: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:45: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:45: [SM] Call stack trace:
+L 08/31/2021 - 20:54:45: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:45: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:45: [SM] Call stack trace:
+L 08/31/2021 - 20:54:45: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:45: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:45: [SM] Call stack trace:
+L 08/31/2021 - 20:54:45: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:45: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:45: [SM] Call stack trace:
+L 08/31/2021 - 20:54:45: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:45: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:45: [SM] Call stack trace:
+L 08/31/2021 - 20:54:45: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:45: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:46: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:46: [SM] Call stack trace:
+L 08/31/2021 - 20:54:46: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:46: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:46: [SM] Call stack trace:
+L 08/31/2021 - 20:54:46: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:46: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:46: [SM] Call stack trace:
+L 08/31/2021 - 20:54:46: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:46: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:46: [SM] Call stack trace:
+L 08/31/2021 - 20:54:46: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:46: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:46: [SM] Call stack trace:
+L 08/31/2021 - 20:54:46: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:46: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:47: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:47: [SM] Call stack trace:
+L 08/31/2021 - 20:54:47: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:47: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:47: [SM] Call stack trace:
+L 08/31/2021 - 20:54:47: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:47: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:47: [SM] Call stack trace:
+L 08/31/2021 - 20:54:47: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:47: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:47: [SM] Call stack trace:
+L 08/31/2021 - 20:54:47: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:47: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:47: [SM] Call stack trace:
+L 08/31/2021 - 20:54:47: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:47: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:48: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:48: [SM] Call stack trace:
+L 08/31/2021 - 20:54:48: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:48: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:48: [SM] Call stack trace:
+L 08/31/2021 - 20:54:48: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:48: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:48: [SM] Call stack trace:
+L 08/31/2021 - 20:54:48: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:48: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:48: [SM] Call stack trace:
+L 08/31/2021 - 20:54:48: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:48: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:48: [SM] Call stack trace:
+L 08/31/2021 - 20:54:48: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:48: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:49: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:49: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:49: [SM] Call stack trace:
+L 08/31/2021 - 20:54:49: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:49: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:49: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:49: [SM] Call stack trace:
+L 08/31/2021 - 20:54:49: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:49: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:49: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:49: [SM] Call stack trace:
+L 08/31/2021 - 20:54:49: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:49: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:49: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:49: [SM] Call stack trace:
+L 08/31/2021 - 20:54:49: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:49: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:50: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:50: [SM] Call stack trace:
+L 08/31/2021 - 20:54:50: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:50: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:50: [SM] Call stack trace:
+L 08/31/2021 - 20:54:50: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:50: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:50: [SM] Call stack trace:
+L 08/31/2021 - 20:54:50: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:50: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:50: [SM] Call stack trace:
+L 08/31/2021 - 20:54:50: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:50: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:50: [SM] Call stack trace:
+L 08/31/2021 - 20:54:50: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:50: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:51: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:51: [SM] Call stack trace:
+L 08/31/2021 - 20:54:51: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:51: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:51: [SM] Call stack trace:
+L 08/31/2021 - 20:54:51: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:51: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:51: [SM] Call stack trace:
+L 08/31/2021 - 20:54:51: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:51: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:51: [SM] Call stack trace:
+L 08/31/2021 - 20:54:51: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:51: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:51: [SM] Call stack trace:
+L 08/31/2021 - 20:54:51: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:51: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:52: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:52: [SM] Call stack trace:
+L 08/31/2021 - 20:54:52: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:52: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:52: [SM] Call stack trace:
+L 08/31/2021 - 20:54:52: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:52: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:52: [SM] Call stack trace:
+L 08/31/2021 - 20:54:52: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:52: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:52: [SM] Call stack trace:
+L 08/31/2021 - 20:54:52: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:52: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:52: [SM] Call stack trace:
+L 08/31/2021 - 20:54:52: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:52: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:53: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:53: [SM] Call stack trace:
+L 08/31/2021 - 20:54:53: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:53: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:53: [SM] Call stack trace:
+L 08/31/2021 - 20:54:53: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:53: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:53: [SM] Call stack trace:
+L 08/31/2021 - 20:54:53: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:53: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:53: [SM] Call stack trace:
+L 08/31/2021 - 20:54:53: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:53: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:53: [SM] Call stack trace:
+L 08/31/2021 - 20:54:53: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:53: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:54: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:54: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:54: [SM] Call stack trace:
+L 08/31/2021 - 20:54:54: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:54: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:54: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:54: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:54: [SM] Call stack trace:
+L 08/31/2021 - 20:54:54: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:54: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 20:54:54: [SM] Exception reported: Client index 0 is invalid
+L 08/31/2021 - 20:54:54: [SM] Blaming: HitReg_Gxd.smx
+L 08/31/2021 - 20:54:54: [SM] Call stack trace:
+L 08/31/2021 - 20:54:54: [SM]   [0] GetClientWeapon
+L 08/31/2021 - 20:54:54: [SM]   [1] Line 218, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/31/2021 - 21:34:49: [SM] Exception reported: Client index 824 is invalid
+L 08/31/2021 - 21:34:49: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:34:49: [SM] Call stack trace:
+L 08/31/2021 - 21:34:49: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:34:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:34:56: [SM] Exception reported: Client index 824 is invalid
+L 08/31/2021 - 21:34:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:34:56: [SM] Call stack trace:
+L 08/31/2021 - 21:34:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:34:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:34:57: [SM] Exception reported: Client index 824 is invalid
+L 08/31/2021 - 21:34:57: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:34:57: [SM] Call stack trace:
+L 08/31/2021 - 21:34:57: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:34:57: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:34:59: [SM] Exception reported: Client index 824 is invalid
+L 08/31/2021 - 21:34:59: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:34:59: [SM] Call stack trace:
+L 08/31/2021 - 21:34:59: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:34:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:05: [SM] Exception reported: Client index 824 is invalid
+L 08/31/2021 - 21:35:05: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:05: [SM] Call stack trace:
+L 08/31/2021 - 21:35:05: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:05: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:23: [SM] Exception reported: Client 2 is not in game
+L 08/31/2021 - 21:35:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:23: [SM] Call stack trace:
+L 08/31/2021 - 21:35:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:23: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/31/2021 - 21:35:29: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:29: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:29: [SM] Call stack trace:
+L 08/31/2021 - 21:35:29: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:29: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:29: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:29: [SM] Call stack trace:
+L 08/31/2021 - 21:35:29: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:33: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:33: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:33: [SM] Call stack trace:
+L 08/31/2021 - 21:35:33: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:33: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:36: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:36: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:36: [SM] Call stack trace:
+L 08/31/2021 - 21:35:36: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:36: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:44: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:44: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:44: [SM] Call stack trace:
+L 08/31/2021 - 21:35:44: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:44: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:44: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:44: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:44: [SM] Call stack trace:
+L 08/31/2021 - 21:35:44: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:44: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:45: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:45: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:45: [SM] Call stack trace:
+L 08/31/2021 - 21:35:45: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:45: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:45: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:45: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:45: [SM] Call stack trace:
+L 08/31/2021 - 21:35:45: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:45: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:46: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:46: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:46: [SM] Call stack trace:
+L 08/31/2021 - 21:35:46: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:46: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:46: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:46: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:46: [SM] Call stack trace:
+L 08/31/2021 - 21:35:46: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:46: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:46: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:46: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:46: [SM] Call stack trace:
+L 08/31/2021 - 21:35:46: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:46: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:47: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:47: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:47: [SM] Call stack trace:
+L 08/31/2021 - 21:35:47: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:47: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:47: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:47: [SM] Call stack trace:
+L 08/31/2021 - 21:35:47: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:35:51: [SM] Exception reported: Client index 509 is invalid
+L 08/31/2021 - 21:35:51: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:35:51: [SM] Call stack trace:
+L 08/31/2021 - 21:35:51: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:35:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:37:38: [SM] Exception reported: Client 2 is not in game
+L 08/31/2021 - 21:37:38: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:37:38: [SM] Call stack trace:
+L 08/31/2021 - 21:37:38: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:37:38: [SM]   [1] Line 165, /home/forums/content/files/2/7/7/4/6/3/183646.attach::CSS_Hook_ShotgunShot
+L 08/31/2021 - 21:39:20: [SM] Exception reported: Client 6 is not in game
+L 08/31/2021 - 21:39:20: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 21:39:20: [SM] Call stack trace:
+L 08/31/2021 - 21:39:20: [SM]   [0] IsPlayerAlive
+L 08/31/2021 - 21:39:20: [SM]   [1] Line 36, include/saveloc.sp::cmd_teleport
+L 08/31/2021 - 21:39:47: [SM] Exception reported: Client index 833 is invalid
+L 08/31/2021 - 21:39:47: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:39:47: [SM] Call stack trace:
+L 08/31/2021 - 21:39:47: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:39:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:39:48: [SM] Exception reported: Client index 833 is invalid
+L 08/31/2021 - 21:39:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:39:48: [SM] Call stack trace:
+L 08/31/2021 - 21:39:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:39:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:39:48: [SM] Exception reported: Client index 833 is invalid
+L 08/31/2021 - 21:39:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:39:48: [SM] Call stack trace:
+L 08/31/2021 - 21:39:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:39:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 21:39:49: [SM] Exception reported: Client index 833 is invalid
+L 08/31/2021 - 21:39:49: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 21:39:49: [SM] Call stack trace:
+L 08/31/2021 - 21:39:49: [SM]   [0] GetClientTeam
+L 08/31/2021 - 21:39:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:06: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:06: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:06: [SM] Call stack trace:
+L 08/31/2021 - 22:05:06: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:06: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:07: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:07: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:07: [SM] Call stack trace:
+L 08/31/2021 - 22:05:07: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:07: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:07: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:07: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:07: [SM] Call stack trace:
+L 08/31/2021 - 22:05:07: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:07: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:08: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:08: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:08: [SM] Call stack trace:
+L 08/31/2021 - 22:05:08: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:08: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:08: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:08: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:08: [SM] Call stack trace:
+L 08/31/2021 - 22:05:08: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:08: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:09: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:09: [SM] Call stack trace:
+L 08/31/2021 - 22:05:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:09: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:09: [SM] Call stack trace:
+L 08/31/2021 - 22:05:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:09: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:09: [SM] Call stack trace:
+L 08/31/2021 - 22:05:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:10: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:10: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:10: [SM] Call stack trace:
+L 08/31/2021 - 22:05:10: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:10: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:10: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:10: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:10: [SM] Call stack trace:
+L 08/31/2021 - 22:05:10: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:10: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:11: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:11: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:11: [SM] Call stack trace:
+L 08/31/2021 - 22:05:11: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:11: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:11: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:11: [SM] Call stack trace:
+L 08/31/2021 - 22:05:11: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:18: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:18: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:18: [SM] Call stack trace:
+L 08/31/2021 - 22:05:18: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:18: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:39: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:39: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:39: [SM] Call stack trace:
+L 08/31/2021 - 22:05:39: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:39: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:39: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:39: [SM] Call stack trace:
+L 08/31/2021 - 22:05:39: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:39: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:39: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:39: [SM] Call stack trace:
+L 08/31/2021 - 22:05:39: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:40: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:40: [SM] Call stack trace:
+L 08/31/2021 - 22:05:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:40: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:40: [SM] Call stack trace:
+L 08/31/2021 - 22:05:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:41: [SM] Call stack trace:
+L 08/31/2021 - 22:05:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:41: [SM] Call stack trace:
+L 08/31/2021 - 22:05:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:41: [SM] Call stack trace:
+L 08/31/2021 - 22:05:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:42: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:42: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:42: [SM] Call stack trace:
+L 08/31/2021 - 22:05:42: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:42: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:43: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:05:43: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:43: [SM] Call stack trace:
+L 08/31/2021 - 22:05:43: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:43: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:52: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:52: [SM] Call stack trace:
+L 08/31/2021 - 22:05:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:52: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:52: [SM] Call stack trace:
+L 08/31/2021 - 22:05:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:53: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:53: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:53: [SM] Call stack trace:
+L 08/31/2021 - 22:05:53: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:53: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:53: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:53: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:53: [SM] Call stack trace:
+L 08/31/2021 - 22:05:53: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:53: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:54: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:54: [SM] Call stack trace:
+L 08/31/2021 - 22:05:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:54: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:54: [SM] Call stack trace:
+L 08/31/2021 - 22:05:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:54: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:54: [SM] Call stack trace:
+L 08/31/2021 - 22:05:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:55: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:55: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:55: [SM] Call stack trace:
+L 08/31/2021 - 22:05:55: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:55: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:55: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:55: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:55: [SM] Call stack trace:
+L 08/31/2021 - 22:05:55: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:55: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:56: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:56: [SM] Call stack trace:
+L 08/31/2021 - 22:05:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:56: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:56: [SM] Call stack trace:
+L 08/31/2021 - 22:05:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:56: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:56: [SM] Call stack trace:
+L 08/31/2021 - 22:05:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:57: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:57: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:57: [SM] Call stack trace:
+L 08/31/2021 - 22:05:57: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:57: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:57: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:57: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:57: [SM] Call stack trace:
+L 08/31/2021 - 22:05:57: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:57: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:58: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:58: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:58: [SM] Call stack trace:
+L 08/31/2021 - 22:05:58: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:58: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:58: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:58: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:58: [SM] Call stack trace:
+L 08/31/2021 - 22:05:58: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:58: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:58: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:58: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:58: [SM] Call stack trace:
+L 08/31/2021 - 22:05:58: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:58: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:59: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:59: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:59: [SM] Call stack trace:
+L 08/31/2021 - 22:05:59: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:05:59: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:05:59: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:05:59: [SM] Call stack trace:
+L 08/31/2021 - 22:05:59: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:05:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:00: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:00: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:00: [SM] Call stack trace:
+L 08/31/2021 - 22:06:00: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:00: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:00: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:00: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:00: [SM] Call stack trace:
+L 08/31/2021 - 22:06:00: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:00: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:00: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:00: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:00: [SM] Call stack trace:
+L 08/31/2021 - 22:06:00: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:00: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:01: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:01: [SM] Call stack trace:
+L 08/31/2021 - 22:06:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:01: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:01: [SM] Call stack trace:
+L 08/31/2021 - 22:06:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:02: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:02: [SM] Call stack trace:
+L 08/31/2021 - 22:06:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:02: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:02: [SM] Call stack trace:
+L 08/31/2021 - 22:06:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:02: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:02: [SM] Call stack trace:
+L 08/31/2021 - 22:06:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:03: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:03: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:03: [SM] Call stack trace:
+L 08/31/2021 - 22:06:03: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:03: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:03: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:03: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:03: [SM] Call stack trace:
+L 08/31/2021 - 22:06:03: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:03: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:04: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:04: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:04: [SM] Call stack trace:
+L 08/31/2021 - 22:06:04: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:04: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:04: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:04: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:04: [SM] Call stack trace:
+L 08/31/2021 - 22:06:04: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:04: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:04: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:04: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:04: [SM] Call stack trace:
+L 08/31/2021 - 22:06:04: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:04: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:05: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:05: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:05: [SM] Call stack trace:
+L 08/31/2021 - 22:06:05: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:05: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:05: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:05: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:05: [SM] Call stack trace:
+L 08/31/2021 - 22:06:05: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:05: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:06: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:06: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:06: [SM] Call stack trace:
+L 08/31/2021 - 22:06:06: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:06: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:06: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:06: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:06: [SM] Call stack trace:
+L 08/31/2021 - 22:06:06: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:06: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:06: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:06: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:06: [SM] Call stack trace:
+L 08/31/2021 - 22:06:07: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:07: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:07: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:07: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:07: [SM] Call stack trace:
+L 08/31/2021 - 22:06:07: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:07: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:07: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:07: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:07: [SM] Call stack trace:
+L 08/31/2021 - 22:06:07: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:07: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:08: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:08: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:08: [SM] Call stack trace:
+L 08/31/2021 - 22:06:08: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:08: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:08: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:08: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:08: [SM] Call stack trace:
+L 08/31/2021 - 22:06:08: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:08: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:09: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:09: [SM] Call stack trace:
+L 08/31/2021 - 22:06:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:09: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:09: [SM] Call stack trace:
+L 08/31/2021 - 22:06:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:09: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:09: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:09: [SM] Call stack trace:
+L 08/31/2021 - 22:06:09: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:10: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:10: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:10: [SM] Call stack trace:
+L 08/31/2021 - 22:06:10: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:10: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:10: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:10: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:10: [SM] Call stack trace:
+L 08/31/2021 - 22:06:10: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:10: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:11: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:11: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:11: [SM] Call stack trace:
+L 08/31/2021 - 22:06:11: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:11: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:11: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:11: [SM] Call stack trace:
+L 08/31/2021 - 22:06:11: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:11: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:06:11: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:11: [SM] Call stack trace:
+L 08/31/2021 - 22:06:11: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:20: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:20: [SM] Call stack trace:
+L 08/31/2021 - 22:06:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:20: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:20: [SM] Call stack trace:
+L 08/31/2021 - 22:06:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:21: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:21: [SM] Call stack trace:
+L 08/31/2021 - 22:06:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:21: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:21: [SM] Call stack trace:
+L 08/31/2021 - 22:06:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:21: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:21: [SM] Call stack trace:
+L 08/31/2021 - 22:06:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:22: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:22: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:22: [SM] Call stack trace:
+L 08/31/2021 - 22:06:22: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:22: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:22: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:22: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:22: [SM] Call stack trace:
+L 08/31/2021 - 22:06:22: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:22: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:23: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:23: [SM] Call stack trace:
+L 08/31/2021 - 22:06:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:23: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:23: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:23: [SM] Call stack trace:
+L 08/31/2021 - 22:06:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:23: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:25: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:25: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:25: [SM] Call stack trace:
+L 08/31/2021 - 22:06:25: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:25: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:25: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:25: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:25: [SM] Call stack trace:
+L 08/31/2021 - 22:06:25: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:25: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:26: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:26: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:26: [SM] Call stack trace:
+L 08/31/2021 - 22:06:26: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:26: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:26: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:26: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:26: [SM] Call stack trace:
+L 08/31/2021 - 22:06:26: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:26: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:27: [SM] Exception reported: Client index 858 is invalid
+L 08/31/2021 - 22:06:27: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:27: [SM] Call stack trace:
+L 08/31/2021 - 22:06:27: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:27: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:51: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:51: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:51: [SM] Call stack trace:
+L 08/31/2021 - 22:06:51: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:51: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:51: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:51: [SM] Call stack trace:
+L 08/31/2021 - 22:06:51: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:52: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:52: [SM] Call stack trace:
+L 08/31/2021 - 22:06:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:52: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:52: [SM] Call stack trace:
+L 08/31/2021 - 22:06:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:52: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:52: [SM] Call stack trace:
+L 08/31/2021 - 22:06:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:53: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:53: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:53: [SM] Call stack trace:
+L 08/31/2021 - 22:06:53: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:53: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:53: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:53: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:53: [SM] Call stack trace:
+L 08/31/2021 - 22:06:53: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:53: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:54: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:54: [SM] Call stack trace:
+L 08/31/2021 - 22:06:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:54: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:54: [SM] Call stack trace:
+L 08/31/2021 - 22:06:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:54: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:54: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:54: [SM] Call stack trace:
+L 08/31/2021 - 22:06:54: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:55: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:55: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:55: [SM] Call stack trace:
+L 08/31/2021 - 22:06:55: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:55: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:55: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:55: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:55: [SM] Call stack trace:
+L 08/31/2021 - 22:06:55: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:55: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:56: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:56: [SM] Call stack trace:
+L 08/31/2021 - 22:06:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:56: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:56: [SM] Call stack trace:
+L 08/31/2021 - 22:06:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:56: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:56: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:56: [SM] Call stack trace:
+L 08/31/2021 - 22:06:56: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:56: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:57: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:57: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:57: [SM] Call stack trace:
+L 08/31/2021 - 22:06:57: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:57: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:57: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:57: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:57: [SM] Call stack trace:
+L 08/31/2021 - 22:06:57: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:57: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:58: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:58: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:58: [SM] Call stack trace:
+L 08/31/2021 - 22:06:58: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:58: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:06:58: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:06:58: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:06:58: [SM] Call stack trace:
+L 08/31/2021 - 22:06:58: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:06:58: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:01: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:01: [SM] Call stack trace:
+L 08/31/2021 - 22:07:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:01: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:01: [SM] Call stack trace:
+L 08/31/2021 - 22:07:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:02: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:02: [SM] Call stack trace:
+L 08/31/2021 - 22:07:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:02: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:02: [SM] Call stack trace:
+L 08/31/2021 - 22:07:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:02: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:02: [SM] Call stack trace:
+L 08/31/2021 - 22:07:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:18: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:18: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:18: [SM] Call stack trace:
+L 08/31/2021 - 22:07:18: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:18: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:19: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:19: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:19: [SM] Call stack trace:
+L 08/31/2021 - 22:07:19: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:19: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:19: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:19: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:19: [SM] Call stack trace:
+L 08/31/2021 - 22:07:19: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:19: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:19: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:19: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:19: [SM] Call stack trace:
+L 08/31/2021 - 22:07:19: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:19: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:20: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:20: [SM] Call stack trace:
+L 08/31/2021 - 22:07:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:20: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:20: [SM] Call stack trace:
+L 08/31/2021 - 22:07:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:21: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:21: [SM] Call stack trace:
+L 08/31/2021 - 22:07:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:21: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:21: [SM] Call stack trace:
+L 08/31/2021 - 22:07:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:21: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:21: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:21: [SM] Call stack trace:
+L 08/31/2021 - 22:07:21: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:21: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:23: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:23: [SM] Call stack trace:
+L 08/31/2021 - 22:07:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:23: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:23: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:23: [SM] Call stack trace:
+L 08/31/2021 - 22:07:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:23: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:23: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:23: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:23: [SM] Call stack trace:
+L 08/31/2021 - 22:07:23: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:23: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:24: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:24: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:24: [SM] Call stack trace:
+L 08/31/2021 - 22:07:24: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:24: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:24: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:24: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:24: [SM] Call stack trace:
+L 08/31/2021 - 22:07:24: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:24: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:25: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:25: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:25: [SM] Call stack trace:
+L 08/31/2021 - 22:07:25: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:25: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:25: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:25: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:25: [SM] Call stack trace:
+L 08/31/2021 - 22:07:25: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:25: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:25: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:25: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:25: [SM] Call stack trace:
+L 08/31/2021 - 22:07:25: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:25: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:26: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:26: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:26: [SM] Call stack trace:
+L 08/31/2021 - 22:07:26: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:26: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:26: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:26: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:26: [SM] Call stack trace:
+L 08/31/2021 - 22:07:26: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:26: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:27: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:27: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:27: [SM] Call stack trace:
+L 08/31/2021 - 22:07:27: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:27: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:27: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:27: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:27: [SM] Call stack trace:
+L 08/31/2021 - 22:07:27: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:27: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:27: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:27: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:27: [SM] Call stack trace:
+L 08/31/2021 - 22:07:27: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:27: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:28: [SM] Exception reported: Client index 838 is invalid
+L 08/31/2021 - 22:07:28: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:28: [SM] Call stack trace:
+L 08/31/2021 - 22:07:28: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:28: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:50: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:50: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:50: [SM] Call stack trace:
+L 08/31/2021 - 22:07:50: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:59: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:59: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:59: [SM] Call stack trace:
+L 08/31/2021 - 22:07:59: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:07:59: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:07:59: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:07:59: [SM] Call stack trace:
+L 08/31/2021 - 22:07:59: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:07:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:12: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:12: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:12: [SM] Call stack trace:
+L 08/31/2021 - 22:08:12: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:12: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:12: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:12: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:12: [SM] Call stack trace:
+L 08/31/2021 - 22:08:12: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:12: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:12: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:12: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:12: [SM] Call stack trace:
+L 08/31/2021 - 22:08:12: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:12: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:13: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:13: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:13: [SM] Call stack trace:
+L 08/31/2021 - 22:08:13: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:13: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:13: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:13: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:13: [SM] Call stack trace:
+L 08/31/2021 - 22:08:13: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:13: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:14: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:14: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:14: [SM] Call stack trace:
+L 08/31/2021 - 22:08:14: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:14: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:14: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:14: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:14: [SM] Call stack trace:
+L 08/31/2021 - 22:08:14: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:14: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:14: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:14: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:14: [SM] Call stack trace:
+L 08/31/2021 - 22:08:14: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:14: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:15: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:15: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:15: [SM] Call stack trace:
+L 08/31/2021 - 22:08:15: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:15: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:15: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:15: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:15: [SM] Call stack trace:
+L 08/31/2021 - 22:08:15: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:15: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:16: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:16: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:16: [SM] Call stack trace:
+L 08/31/2021 - 22:08:16: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:16: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:16: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:16: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:16: [SM] Call stack trace:
+L 08/31/2021 - 22:08:16: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:16: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:16: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:16: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:16: [SM] Call stack trace:
+L 08/31/2021 - 22:08:16: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:16: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:17: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:17: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:17: [SM] Call stack trace:
+L 08/31/2021 - 22:08:17: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:17: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:17: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:17: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:17: [SM] Call stack trace:
+L 08/31/2021 - 22:08:17: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:17: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:18: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:18: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:18: [SM] Call stack trace:
+L 08/31/2021 - 22:08:18: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:18: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:18: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:18: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:18: [SM] Call stack trace:
+L 08/31/2021 - 22:08:18: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:18: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:18: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:18: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:18: [SM] Call stack trace:
+L 08/31/2021 - 22:08:18: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:18: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:19: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:19: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:19: [SM] Call stack trace:
+L 08/31/2021 - 22:08:19: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:19: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:19: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:19: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:19: [SM] Call stack trace:
+L 08/31/2021 - 22:08:19: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:19: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:20: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:20: [SM] Call stack trace:
+L 08/31/2021 - 22:08:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:20: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:20: [SM] Call stack trace:
+L 08/31/2021 - 22:08:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:20: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:20: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:20: [SM] Call stack trace:
+L 08/31/2021 - 22:08:20: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:20: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:28: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:28: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:28: [SM] Call stack trace:
+L 08/31/2021 - 22:08:28: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:28: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:28: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:28: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:28: [SM] Call stack trace:
+L 08/31/2021 - 22:08:28: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:28: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:29: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:29: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:29: [SM] Call stack trace:
+L 08/31/2021 - 22:08:29: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:29: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:29: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:29: [SM] Call stack trace:
+L 08/31/2021 - 22:08:29: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:29: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:29: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:29: [SM] Call stack trace:
+L 08/31/2021 - 22:08:29: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:30: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:30: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:30: [SM] Call stack trace:
+L 08/31/2021 - 22:08:30: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:30: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:30: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:30: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:30: [SM] Call stack trace:
+L 08/31/2021 - 22:08:30: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:30: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:31: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:31: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:31: [SM] Call stack trace:
+L 08/31/2021 - 22:08:31: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:31: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:31: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:31: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:31: [SM] Call stack trace:
+L 08/31/2021 - 22:08:31: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:31: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:31: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:31: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:31: [SM] Call stack trace:
+L 08/31/2021 - 22:08:31: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:31: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:32: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:32: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:32: [SM] Call stack trace:
+L 08/31/2021 - 22:08:32: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:32: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:32: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:32: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:32: [SM] Call stack trace:
+L 08/31/2021 - 22:08:32: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:32: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:33: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:33: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:33: [SM] Call stack trace:
+L 08/31/2021 - 22:08:33: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:33: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:33: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:33: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:33: [SM] Call stack trace:
+L 08/31/2021 - 22:08:33: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:33: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:33: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:33: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:33: [SM] Call stack trace:
+L 08/31/2021 - 22:08:33: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:33: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:35: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:35: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:35: [SM] Call stack trace:
+L 08/31/2021 - 22:08:35: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:35: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:41: [SM] Call stack trace:
+L 08/31/2021 - 22:08:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:41: [SM] Call stack trace:
+L 08/31/2021 - 22:08:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:41: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:41: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:41: [SM] Call stack trace:
+L 08/31/2021 - 22:08:41: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:41: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:42: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:42: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:42: [SM] Call stack trace:
+L 08/31/2021 - 22:08:42: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:42: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:42: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:42: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:42: [SM] Call stack trace:
+L 08/31/2021 - 22:08:42: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:42: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:43: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:43: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:43: [SM] Call stack trace:
+L 08/31/2021 - 22:08:43: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:43: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:43: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:43: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:43: [SM] Call stack trace:
+L 08/31/2021 - 22:08:43: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:43: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:43: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:43: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:43: [SM] Call stack trace:
+L 08/31/2021 - 22:08:43: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:43: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:44: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:44: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:44: [SM] Call stack trace:
+L 08/31/2021 - 22:08:44: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:44: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:44: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:44: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:44: [SM] Call stack trace:
+L 08/31/2021 - 22:08:44: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:44: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:45: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:45: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:45: [SM] Call stack trace:
+L 08/31/2021 - 22:08:45: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:45: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:08:45: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:08:45: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:08:45: [SM] Call stack trace:
+L 08/31/2021 - 22:08:45: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:08:45: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:34: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:34: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:34: [SM] Call stack trace:
+L 08/31/2021 - 22:09:34: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:34: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:34: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:34: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:34: [SM] Call stack trace:
+L 08/31/2021 - 22:09:34: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:34: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:35: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:35: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:35: [SM] Call stack trace:
+L 08/31/2021 - 22:09:35: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:35: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:35: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:35: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:35: [SM] Call stack trace:
+L 08/31/2021 - 22:09:35: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:35: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:35: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:35: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:35: [SM] Call stack trace:
+L 08/31/2021 - 22:09:35: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:35: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:36: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:36: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:36: [SM] Call stack trace:
+L 08/31/2021 - 22:09:36: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:36: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:36: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:36: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:36: [SM] Call stack trace:
+L 08/31/2021 - 22:09:36: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:36: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:37: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:37: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:37: [SM] Call stack trace:
+L 08/31/2021 - 22:09:37: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:37: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:38: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:38: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:38: [SM] Call stack trace:
+L 08/31/2021 - 22:09:38: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:38: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:38: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:38: [SM] Call stack trace:
+L 08/31/2021 - 22:09:38: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:38: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:38: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:38: [SM] Call stack trace:
+L 08/31/2021 - 22:09:38: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:39: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:39: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:39: [SM] Call stack trace:
+L 08/31/2021 - 22:09:39: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:40: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:40: [SM] Call stack trace:
+L 08/31/2021 - 22:09:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:40: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:40: [SM] Call stack trace:
+L 08/31/2021 - 22:09:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:40: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:40: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:40: [SM] Call stack trace:
+L 08/31/2021 - 22:09:40: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:48: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:48: [SM] Call stack trace:
+L 08/31/2021 - 22:09:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:49: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:49: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:49: [SM] Call stack trace:
+L 08/31/2021 - 22:09:49: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:49: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:49: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:49: [SM] Call stack trace:
+L 08/31/2021 - 22:09:49: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:49: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:50: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:50: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:50: [SM] Call stack trace:
+L 08/31/2021 - 22:09:50: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:50: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:50: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:50: [SM] Call stack trace:
+L 08/31/2021 - 22:09:50: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:50: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:50: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:50: [SM] Call stack trace:
+L 08/31/2021 - 22:09:50: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:51: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:51: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:51: [SM] Call stack trace:
+L 08/31/2021 - 22:09:51: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:51: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:51: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:51: [SM] Call stack trace:
+L 08/31/2021 - 22:09:51: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:51: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:52: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:52: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:52: [SM] Call stack trace:
+L 08/31/2021 - 22:09:52: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:52: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:09:53: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:09:53: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:09:53: [SM] Call stack trace:
+L 08/31/2021 - 22:09:53: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:09:53: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:00: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:00: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:00: [SM] Call stack trace:
+L 08/31/2021 - 22:10:00: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:00: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:01: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:01: [SM] Call stack trace:
+L 08/31/2021 - 22:10:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:01: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:01: [SM] Call stack trace:
+L 08/31/2021 - 22:10:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:01: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:01: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:01: [SM] Call stack trace:
+L 08/31/2021 - 22:10:01: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:01: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:02: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:02: [SM] Call stack trace:
+L 08/31/2021 - 22:10:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:02: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:02: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:02: [SM] Call stack trace:
+L 08/31/2021 - 22:10:02: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:02: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:03: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:03: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:03: [SM] Call stack trace:
+L 08/31/2021 - 22:10:03: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:03: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:03: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:03: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:03: [SM] Call stack trace:
+L 08/31/2021 - 22:10:03: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:03: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:04: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:04: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:04: [SM] Call stack trace:
+L 08/31/2021 - 22:10:04: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:04: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:04: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:04: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:04: [SM] Call stack trace:
+L 08/31/2021 - 22:10:04: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:04: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:05: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:05: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:05: [SM] Call stack trace:
+L 08/31/2021 - 22:10:05: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:05: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:05: [SM] Exception reported: Client index 827 is invalid
+L 08/31/2021 - 22:10:05: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:05: [SM] Call stack trace:
+L 08/31/2021 - 22:10:05: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:05: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:46: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:46: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:46: [SM] Call stack trace:
+L 08/31/2021 - 22:10:46: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:46: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:46: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:46: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:46: [SM] Call stack trace:
+L 08/31/2021 - 22:10:46: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:46: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:47: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:47: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:47: [SM] Call stack trace:
+L 08/31/2021 - 22:10:47: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:47: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:47: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:47: [SM] Call stack trace:
+L 08/31/2021 - 22:10:47: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:47: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:48: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:48: [SM] Call stack trace:
+L 08/31/2021 - 22:10:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:48: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:48: [SM] Call stack trace:
+L 08/31/2021 - 22:10:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:48: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:48: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:48: [SM] Call stack trace:
+L 08/31/2021 - 22:10:48: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:48: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 22:10:50: [SM] Exception reported: Client index 839 is invalid
+L 08/31/2021 - 22:10:50: [SM] Blaming: sm_hide.smx
+L 08/31/2021 - 22:10:50: [SM] Call stack trace:
+L 08/31/2021 - 22:10:50: [SM]   [0] GetClientTeam
+L 08/31/2021 - 22:10:50: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/31/2021 - 23:20:08: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/31/2021 - 23:20:08: [SM] Blaming: dm_trick.smx
+L 08/31/2021 - 23:20:08: [SM] Call stack trace:
+L 08/31/2021 - 23:20:08: [SM]   [0] DBResultSet.HasResults.get
+L 08/31/2021 - 23:20:08: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/01/2021 - 00:15:22: Error log file session closed.

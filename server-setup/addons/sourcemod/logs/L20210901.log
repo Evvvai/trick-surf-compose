@@ -1,0 +1,42 @@
+L 09/01/2021 - 00:15:22: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210901.log") (Version "1.10.0.6510")
+L 09/01/2021 - 00:15:22: [basebans.smx] "ᴇᴠʌı<94><STEAM_1:0:108778791><>" banned "surf_[НЕРАЗБОРЧИВО]<96><STEAM_1:1:80244186><>" (minutes "0") (reason "Racism")
+L 09/01/2021 - 00:15:53: [basebans.smx] "ᴇᴠʌı<94><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:1146082")
+L 09/01/2021 - 03:24:03: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 03:24:03: [dm_trick.smx]  SUCCESS db_connect()
+L 09/01/2021 - 03:24:32: [basecommands.smx] "Tixie<108><STEAM_1:0:517395575><>" changed map to "surf_trick_gxd_v1"
+L 09/01/2021 - 03:24:35: [SM] Changed map to "surf_trick_gxd_v1"
+L 09/01/2021 - 03:24:37: -------- Mapchange to surf_trick_gxd_v1 --------
+L 09/01/2021 - 03:25:35: -------- Mapchange to surf_trick_gxd_v1 --------
+L 09/01/2021 - 03:36:00: -------- Mapchange to awp_relict --------
+L 09/01/2021 - 03:36:03: -------- Mapchange to awp_relict --------
+L 09/01/2021 - 03:45:53: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 03:50:53: -------- Mapchange to awp_relict --------
+L 09/01/2021 - 03:50:53: [dm_trick.smx]  SUCCESS db_connect()
+L 09/01/2021 - 03:50:59: -------- Mapchange to awp_relict --------
+L 09/01/2021 - 03:51:27: -------- Mapchange to awp_relict --------
+L 09/01/2021 - 04:11:11: [funcommands.smx] "ᴇᴠʌı<113><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<113><STEAM_1:0:108778791><>"
+L 09/01/2021 - 04:11:11: [funcommands.smx] "ᴇᴠʌı<113><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<113><STEAM_1:0:108778791><>"
+L 09/01/2021 - 04:21:38: [funcommands.smx] "ᴇᴠʌı<113><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<113><STEAM_1:0:108778791><>"
+L 09/01/2021 - 04:21:39: [funcommands.smx] "ᴇᴠʌı<113><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<113><STEAM_1:0:108778791><>"
+L 09/01/2021 - 04:24:06: [basecommands.smx] "Tixie<114><STEAM_1:0:517395575><>" changed map to "surf_trick_gxd"
+L 09/01/2021 - 04:24:09: [SM] Changed map to "surf_trick_gxd"
+L 09/01/2021 - 04:24:10: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 04:24:38: Log file closed.
+L 09/01/2021 - 04:24:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210901.log") (Version "1.10.0.6510")
+L 09/01/2021 - 04:24:54: [dm_trick.smx]  SUCCESS db_connect()
+L 09/01/2021 - 10:41:25: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 11:00:03: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 15:27:31: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 15:37:23: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 15:45:15: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 17:16:35: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 17:16:38: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 17:16:40: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 17:16:40: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 17:17:45: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 17:17:48: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 09/01/2021 - 22:51:13: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 23:19:03: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 23:19:21: -------- Mapchange to surf_trick_gxd --------
+L 09/01/2021 - 23:19:28: -------- Mapchange to surf_trick_gxd --------
+L 09/02/2021 - 00:45:33: Log file closed.

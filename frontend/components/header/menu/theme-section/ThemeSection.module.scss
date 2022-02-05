@@ -1,0 +1,43 @@
+.theme {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+  width: 100%;
+  overflow-x: hidden;
+
+  * {
+    font-size: 1rem;
+  }
+
+  :first-child {
+    min-width: 24px;
+    min-height: 24px;
+  }
+}
+
+.variouse {
+  width: 100%;
+  gap: 5px;
+  justify-content: center;
+
+  svg {
+    min-width: 24px;
+    min-height: 24px;
+
+    &:hover {
+      fill: var(--color-highlight);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+  }
+
+  transform: translateX(150px);
+
+  &.Active {
+    transform: translateX(0px);
+    transition: all 0.2s ease-in;
+  }
+  transition: all 0.2s ease-out;
+}

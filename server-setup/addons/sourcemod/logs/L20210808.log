@@ -1,0 +1,153 @@
+L 08/08/2021 - 07:55:16: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 07:55:16: -------- Mapchange to surf_trick_sg --------
+L 08/08/2021 - 07:56:01: -------- Mapchange to surf_trick_sg --------
+L 08/08/2021 - 08:21:23: -------- Mapchange to surf_trick_sg --------
+L 08/08/2021 - 08:45:07: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 08:45:07: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 08:46:33: Log file closed.
+L 08/08/2021 - 08:47:08: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 08:47:08: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 08:51:49: Log file closed.
+L 08/08/2021 - 08:54:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 08:54:54: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 08:55:50: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 08:55:53: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 08:55:56: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 08:55:56: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 08:57:08: [basecommands.smx] "LYTH<3><STEAM_1:0:159860788><>" kicked "ᴇᴠʌı<2><STEAM_1:0:108778791><>" (reason "")
+L 08/08/2021 - 09:01:39: [basecommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:01:43: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:01:45: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:01:45: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:03:11: [basecommands.smx] "LYTH<3><STEAM_1:0:159860788><>" kicked "ᴇᴠʌı<4><STEAM_1:0:108778791><>" (reason "")
+L 08/08/2021 - 09:12:32: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:12:35: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:12:38: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:12:38: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:17:39: [basecommands.smx] "ᴇᴠʌı<8><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:17:42: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:17:45: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:17:45: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:25:49: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:30:33: [basecommands.smx] "ᴇᴠʌı<11><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:30:36: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:30:39: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:33:22: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 09:33:22: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:33:43: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:34:33: Log file closed.
+L 08/08/2021 - 09:34:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 09:34:54: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:35:13: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:35:18: Log file closed.
+L 08/08/2021 - 09:35:39: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 09:35:39: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:36:32: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:38:06: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:38:09: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:38:12: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:38:12: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:43:13: [basecommands.smx] "ᴇᴠʌı<4><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 09:43:16: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 09:43:18: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 09:43:18: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 09:45:23: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" kicked "Greg<6><BOT><>" (reason "")
+L 08/08/2021 - 09:45:24: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" kicked "Tim<8><BOT><>" (reason "")
+L 08/08/2021 - 09:45:30: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" kicked "LYTH<3><STEAM_1:0:159860788><>" (reason "")
+L 08/08/2021 - 10:20:38: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed cvar (cvar "sv_staminarecoveryrate") (value "0")
+L 08/08/2021 - 10:21:12: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed cvar (cvar "sv_staminamax") (value "9999999")
+L 08/08/2021 - 10:21:33: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed cvar (cvar "sv_staminarecoveryrate") (value "1000")
+L 08/08/2021 - 10:32:47: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 10:32:50: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 10:32:53: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 12:13:36: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 12:13:40: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 12:13:43: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 12:13:43: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 12:21:21: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 12:21:24: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 12:21:26: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 12:21:26: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 12:25:40: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 12:25:43: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 12:25:46: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 12:25:46: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 12:46:11: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 12:46:14: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 12:46:17: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 12:46:17: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 13:00:02: [basecommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 13:03:05: [funcommands.smx] "ᴇᴠʌı<9><STEAM_1:0:108778791><>" ignited "swear to god<11><STEAM_1:0:525445108><>" (seconds "20.000000")
+L 08/08/2021 - 16:09:50: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 16:18:15: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 17:23:17: Log file closed.
+L 08/08/2021 - 17:23:41: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6510")
+L 08/08/2021 - 17:23:41: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 17:23:58: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 17:26:43: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_xy"
+L 08/08/2021 - 17:26:46: [SM] Changed map to "surf_trick_xy"
+L 08/08/2021 - 17:26:50: -------- Mapchange to surf_trick_xy --------
+L 08/08/2021 - 17:26:50: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 17:27:24: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 17:27:27: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 17:27:29: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 17:34:19: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "0")
+L 08/08/2021 - 17:34:44: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/08/2021 - 17:45:12: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "mp_teammates_are_enemies") (value "1")
+L 08/08/2021 - 18:00:48: [funcommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" ignited "swear to god<6><STEAM_1:0:525445108><>" (seconds "20.000000")
+L 08/08/2021 - 18:51:32: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 18:51:35: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 18:51:38: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 18:51:39: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 19:12:41: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 19:15:57: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 19:16:00: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 19:16:03: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 19:16:03: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 19:17:37: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 19:23:31: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "1")
+L 08/08/2021 - 19:23:35: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/08/2021 - 19:55:23: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 19:55:26: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 19:55:30: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 19:55:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 20:43:26: [basecommands.smx] "ᴇᴠʌı<2><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 20:43:29: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 20:43:32: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 20:43:32: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 22:38:23: [basecommands.smx] "ᴇᴠʌı<38><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 22:40:50: [basebans.smx] "ᴇᴠʌı<38><STEAM_1:0:108778791><>" banned "ᴇᴠʌı<38><STEAM_1:0:108778791><>" (minutes "0") (reason "Racism")
+L 08/08/2021 - 22:43:09: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 08/08/2021 - 22:44:03: [playercommands.smx] "ArturPertuh<39><STEAM_1:0:49334172><>" slayed "denmo<34><STEAM_1:1:502946022><>"
+L 08/08/2021 - 22:44:17: [basebans.smx] "ArturPertuh<39><STEAM_1:0:49334172><>" removed ban (filter "STEAM_1:0:108778791")
+L 08/08/2021 - 22:44:43: [playercommands.smx] "ArturPertuh<39><STEAM_1:0:49334172><>" slayed "denmo<34><STEAM_1:1:502946022><>"
+L 08/08/2021 - 22:45:40: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 08/08/2021 - 22:50:01: [basecomm.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" silenced "denmo<34><STEAM_1:1:502946022><>"
+L 08/08/2021 - 22:50:51: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 22:50:54: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 22:50:58: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 22:50:58: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 22:53:22: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 22:53:23: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "mp_teammates_are_enemies") (value "1")
+L 08/08/2021 - 23:04:32: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "256")
+L 08/08/2021 - 23:05:24: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "dm_time") (value "2")
+L 08/08/2021 - 23:05:31: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "2560")
+L 08/08/2021 - 23:05:41: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "256")
+L 08/08/2021 - 23:06:36: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "10")
+L 08/08/2021 - 23:06:49: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "9999")
+L 08/08/2021 - 23:06:51: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "99990")
+L 08/08/2021 - 23:07:03: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "10")
+L 08/08/2021 - 23:07:37: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "100")
+L 08/08/2021 - 23:08:28: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/08/2021 - 23:10:22: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "0")
+L 08/08/2021 - 23:10:44: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "hitregsize") (value "150")
+L 08/08/2021 - 23:33:46: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 23:33:49: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 23:33:52: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 23:33:52: [dm_trick.smx]  SUCCESS db_connect()
+L 08/08/2021 - 23:34:03: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 08/08/2021 - 23:53:11: [basecommands.smx] "ᴇᴠʌı<40><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/08/2021 - 23:53:14: [SM] Changed map to "surf_trick_g"
+L 08/08/2021 - 23:53:17: -------- Mapchange to surf_trick_g --------
+L 08/08/2021 - 23:53:17: [dm_trick.smx]  SUCCESS db_connect()
+L 08/09/2021 - 00:00:39: Log file closed.

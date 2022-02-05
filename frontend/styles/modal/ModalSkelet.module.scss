@@ -1,0 +1,50 @@
+$width-base: 400px;
+
+.form {
+  &Content {
+    position: relative;
+    overflow: hidden;
+    border-radius: 35px;
+    box-shadow: 0 5px 40px rgb(0 0 0 / 40%);
+
+    display: flex;
+    margin: auto;
+
+    background-color: var(--color-background-modal);
+  }
+
+  &Inner {
+    flex-grow: 1;
+
+    width: $width-base;
+    height: 100%;
+  }
+}
+
+.formClose {
+  position: absolute;
+  top: -30px;
+  right: -30px;
+
+  height: 70px;
+  width: 70px;
+
+  background-color: var(--color-background-modal-content);
+  border-radius: 50%;
+
+  padding: 35px 35px 5px 5px;
+
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 0 25px var(--color-highlight);
+    transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+  transition: all 0.2s ease-out;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    fill: var(--color-text-invert);
+  }
+}

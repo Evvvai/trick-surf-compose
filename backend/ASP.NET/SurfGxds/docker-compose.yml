@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  webapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: webapi
+    volumes:
+      - webapi_build:/webapi/build
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    ports:
+      - 8080:8080
+
+  # CertBot service *in production mode
+  # certbot:
+  #   image: certbot/certbot
+  #   volumes:
+  #     - ./data/certbot/conf:/etc/letsencrypt
+  #     - ./data/certbot/www:/var/www/certbot
+  #   entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
+  #   depends_on:
+  #     - nginx
+
+# Volumes
+volumes:
+  webapi_build:

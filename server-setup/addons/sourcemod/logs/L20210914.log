@@ -1,0 +1,21 @@
+L 09/14/2021 - 06:05:56: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210914.log") (Version "1.10.0.6510")
+L 09/14/2021 - 06:05:56: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 06:06:48: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 08:00:56: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 09:28:58: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 13:04:35: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 13:30:26: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 13:30:48: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 13:49:26: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 15:58:13: Log file closed.
+L 09/14/2021 - 15:58:53: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210914.log") (Version "1.10.0.6510")
+L 09/14/2021 - 15:58:53: [dm_trick.smx]  SUCCESS db_connect()
+L 09/14/2021 - 15:58:59: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 17:19:57: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 19:07:04: [playercommands.smx] "Это вертолет<10><STEAM_1:1:80244186><>" slayed "Чит код на трик сюрф<9><STEAM_1:1:453450386><>"
+L 09/14/2021 - 19:07:04: [playercommands.smx] "Это вертолет<10><STEAM_1:1:80244186><>" slayed "Jvnko Still Loves You<8><STEAM_1:0:67907739><>"
+L 09/14/2021 - 19:36:24: -------- Mapchange to surf_trick_gxd --------
+L 09/14/2021 - 23:51:12: [basevotes.smx] "ᴇᴠʌı<36><STEAM_1:0:108778791><>" initiated a ban vote against "dissonance<39><STEAM_1:1:622610729><>"
+L 09/14/2021 - 23:51:32: [basevotes.smx] Vote ban successful, banned "dissonance<39><STEAM_1:1:622610729><>" (minutes "30") (reason "Votebanned")
+L 09/14/2021 - 23:51:35: [basebans.smx] "ᴇᴠʌı<36><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:622610729")
+L 09/15/2021 - 00:19:05: Log file closed.

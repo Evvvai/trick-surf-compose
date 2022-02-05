@@ -1,0 +1,43 @@
+.content {
+  height: 100%;
+}
+
+.image {
+  position: relative;
+  overflow: hidden;
+
+  border-radius: 7px;
+
+  height: 100%;
+  object-fit: cover;
+
+  &:hover {
+    transform: scale(1.1);
+    transition: all 0.2s ease-in;
+  }
+
+  transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1);
+  animation: trigger-image-load 0.4s ease-in;
+}
+
+.isLoading {
+  @include placeholder;
+  border: 1px solid var(--color-background-highlight);
+
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  object-fit: cover;
+
+  height: 100%;
+}
+
+@keyframes trigger-image-load {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

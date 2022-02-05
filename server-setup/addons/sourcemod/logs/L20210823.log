@@ -1,0 +1,54 @@
+L 08/23/2021 - 00:26:35: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210823.log") (Version "1.10.0.6510")
+L 08/23/2021 - 00:26:35: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 08/23/2021 - 00:26:38: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 08/23/2021 - 00:26:42: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 08/23/2021 - 00:26:47: [funcommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<31><STEAM_1:0:108778791><>"
+L 08/23/2021 - 00:55:19: [basecommands.smx] "ᴇᴠʌı<67><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/23/2021 - 00:55:23: [SM] Changed map to "surf_trick_gxd"
+L 08/23/2021 - 00:55:24: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 00:55:24: [dm_trick.smx]  SUCCESS db_connect()
+L 08/23/2021 - 00:55:32: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 00:55:39: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 00:55:48: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 00:55:56: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 01:14:29: [basebans.smx] "ᴇᴠʌı<67><STEAM_1:0:108778791><>" banned "dom1no<41><STEAM_1:0:525445108><>" (minutes "0") (reason "Racism")
+L 08/23/2021 - 01:14:43: [basebans.smx] "ᴇᴠʌı<67><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:525445108")
+L 08/23/2021 - 01:43:20: [basebans.smx] "Alo?<59><STEAM_1:1:80244186><>" banned "dom1no<73><STEAM_1:0:525445108><>" (minutes "0") (reason "Racism")
+L 08/23/2021 - 01:43:25: [basebans.smx] "ᴇᴠʌı<67><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:525445108")
+L 08/23/2021 - 09:42:38: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 09:42:38: [dm_trick.smx]  SUCCESS db_connect()
+L 08/23/2021 - 10:09:24: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:09:48: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:16:56: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:17:22: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:17:52: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:18:15: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:27:17: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 10:27:41: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 11:46:38: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 11:48:53: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 11:51:17: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 11:52:04: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 11:52:30: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 12:02:26: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 12:02:58: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 13:41:47: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 13:51:19: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 15:41:26: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 16:20:40: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 16:58:17: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 17:25:02: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 18:16:03: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 18:16:20: Log file closed.
+L 08/23/2021 - 18:17:01: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210823.log") (Version "1.10.0.6510")
+L 08/23/2021 - 18:17:01: [dm_trick.smx]  SUCCESS db_connect()
+L 08/23/2021 - 18:17:51: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 18:27:49: -------- Mapchange to surf_trick_gxd --------
+L 08/23/2021 - 19:18:05: [funcommands.smx] "Alo?<13><STEAM_1:1:80244186><>" toggled noclip on "うちはオビト<11><STEAM_1:0:143620742><>"
+L 08/23/2021 - 19:18:54: [funcommands.smx] "Alo?<13><STEAM_1:1:80244186><>" toggled noclip on "うちはオビト<11><STEAM_1:0:143620742><>"
+L 08/23/2021 - 19:58:06: [funcommands.smx] "Alo?<13><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<19><STEAM_1:0:159860788><>" (amount "0.100000")
+L 08/23/2021 - 19:58:12: [funcommands.smx] "Alo?<13><STEAM_1:1:80244186><>" set gravity on "binds + surfing -> cringe<19><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/23/2021 - 20:04:31: [playercommands.smx] "Alo?<13><STEAM_1:1:80244186><>" slapped "tricksurf still alive (pls)<14><STEAM_1:1:1146082><>" (damage "0")
+L 08/23/2021 - 20:08:08: [playercommands.smx] "Alo?<13><STEAM_1:1:80244186><>" slapped "Gwin<15><STEAM_1:1:453450386><>" (damage "0")
+L 08/23/2021 - 20:08:11: [playercommands.smx] "Alo?<13><STEAM_1:1:80244186><>" slapped "Gwin<15><STEAM_1:1:453450386><>" (damage "0")
+L 08/24/2021 - 00:00:04: Log file closed.

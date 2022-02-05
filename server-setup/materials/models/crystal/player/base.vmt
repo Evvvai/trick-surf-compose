@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	$basetexture "lights/white"
+	$color2 "{200 200 200}"
+	$envmap "crystal\cubemap"
+	$envmaptint "{50 50 50}"
+	$detail "models\crystal\noise"
+	$detailscale 16
+	
+	$forcephong 1
+}

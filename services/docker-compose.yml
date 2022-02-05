@@ -1,0 +1,50 @@
+version: "3.8"
+services:
+  rabbitmq:
+    # image: ${IMAGE_RABBIT}
+    build:
+      context: ./rabbitmq
+      dockerfile: Dockerfile
+    hostname: rabbitmq
+    container_name: rabbitmq
+    environment:
+      - RABBITMQ_DEFAULT_USER=${RABBITMQ_USER}
+      - RABBITMQ_DEFAULT_PASS=${RABBITMQ_PASSWORD}
+    expose:
+      - 5671
+      - 5672
+    ports:
+      - 15672:15672
+      - 5672:5672
+    networks:
+      - default
+    restart: always
+  events:
+    # image: ${IMAGE_EVENTS}
+    build:
+      context: ./trick-surf-db-events
+      dockerfile: Dockerfile
+    container_name: surfgxds-events
+    env_file:
+      - .env.events
+    depends_on:
+      - rabbitmq
+    networks:
+      - default
+    restart: always
+    command: npm run serve
+  discord:
+    # image: ${IMAGE_DISCORD}
+    build:
+      context: ./trick-surf-bot
+      dockerfile: Dockerfile
+    container_name: surfgxds-discord
+    env_file:
+      - .env.discord
+    depends_on:
+      - events
+      - rabbitmq
+    networks:
+      - default
+    restart: always
+    command: npm run serve

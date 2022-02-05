@@ -1,0 +1,44 @@
+L 08/25/2021 - 04:44:05: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 04:44:05: Log file closed.
+L 08/25/2021 - 04:44:22: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 04:44:22: [dm_trick.smx]  SUCCESS db_connect()
+L 08/25/2021 - 04:48:03: Log file closed.
+L 08/25/2021 - 04:48:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 04:48:54: [dm_trick.smx]  SUCCESS db_connect()
+L 08/25/2021 - 05:09:13: Log file closed.
+L 08/25/2021 - 05:09:30: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 05:09:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/25/2021 - 05:09:45: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 05:10:29: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 05:10:29: [dm_trick.smx]  SUCCESS db_connect()
+L 08/25/2021 - 05:10:38: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 05:11:03: Log file closed.
+L 08/25/2021 - 05:11:20: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6510")
+L 08/25/2021 - 05:11:20: [dm_trick.smx]  SUCCESS db_connect()
+L 08/25/2021 - 05:11:25: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 07:23:05: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 07:59:51: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/25/2021 - 08:22:20: [basecommands.smx] "ᴇᴠʌı<7><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/25/2021 - 08:22:23: [SM] Changed map to "surf_trick_gxd"
+L 08/25/2021 - 08:22:24: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 08:22:50: [basecommands.smx] "ᴇᴠʌı<7><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/25/2021 - 08:53:36: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 10:26:26: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 12:58:12: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 13:16:16: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 14:07:39: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 14:13:26: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 14:14:16: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 15:06:45: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 18:22:51: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" toggled noclip on "Wolsuz<59><STEAM_1:1:421087650><>"
+L 08/25/2021 - 18:22:56: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" toggled noclip on "Wolsuz<59><STEAM_1:1:421087650><>"
+L 08/25/2021 - 18:30:44: [playercommands.smx] "Alo?<52><STEAM_1:1:80244186><>" slayed "Wolsuz<59><STEAM_1:1:421087650><>"
+L 08/25/2021 - 18:30:52: [playercommands.smx] "Alo?<52><STEAM_1:1:80244186><>" slayed "Wolsuz<59><STEAM_1:1:421087650><>"
+L 08/25/2021 - 18:32:12: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" set gravity on "Wolsuz<59><STEAM_1:1:421087650><>" (amount "0.100000")
+L 08/25/2021 - 18:32:15: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" set gravity on "Wolsuz<59><STEAM_1:1:421087650><>" (amount "4.000000")
+L 08/25/2021 - 18:32:17: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" set gravity on "Wolsuz<59><STEAM_1:1:421087650><>" (amount "1.000000")
+L 08/25/2021 - 18:34:25: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" set gravity on "Wolsuz<59><STEAM_1:1:421087650><>" (amount "4.000000")
+L 08/25/2021 - 18:34:27: [funcommands.smx] "Alo?<52><STEAM_1:1:80244186><>" set gravity on "Wolsuz<59><STEAM_1:1:421087650><>" (amount "1.000000")
+L 08/25/2021 - 23:29:54: -------- Mapchange to surf_trick_gxd --------
+L 08/25/2021 - 23:33:13: -------- Mapchange to surf_trick_gxd --------
+L 08/26/2021 - 02:01:20: Log file closed.

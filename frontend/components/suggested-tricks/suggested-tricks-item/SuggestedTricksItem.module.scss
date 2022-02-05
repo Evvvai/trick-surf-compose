@@ -1,0 +1,414 @@
+@mixin gradient() {
+  $topBarDarkBlue: #d5b7f7;
+  $topBarLightBlue: #86d4f3;
+
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right bottom,
+    color-stop(0%, $topBarDarkBlue),
+    color-stop(80%, $topBarLightBlue)
+  );
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  cursor: pointer;
+
+  &Inner {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  > :hover {
+    background-color: var(--color-background-content);
+    border-radius: 5px;
+  }
+
+  &Active {
+    background-color: var(--color-background-content);
+    border-radius: 5px;
+
+    border-top: 1px solid var(--color-highlight);
+    border-bottom: 1px solid var(--color-highlight);
+
+    margin: 15px 0;
+  }
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+
+  font-size: 1rem;
+  padding: 5px;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--color-text);
+
+  &Status {
+    width: 8%;
+    font-size: 0.75rem;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+
+    &Pending {
+      color: var(--color-pending);
+      :last-child {
+        background-color: var(--color-pending);
+      }
+    }
+
+    &Accepted {
+      color: var(--color-accepted);
+      :last-child {
+        background-color: var(--color-accepted);
+      }
+    }
+
+    &Declined {
+      color: var(--color-declined);
+      :last-child {
+        background-color: var(--color-declined);
+      }
+    }
+
+    &Text {
+      display: flex;
+      text-transform: uppercase;
+    }
+
+    &Icon {
+      display: none;
+      border: 1px solid var(--color-border);
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+    }
+
+    @include mobile {
+      width: 5%;
+      &Text {
+        display: none;
+      }
+      &Icon {
+        display: flex;
+      }
+    }
+  }
+
+  &Tn {
+    width: 35%;
+
+    div {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    :last-child {
+      color: var(--color-trick-name);
+    }
+
+    @include mobile {
+      width: 55%;
+    }
+  }
+
+  &Tp {
+    width: 25%;
+    align-items: center;
+
+    :last-child {
+      color: var(--color-point);
+    }
+  }
+
+  &Author {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3px;
+
+    &Avatar {
+      border-radius: 50%;
+      object-fit: cover;
+      width: 25px;
+      height: 25px;
+    }
+
+    &Nick {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: var(--color-text);
+      font-size: 0.9rem;
+    }
+
+    @include mobile {
+      display: none;
+    }
+  }
+
+  &DateAdded {
+    width: 15%;
+    align-items: flex-end;
+
+    @include mobile {
+      display: none;
+    }
+  }
+
+  &Rate {
+    width: 10%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+
+    svg {
+      width: 20px;
+      height: 20px;
+      fill: var(--color-text);
+    }
+
+    :first-child {
+      color: rgb(66, 223, 100);
+    }
+
+    :last-child {
+      color: tomato;
+    }
+
+    @include mobile {
+      width: 20%;
+    }
+  }
+}
+
+.info {
+  padding-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 2px;
+  border-top: 1px solid var(--color-border);
+
+  animation: trick-item-load 0.25s ease-in;
+  cursor: default;
+}
+
+.description {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+  margin: 10px 0;
+}
+
+.hr {
+  &H {
+    margin: 10px 0;
+  }
+}
+
+.control {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  // margin-right: auto;
+  svg {
+    width: 25px;
+    height: 25px;
+    margin: 0 10px;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+  }
+
+  @include mobile {
+    svg {
+      width: 20px;
+      height: 20px;
+      margin: 0 5px;
+    }
+  }
+}
+
+.rate {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  svg {
+    width: 25px;
+    height: 25px;
+
+    min-width: 5px;
+    min-height: 5px;
+
+    margin: 0 10px;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+  }
+
+  &Up {
+    > :first-child {
+      fill: aquamarine;
+    }
+  }
+
+  &Down {
+    > :last-child {
+      fill: tomato;
+    }
+  }
+}
+
+.route {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  padding: 0 4px;
+
+  &Item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    // width: 20%;
+    // or
+    width: 250px;
+    flex-grow: 1;
+
+    padding: 3px;
+
+    @include tablet {
+      // width: 33%;
+      // or
+      width: 200px;
+    }
+
+    @include mobile {
+      // width: 33%;
+      // or
+      width: 180px;
+    }
+  }
+
+  &Content {
+    padding: 2px;
+    background-color: var(--color-background-highlight);
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px var(--color-shadow-highlight);
+    width: 100%;
+    height: 100%;
+
+    &:hover {
+      box-shadow: 0 0 5px var(--color-highlight);
+      transition: 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    transition: 0.2s ease-out;
+  }
+
+  &Title {
+    @include gradient();
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    padding: 1px;
+    font-size: 1rem;
+
+    @include tablet {
+      font-size: 0.9rem;
+    }
+
+    @include mobile {
+      font-size: 0.8rem;
+    }
+  }
+
+  &Img {
+    user-select: none;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 210px;
+    cursor: pointer;
+
+    &Inner {
+      height: 100%;
+      overflow: hidden;
+      object-fit: cover;
+    }
+
+    @include tablet {
+      height: 180px;
+    }
+
+    @include mobile {
+      height: 150px;
+    }
+  }
+
+  &Count {
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 1px;
+    text-align: center;
+
+    @include tablet {
+      font-size: 0.8rem;
+    }
+
+    @include mobile {
+      font-size: 0.7rem;
+    }
+  }
+}
+
+@keyframes trick-item-load {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

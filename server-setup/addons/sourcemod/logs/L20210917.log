@@ -1,0 +1,18 @@
+L 09/17/2021 - 07:04:54: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210917.log") (Version "1.10.0.6510")
+L 09/17/2021 - 07:04:54: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 09:02:55: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 10:43:08: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 11:37:40: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 11:47:21: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 11:48:32: -------- Mapchange to surf_trick_gxd --------
+L 09/17/2021 - 20:13:53: [basebans.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" banned "ympu<92><STEAM_1:0:621619717><>" (minutes "0") (reason "Racism")
+L 09/17/2021 - 20:14:18: [basebans.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:621619717")
+L 09/17/2021 - 20:17:41: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 09/17/2021 - 20:17:45: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "10000")
+L 09/17/2021 - 20:18:01: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 09/17/2021 - 20:18:19: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "250")
+L 09/17/2021 - 20:19:14: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "150")
+L 09/17/2021 - 20:24:16: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "100")
+L 09/17/2021 - 20:31:50: [basecommands.smx] "ᴇᴠʌı<106><STEAM_1:0:108778791><>" changed cvar (cvar "htf_size") (value "50")
+L 09/17/2021 - 21:38:18: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 00:00:19: Log file closed.

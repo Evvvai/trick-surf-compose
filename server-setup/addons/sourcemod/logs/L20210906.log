@@ -1,0 +1,71 @@
+L 09/06/2021 - 01:33:29: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210906.log") (Version "1.10.0.6510")
+L 09/06/2021 - 01:33:29: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 06:53:34: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 07:13:17: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 08:25:14: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 08:26:15: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 09:40:25: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 10:41:52: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 12:02:45: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 12:10:33: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 12:19:00: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 13:08:59: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 13:47:24: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 15:28:54: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 16:13:29: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 16:19:36: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 17:21:36: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210906.log") (Version "1.10.0.6510")
+L 09/06/2021 - 17:21:36: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 17:21:42: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 18:44:52: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 18:44:55: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 18:44:56: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 18:44:56: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 18:51:39: [basebans.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" banned "AXILES<16><STEAM_1:1:457072794><>" (minutes "0") (reason "Racism")
+L 09/06/2021 - 18:52:32: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20")
+L 09/06/2021 - 19:01:30: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 19:01:33: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 19:01:34: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 19:01:34: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 19:01:41: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 19:03:30: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20")
+L 09/06/2021 - 19:03:36: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "20")
+L 09/06/2021 - 19:03:45: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "10")
+L 09/06/2021 - 19:33:41: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "2")
+L 09/06/2021 - 19:33:49: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "10")
+L 09/06/2021 - 19:33:51: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "5")
+L 09/06/2021 - 19:42:48: [basevotes.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" initiated a ban vote against "ed1b<28><STEAM_1:0:593210778><>"
+L 09/06/2021 - 19:42:52: [basevotes.smx] Vote ban successful, banned "ed1b<28><STEAM_1:0:593210778><>" (minutes "30") (reason "Votebanned")
+L 09/06/2021 - 19:43:00: [basebans.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:593210778")
+L 09/06/2021 - 19:58:46: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 19:58:49: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 19:58:50: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 19:58:50: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 20:20:02: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:20:05: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:20:06: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:20:06: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 20:22:12: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:22:15: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:22:16: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:22:16: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 20:22:23: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:22:31: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:22:40: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:25:16: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:25:19: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:25:20: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:25:20: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 20:26:09: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:26:12: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:26:13: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:26:13: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 20:27:42: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:27:45: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 20:27:46: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 20:27:46: [dm_trick.smx]  SUCCESS db_connect()
+L 09/06/2021 - 21:08:25: [basecommands.smx] "ᴇᴠʌı<15><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/06/2021 - 21:08:28: [SM] Changed map to "surf_trick_gxd"
+L 09/06/2021 - 21:08:29: -------- Mapchange to surf_trick_gxd --------
+L 09/06/2021 - 21:08:30: [dm_trick.smx]  SUCCESS db_connect()
+L 09/07/2021 - 00:00:32: Log file closed.

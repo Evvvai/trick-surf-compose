@@ -1,0 +1,19 @@
+"Patch"
+{
+	include "materials\models\crystal\player\base.vmt"
+	insert
+	{
+		$color2 "{190 48 36}"
+		$envmaptint "{140 50 47}"
+		$envmapcontrast 0.8
+	}
+	"Proxies"
+	{
+		TextureScroll
+		{
+			texturescrollvar $Basetexturetransform
+			texturescrollrate 0.05
+			texturescrollangle 90
+		}
+	}
+}

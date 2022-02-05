@@ -1,0 +1,63 @@
+L 09/18/2021 - 01:01:35: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210918.log") (Version "1.10.0.6510")
+L 09/18/2021 - 01:01:35: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 05:21:45: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 09:49:16: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 10:17:27: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 10:28:56: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 11:41:30: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 11:47:06: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 12:06:30: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 12:14:30: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 12:41:18: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 13:14:03: Log file closed.
+L 09/18/2021 - 13:14:15: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210918.log") (Version "1.10.0.6510")
+L 09/18/2021 - 13:14:15: [dm_trick.smx]  SUCCESS db_connect()
+L 09/18/2021 - 13:14:20: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 13:19:24: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slapped "das motherfucking krokodil<4><STEAM_1:1:1146082><>" (damage "0")
+L 09/18/2021 - 13:19:25: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slapped "das motherfucking krokodil<4><STEAM_1:1:1146082><>" (damage "0")
+L 09/18/2021 - 13:19:25: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slapped "das motherfucking krokodil<4><STEAM_1:1:1146082><>" (damage "0")
+L 09/18/2021 - 13:19:25: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slapped "das motherfucking krokodil<4><STEAM_1:1:1146082><>" (damage "0")
+L 09/18/2021 - 14:18:19: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set gravity on "monkey strafes<3><STEAM_1:0:49334172><>" (amount "0.100000")
+L 09/18/2021 - 14:18:21: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set gravity on "monkey strafes<3><STEAM_1:0:49334172><>" (amount "4.000000")
+L 09/18/2021 - 14:18:37: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set gravity on "monkey strafes<3><STEAM_1:0:49334172><>" (amount "1.000000")
+L 09/18/2021 - 14:19:06: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set a TimeBomb on "kami no gensoo<9><STEAM_1:0:51713742><>"
+L 09/18/2021 - 14:19:11: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" removed a TimeBomb on "kami no gensoo<9><STEAM_1:0:51713742><>"
+L 09/18/2021 - 14:19:15: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set gravity on "kami no gensoo<9><STEAM_1:0:51713742><>" (amount "0.100000")
+L 09/18/2021 - 14:20:14: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set gravity on "kami no gensoo<9><STEAM_1:0:51713742><>" (amount "1.000000")
+L 09/18/2021 - 14:20:15: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set a TimeBomb on "kami no gensoo<9><STEAM_1:0:51713742><>"
+L 09/18/2021 - 14:20:34: [funcommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" set a TimeBomb on "kami no gensoo<9><STEAM_1:0:51713742><>"
+L 09/18/2021 - 14:20:39: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slayed "kami no gensoo<9><STEAM_1:0:51713742><>"
+L 09/18/2021 - 14:24:03: [playercommands.smx] "Сырный неряха)<2><STEAM_1:1:80244186><>" slayed "ybivai devoчек<11><STEAM_1:0:621619717><>"
+L 09/18/2021 - 15:39:59: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 16:34:13: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/18/2021 - 16:34:16: [SM] Changed map to "surf_trick_gxd"
+L 09/18/2021 - 16:34:17: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 16:36:59: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 16:38:21: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 16:38:24: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 16:42:40: [basecommands.smx] "Console<0><Console><Console>" changed map to "surf_trick_gxd"
+L 09/18/2021 - 16:42:44: [SM] Changed map to "surf_trick_gxd"
+L 09/18/2021 - 16:42:45: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 16:43:05: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 16:43:08: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 16:43:09: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:16:00: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:16:02: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:16:03: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:16:05: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:19:06: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:19:08: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:23:27: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:23:29: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:32:47: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:32:49: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:41:34: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:41:36: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 17:42:10: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "1")
+L 09/18/2021 - 17:42:12: [basecommands.smx] "ᴇᴠʌı<27><STEAM_1:0:108778791><>" changed cvar (cvar "sv_cheats") (value "0")
+L 09/18/2021 - 19:19:47: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 20:08:43: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 20:40:10: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 21:45:11: -------- Mapchange to surf_trick_gxd --------
+L 09/18/2021 - 21:47:33: -------- Mapchange to surf_trick_gxd --------
+L 09/19/2021 - 00:00:04: Log file closed.

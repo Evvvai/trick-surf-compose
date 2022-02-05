@@ -1,0 +1,11 @@
+"Patch"
+{
+	include "materials\models\crystal\player\base.vmt"
+	insert
+	{
+		$color2 "{0 0 0}"
+		$envmaptint "{80 80 80}"
+		$envmapcontrast 1.2
+		$envmapsaturation 0
+	}
+}

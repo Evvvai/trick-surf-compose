@@ -1,0 +1,125 @@
+L 08/29/2021 - 00:14:52: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210829.log") (Version "1.10.0.6510")
+L 08/29/2021 - 00:14:52: [playercommands.smx] "surf_skip_2<14><STEAM_1:1:80244186><>" slayed "www<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:23:44: [basecommands.smx] "www<2><STEAM_1:0:159860788><>" kicked "FillCurtis LEG-SS.RU<15><STEAM_1:0:572178697><>" (reason "")
+L 08/29/2021 - 00:27:17: [basevotes.smx] "ᴇᴠʌı LEG-SS.RU<13><STEAM_1:0:108778791><>" initiated a kick vote against "surf_skip_2 LEG-SS.RU<14><STEAM_1:1:80244186><>"
+L 08/29/2021 - 00:27:37: [basevotes.smx] Vote kick successful, kicked "surf_skip_2 LEG-SS.RU<14><STEAM_1:1:80244186><>" (reason "Votekicked")
+L 08/29/2021 - 00:28:50: [funvotes.smx] "ᴇᴠʌı LEG-SS.RU<13><STEAM_1:0:108778791><>" initiated a burn vote against "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:29:10: [funvotes.smx] Vote burn successful, igniting "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:33:44: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:33:45: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:35:14: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:35:15: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:37:50: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:37:50: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:38:42: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:38:42: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:39:19: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:39:20: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:39:33: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:39:35: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 00:41:14: [basevotes.smx] "ᴇᴠʌı LEG-SS.RU<13><STEAM_1:0:108778791><>" initiated a kick vote against "Darth Elmo<19><STEAM_1:1:48496336><>"
+L 08/29/2021 - 00:41:34: [basevotes.smx] Vote kick successful, kicked "Darth Elmo<19><STEAM_1:1:48496336><>" (reason "Votekicked")
+L 08/29/2021 - 00:43:06: [basecomm.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" muted "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:43:39: [basecomm.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" unmuted "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:44:29: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" froze "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:44:49: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" froze "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:45:04: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" froze "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:49:01: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:49:01: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "FillCurtis LEG-SS.RU<16><STEAM_1:0:572178697><>"
+L 08/29/2021 - 00:49:58: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "FillCurtis LEG-SS.RU<16><STEAM_1:0:572178697><>"
+L 08/29/2021 - 00:49:58: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 00:50:53: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "FillCurtis LEG-SS.RU<16><STEAM_1:0:572178697><>"
+L 08/29/2021 - 00:50:53: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" set a beacon on "o21o<17><STEAM_1:1:461735988><>"
+L 08/29/2021 - 01:06:41: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:06:44: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:15:06: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "zero > surf [1] LEG-SS.RU<9><STEAM_1:1:439106329><>" (to "zero LEG-SS.RU")
+L 08/29/2021 - 01:15:17: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "Gwin<30><STEAM_1:1:453450386><>" (to "Gwin LEG-SS.RU")
+L 08/29/2021 - 01:15:26: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "andreyk<29><STEAM_1:0:430733713><>" (to "andreyk LEG-SS.RU")
+L 08/29/2021 - 01:15:46: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "andreyk LEG-SS.RU<29><STEAM_1:0:430733713><>" (to "andreyk LEG-SS.RU")
+L 08/29/2021 - 01:16:02: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "distant memories<31><STEAM_1:0:67907739><>" (to "distant memories LEG-SS.RU")
+L 08/29/2021 - 01:16:21: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "mtn<28><STEAM_1:1:619824702><>" (to "mtn LEG-SS.RU")
+L 08/29/2021 - 01:16:39: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "o21o<17><STEAM_1:1:461735988><>" (to "o21o LEG-SS.RU")
+L 08/29/2021 - 01:16:53: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:16:54: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:16:55: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:16:55: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:17:01: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "Witch<3><STEAM_1:0:39533277><>" (to "Witch LEG-SS.RU")
+L 08/29/2021 - 01:17:28: [playercommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" renamed "juuqi<10><STEAM_1:0:172694433><>" (to "juuqi LEG-SS.RU")
+L 08/29/2021 - 01:21:29: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:21:29: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:22:13: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:22:14: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:33:26: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<33><STEAM_1:0:108778791><>" changed map to "surf_10x"
+L 08/29/2021 - 01:33:29: [SM] Changed map to "surf_10x"
+L 08/29/2021 - 01:33:30: -------- Mapchange to surf_10x_kuro --------
+L 08/29/2021 - 01:33:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 01:34:39: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:34:39: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:34:40: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:34:41: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:19: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:23: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:24: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:25: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:32: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:34: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:35:36: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<34><STEAM_1:0:108778791><>" changed map to "surf_10x"
+L 08/29/2021 - 01:35:39: [SM] Changed map to "surf_10x"
+L 08/29/2021 - 01:35:40: -------- Mapchange to surf_10x_kuro --------
+L 08/29/2021 - 01:35:40: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 01:36:12: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<34><STEAM_1:0:108778791><>" changed map to "surf_10x"
+L 08/29/2021 - 01:36:15: [SM] Changed map to "surf_10x"
+L 08/29/2021 - 01:36:16: -------- Mapchange to surf_10x_kuro --------
+L 08/29/2021 - 01:36:16: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 01:37:57: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:37:57: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:39:05: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<34><STEAM_1:0:108778791><>" changed cvar (cvar "sv_maxvelocity") (value "4500")
+L 08/29/2021 - 01:47:28: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:47:28: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:47:35: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:47:41: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:48:05: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:48:13: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:48:29: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:48:32: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<34><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/29/2021 - 01:48:35: [SM] Changed map to "surf_trick_g"
+L 08/29/2021 - 01:48:36: -------- Mapchange to surf_trick_g --------
+L 08/29/2021 - 01:48:48: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 01:49:34: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 01:49:54: [funcommands.smx] "www LEG-SS.RU<2><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<2><STEAM_1:0:159860788><>"
+L 08/29/2021 - 02:06:24: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "0.500000")
+L 08/29/2021 - 02:06:25: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 02:18:14: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "0.100000")
+L 08/29/2021 - 02:18:15: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 02:18:18: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "0.100000")
+L 08/29/2021 - 02:18:19: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 02:18:23: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "2.000000")
+L 08/29/2021 - 02:18:24: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 02:18:27: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "0.100000")
+L 08/29/2021 - 02:18:28: [funcommands.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<2><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 02:21:23: [basebans.smx] "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" banned "surf_skip_2 LEG-SS.RU<18><STEAM_1:1:80244186><>" (minutes "240") (reason "Racism")
+L 08/29/2021 - 10:55:55: [basecommands.smx] "ᴇᴠʌı LEG-SS.RU<34><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/29/2021 - 10:55:58: [SM] Changed map to "surf_trick_gxd"
+L 08/29/2021 - 10:56:00: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 10:56:00: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 11:57:56: [basecommands.smx] "ᴇᴠʌı<34><STEAM_1:0:108778791><>" kicked "я люблю бабушек<54><STEAM_1:0:120370159><>" (reason "")
+L 08/29/2021 - 14:01:06: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 14:03:51: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 14:26:54: [funcommands.smx] "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" set gravity on "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" (amount "0.100000")
+L 08/29/2021 - 14:26:55: [funcommands.smx] "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" set gravity on "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" (amount "1.000000")
+L 08/29/2021 - 15:48:31: [funcommands.smx] "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<77><STEAM_1:0:159860788><>" (amount "2.000000")
+L 08/29/2021 - 15:48:32: [funcommands.smx] "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" set gravity on "www LEG-SS.RU<77><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/29/2021 - 15:54:53: [basebans.smx] "surf_[НЕРАЗБОРЧИВО]<69><STEAM_1:1:80244186><>" banned "yvn6<76><STEAM_1:0:56596126><>" (minutes "10") (reason "Racism")
+L 08/29/2021 - 06:00:58: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210829.log") (Version "1.10.0.6510")
+L 08/29/2021 - 06:00:58: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 06:01:25: Log file closed.
+L 08/29/2021 - 17:36:46: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210829.log") (Version "1.10.0.6510")
+L 08/29/2021 - 17:36:46: [dm_trick.smx]  SUCCESS db_connect()
+L 08/29/2021 - 17:56:53: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 18:04:08: [funcommands.smx] "www LEG-SS.RU<3><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<3><STEAM_1:0:159860788><>"
+L 08/29/2021 - 18:04:09: [funcommands.smx] "www LEG-SS.RU<3><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<3><STEAM_1:0:159860788><>"
+L 08/29/2021 - 18:04:10: [funcommands.smx] "www LEG-SS.RU<3><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<3><STEAM_1:0:159860788><>"
+L 08/29/2021 - 18:04:10: [funcommands.smx] "www LEG-SS.RU<3><STEAM_1:0:159860788><>" toggled noclip on "www LEG-SS.RU<3><STEAM_1:0:159860788><>"
+L 08/29/2021 - 19:13:59: -------- Mapchange to surf_trick_gxd --------
+L 08/29/2021 - 19:16:46: -------- Mapchange to surf_trick_gxd --------
+L 08/30/2021 - 00:11:12: Log file closed.

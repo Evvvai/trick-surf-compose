@@ -1,0 +1,95 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-bottom: 1px solid var(--color-border);
+  position: sticky;
+  top: var(--header-height);
+  background-color: var(--color-background);
+  z-index: 10;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 5px;
+
+  @include tablet {
+    font-size: 0.6rem;
+    padding: 2px;
+  }
+
+  @include mobile {
+    font-size: 0.38rem;
+    padding: 1px;
+  }
+
+  &Ind {
+    width: 5%;
+    min-width: 15px;
+    max-width: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &Player {
+    width: 35%;
+
+    @include mobile {
+      width: 25%;
+    }
+
+    color: var(--color-trick-name);
+  }
+
+  &Avg {
+    width: 15%;
+    align-items: center;
+
+    color: var(--color-point);
+  }
+
+  &Pc {
+    width: 15%;
+    align-items: center;
+
+    color: var(--color-percent-completes);
+
+    > :first-child {
+      font-size: 0.65rem;
+      color: var(--color-sub-text);
+
+      @include tablet {
+        font-size: 0.55rem;
+      }
+
+      @include mobile {
+        font-size: 0.38rem;
+      }
+    }
+  }
+
+  &Data {
+    width: 10%;
+    align-items: flex-end;
+    color: var(--color-text);
+
+    > :first-child {
+      font-size: 0.65rem;
+      color: var(--color-sub-text);
+
+      @include tablet {
+        font-size: 0.55rem;
+      }
+
+      @include mobile {
+        font-size: 0.38rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+/* Delete room Avatar Edit */
+/* ////////////////////////////////////////////////////// */
+
+$width-base: 400px;
+
+.form {
+  &Content {
+    position: relative;
+    overflow: hidden;
+    border-radius: 35px;
+    box-shadow: 0 5px 40px rgb(0 0 0 / 40%);
+
+    display: flex;
+    margin: auto;
+
+    background-color: var(--color-background-modal);
+  }
+
+  &Inner {
+    flex-grow: 1;
+
+    width: $width-base;
+    height: 100%;
+  }
+}
+
+.moduleHeader {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 56px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+
+  &Title {
+    position: absolute;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: var(--color-text-invert);
+  }
+
+  &Close {
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    padding-right: 15px;
+  }
+}
+
+.moduleInfo {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  color: var(--color-sub-text-invert);
+  font-size: 0.9rem;
+}
+
+.moduleSubmit {
+  border-radius: 25px;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+
+  padding: 16px;
+  gap: 15px;
+
+  &Agree {
+    width: 100%;
+    height: 40px;
+    border-radius: 45px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--color-submit-bg);
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 1rem;
+
+    &:hover {
+      background-color: var(--color-submit-bg-hover);
+    }
+    transition: all 0.2s ease-in;
+  }
+
+  &Close {
+    cursor: pointer;
+    width: 100%;
+    height: 40px;
+    border-radius: 45px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--color-submit-bg-close);
+    color: var(--color-sub-text-invert);
+    font-weight: 500;
+    font-size: 1rem;
+
+    &:hover {
+      background-color: var(--color-background-modal-content);
+      color: var(--color-sub-text);
+    }
+    transition: all 0.2s ease-in;
+  }
+}
+
+.hr {
+  &H {
+    width: 90%;
+    height: 1px;
+    background-color: var(--color-border);
+    margin: 3px auto;
+  }
+}
+
+.moduleContent {
+  h1 {
+    text-align: center;
+    font-size: 1rem;
+    color: var(--color-text-invert);
+  }
+}
+.moduleList {
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  > :hover {
+    background-color: var(--color-background-modal-content);
+    border-right: 2px solid var(--color-highlight);
+    border-left: 2px solid var(--color-highlight);
+
+    .itemInvite {
+      opacity: 1;
+    }
+  }
+}
+
+.moduleItem {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 5px 10px;
+
+  color: var(--color-sub-text-invert);
+  width: 50%;
+
+  border-right: 2px solid transparent;
+  border-left: 2px solid transparent;
+
+  &Img {
+    position: relative;
+
+    img {
+      border-radius: 90%;
+      height: 40px;
+      width: 40px;
+      cursor: pointer;
+      object-fit: cover;
+    }
+  }
+
+  &Info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    :first-child {
+      cursor: pointer;
+    }
+  }
+
+  &None {
+    h1 {
+      color: var(--color-text-invert);
+      font-size: 1.1rem;
+    }
+    animation: not-found-load 1.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+
+  &Loading {
+    h1 {
+      color: var(--color-text-invert);
+      font-size: 1.1rem;
+      text-align: center;
+    }
+  }
+}
+
+.moduleClose {
+  position: absolute;
+  top: -30px;
+  right: -30px;
+
+  height: 70px;
+  width: 70px;
+
+  background-color: var(--color-background-modal-content);
+  border-radius: 50%;
+
+  padding: 35px 35px 5px 5px;
+
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 0 25px var(--color-highlight);
+    transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+  transition: all 0.2s ease-out;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    fill: var(--color-text-invert);
+  }
+}
+
+/* ////////////////////////////////////////////////////// */
+
+@media screen and (max-width: 768px) {
+  .paForm {
+    width: 100%;
+    max-width: 400px;
+  }
+}
+
+@keyframes not-found-load {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

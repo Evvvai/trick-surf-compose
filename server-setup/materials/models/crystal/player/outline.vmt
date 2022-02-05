@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	$basetexture "models/crystal/player/outline_noise" // can't use $alpha to boost cuz it's garbage
+	$basetexturetransform "center .5 .5 scale 5 5 rotate 0 translate 0 0"
+	$alphatest 1
+	$color2 "{0}"
+	"Proxies"
+	{
+		TextureScroll
+		{
+			texturescrollvar $Basetexturetransform
+			texturescrollrate 0.05
+			texturescrollangle 90
+		}
+	}
+}

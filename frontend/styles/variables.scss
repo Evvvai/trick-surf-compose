@@ -1,0 +1,201 @@
+@import './media.scss';
+@import './placeholder.scss';
+
+$font-size-small: 12px !default;
+$font-size-base: 14px !default;
+$font-size-large: 16px !default;
+
+// Light theme
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+$color-text: #262728;
+$color-sub-text: #797979;
+$color-header: #e0e0e0;
+$color-header-bg: #111111;
+$color-header-highlight-bg: #232325;
+$color-header-icon: #8b8c8d;
+$color-footer: #8b8c8d;
+$color-footer-hover: #6db6ff;
+// fill="rgba(79, 137, 246)"
+$color-highlight: rgba(79, 137, 246);
+$color-shadow-highlight: rgb(167, 167, 167);
+
+$color-background: #eeeeee;
+$color-background-content: #e4e4e4;
+$color-background-highlight: darken($color-background-content, 5%);
+$color-background-modal: #333;
+$color-background-modal-content: darken($color-background-modal, 10%);
+
+// Auth
+$color-auth: #e4e4e4;
+$color-auth-bg: #222;
+$color-auth-footer-bg: #171717;
+$color-auth-input-bg: #585858;
+
+// Input
+$color-input-bg: darken($color-background-content, 5%);
+$color-input-shadow: rgba(79, 137, 246, 0.8);
+$color-input-border: #adadad;
+
+$color-border: #53535378;
+$color-disabled: #c5c8ce;
+$color-toast-bg: rgba(255, 255, 255, 0.6);
+$color-button-bg: $color-background-content;
+$color-button-bg-hover: darken($color-background-content, 15%);
+$ripple-background: radial-gradient(
+  circle at center,
+  lighten($color-background-content, 10%) 0%,
+  lighten($color-background-content, 5%) 15%,
+  lighten($color-background-content, 0%) 25%,
+  #0a60ffca 40%,
+  #2869b3c9 60%,
+  #3b5ac0c9 71%,
+  #2678d6d8 84%,
+  #0486ffcb 100%
+);
+
+// Dark theme
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Global
+$color-text-dark: #e4e4e4;
+$color-sub-text-dark: #6d6e6f;
+$color-text-invert-dark: #e4e4e4;
+$color-sub-text-invert-dark: #6d6e6f;
+
+// Header
+$color-header-dark: #e0e0e0;
+$color-header-bg-dark: #111111;
+$color-header-highlight-bg-dark: #232325;
+$color-header-icon-dark: #babcbe;
+
+// Footer
+$color-footer-dark: #1e1f20;
+$color-footer-hover-dark: #161718;
+
+// Background
+$color-background-dark: #1e1f20;
+$color-background-content-dark: #161718;
+$color-background-highlight-dark: darken($color-background-content-dark, 5%);
+$color-background-modal-dark: rgb(22, 22, 22);
+$color-background-modal-content-dark: darken($color-background-modal-dark, 5%);
+
+$color-input-bg-dark: $color-background-content-dark;
+$color-border-dark: #4747478f;
+$color-disabled-dark: #c5c8ce;
+$color-toast-bg-dark: rgba(0, 0, 0, 0.6);
+$color-button-bg-dark: $color-background-content-dark;
+$color-button-bg-hover-dark: darken($color-background-content-dark, 5%);
+$ripple-background-dark: radial-gradient(
+  circle at center,
+  darken($color-background-content-dark, 10%) 0%,
+  darken($color-background-content-dark, 5%) 15%,
+  darken($color-background-content-dark, 0%) 25%,
+  #dd0012d2 40%,
+  #bb1818c9 60%,
+  #6e0000c7 71%,
+  #ca001bd5 84%,
+  #e00000d0 100%
+);
+
+// Etc
+$color-highlight-dark: rgb(255, 71, 71);
+$color-shadow-highlight-dark: rgb(36, 36, 36);
+
+// Blue theme
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Global
+$color-text-blue: #e4e4e4;
+$color-sub-text-blue: #6d6e6f;
+$color-text-invert-blue: #e4e4e4;
+$color-sub-text-invert-blue: #6d6e6f;
+
+// Header
+$color-header-blue: #e0e0e0;
+$color-header-highlight-gblue: #e0e0e0;
+$color-header-bg-blue: #161b22;
+$color-header-highlight-bg-blue: #1f2936;
+$color-header-icon-blue: #babcbe;
+
+// Footer
+$color-footer-blue: #161b22;
+$color-footer-hover-blue: #e0e0e0;
+
+// Background
+$color-background-blue: #0d1117;
+$color-background-content-blue: #161b22;
+$color-background-highlight-blue: darken($color-background-content-blue, 5%);
+$color-background-modal-blue: #1b222c;
+$color-background-modal-content-blue: darken($color-background-modal-blue, 5%);
+
+$color-input-bg-blue: $color-background-content-blue;
+$color-border-blue: #4747478f;
+$color-disabled-blue: #c5c8ce;
+$color-toast-bg-blue: rgba(0, 0, 0, 0.6);
+$color-button-bg-blue: $color-background-content-blue;
+$color-button-bg-hover-blue: darken($color-background-content-blue, 5%);
+$ripple-background-blue: radial-gradient(
+  circle at center,
+  darken($color-background-content-blue, 10%) 0%,
+  darken($color-background-content-blue, 5%) 15%,
+  darken($color-background-content-blue, 0%) 25%,
+  #dd0012d2 40%,
+  #bb1818c9 60%,
+  #6e0000c7 71%,
+  #ca001bd5 84%,
+  #e00000d0 100%
+);
+
+// Etc
+$color-highlight-blue: rgba(79, 137, 246);
+$color-shadow-highlight-blue: rgb(56, 65, 80);
+
+// Other values
+$color-success: #52c41a;
+$color-warning: #faad14;
+$color-error: #f5222d;
+$color-info: #1890ff;
+
+$border-radius: 25px;
+
+$box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+$content-padding: 20px;
+
+$ripple-opacity: 1;
+$ripple-duration: 2000ms;
+$ripple-easing: cubic-bezier(0, 0.5, 0.5, 1.2);
+
+%ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@mixin placeholderColor($color: #fff) {
+  &::-webkit-input-placeholder {
+    color: $color;
+  }
+
+  &::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: $color;
+  }
+
+  &:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: $color;
+  }
+
+  &:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: $color;
+  }
+}
+
+@mixin ellipsisMultiline($number: 1) {
+  display: -webkit-box;
+  overflow: hidden;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $number;
+}

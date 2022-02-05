@@ -1,0 +1,24 @@
+L 09/04/2021 - 09:07:27: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210904.log") (Version "1.10.0.6510")
+L 09/04/2021 - 09:07:27: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 10:04:21: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 11:21:50: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 13:04:31: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 13:06:55: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 14:28:19: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 16:18:39: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 16:31:12: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 16:45:16: [basecommands.smx] "ᴇᴠʌı<102><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 09/04/2021 - 16:45:19: [SM] Changed map to "surf_trick_gxd"
+L 09/04/2021 - 16:45:20: -------- Mapchange to surf_trick_gxd --------
+L 09/04/2021 - 16:45:20: [dm_trick.smx]  SUCCESS db_connect()
+L 09/04/2021 - 16:48:09: [basevotes.smx] "ᴇᴠʌı<102><STEAM_1:0:108778791><>" initiated a ban vote against "ᴇᴠʌı<102><STEAM_1:0:108778791><>"
+L 09/04/2021 - 16:48:30: [basevotes.smx] Vote ban successful, banned "ᴇᴠʌı<102><STEAM_1:0:108778791><>" (minutes "30") (reason "Votebanned")
+L 09/04/2021 - 17:25:12: [basevotes.smx] "DEMONSTRATE<114><STEAM_1:0:159860788><>" initiated a ban vote against "skyress<113><STEAM_1:0:451419478><>"
+L 09/04/2021 - 17:25:33: [basevotes.smx] Vote failed.
+L 09/04/2021 - 17:26:28: [basevotes.smx] "DEMONSTRATE<114><STEAM_1:0:159860788><>" initiated a ban vote against "DEMONSTRATE<114><STEAM_1:0:159860788><>"
+L 09/04/2021 - 17:26:45: [basevotes.smx] Vote failed.
+L 09/04/2021 - 17:27:27: [basevotes.smx] "DEMONSTRATE<114><STEAM_1:0:159860788><>" initiated a kick vote against "skyress<113><STEAM_1:0:451419478><>"
+L 09/04/2021 - 17:27:48: [basevotes.smx] Vote kick successful, kicked "skyress<113><STEAM_1:0:451419478><>" (reason "perdik ?")
+L 09/04/2021 - 17:28:00: [basecommands.smx] "DEMONSTRATE<114><STEAM_1:0:159860788><>" kicked "skyress<115><STEAM_1:0:451419478><>" (reason "")
+L 09/04/2021 - 22:21:33: -------- Mapchange to surf_trick_gxd --------
+L 09/05/2021 - 01:13:01: Log file closed.

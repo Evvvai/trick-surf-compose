@@ -1,0 +1,63 @@
+L 08/14/2021 - 10:53:46: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210814.log") (Version "1.10.0.6510")
+L 08/14/2021 - 10:53:46: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 12:49:03: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 13:53:14: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 13:53:23: Log file closed.
+L 08/14/2021 - 13:53:46: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210814.log") (Version "1.10.0.6510")
+L 08/14/2021 - 13:53:46: [dm_trick.smx]  SUCCESS db_connect()
+L 08/14/2021 - 13:53:59: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 13:56:30: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 18:37:15: [basecommands.smx] "ᴇᴠʌı<24><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/14/2021 - 18:37:18: [SM] Changed map to "surf_trick_g"
+L 08/14/2021 - 18:37:21: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 18:37:21: [dm_trick.smx]  SUCCESS db_connect()
+L 08/14/2021 - 21:30:51: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:51: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:51: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:52: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:52: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:53: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:53: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:53: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:53: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:58: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:58: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "nikola-svetlo джейсан<48><STEAM_1:1:30715933><>" (damage "10")
+L 08/14/2021 - 21:30:59: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "aura<49><STEAM_1:1:618296767><>" (damage "10")
+L 08/14/2021 - 21:30:59: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:30:59: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "S[i]ToLB<47><STEAM_1:1:565814018><>" (damage "10")
+L 08/14/2021 - 21:53:43: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:43: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:43: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:44: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:44: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:44: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:53:44: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slapped "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (damage "0")
+L 08/14/2021 - 21:58:28: [basecommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" kicked "aura<49><STEAM_1:1:618296767><>" (reason "")
+L 08/14/2021 - 22:00:19: [basecommands.smx] "ᴇᴠʌı<31><STEAM_1:0:108778791><>" kicked "ᴇᴠʌı<31><STEAM_1:0:108778791><>" (reason "")
+L 08/14/2021 - 22:35:19: [basecommands.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" kicked "cockodile<60><STEAM_1:1:1146082><>" (reason "")
+L 08/14/2021 - 22:36:03: [basecomm.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" silenced "Порох в рукавицах<51><STEAM_1:1:80244186><>"
+L 08/14/2021 - 22:36:19: [basecomm.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" unsilenced "Порох в рукавицах<51><STEAM_1:1:80244186><>"
+L 08/14/2021 - 22:36:42: [funvotes.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" initiated a burn vote against "Порох в рукавицах<51><STEAM_1:1:80244186><>"
+L 08/14/2021 - 22:36:46: [funvotes.smx] Vote burn successful, igniting "Порох в рукавицах<51><STEAM_1:1:80244186><>"
+L 08/14/2021 - 22:37:05: [playercommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" slayed "Порох в рукавицах<51><STEAM_1:1:80244186><>"
+L 08/14/2021 - 22:38:26: [basecommands.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "1")
+L 08/14/2021 - 22:38:33: [basecommands.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" changed cvar (cvar "sv_friction") (value "4")
+L 08/14/2021 - 22:41:57: [basecommands.smx] "Порох в рукавицах<51><STEAM_1:1:80244186><>" kicked "swear to god<58><STEAM_1:0:525445108><>" (reason "")
+L 08/14/2021 - 22:53:07: [basecommands.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/14/2021 - 22:53:10: [SM] Changed map to "surf_trick_g"
+L 08/14/2021 - 22:53:13: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 22:53:13: [dm_trick.smx]  SUCCESS db_connect()
+L 08/14/2021 - 23:00:09: [basecommands.smx] "ᴇᴠʌı<57><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/14/2021 - 23:00:12: [SM] Changed map to "surf_trick_g"
+L 08/14/2021 - 23:00:15: -------- Mapchange to surf_trick_g --------
+L 08/14/2021 - 23:00:15: [dm_trick.smx]  SUCCESS db_connect()
+L 08/14/2021 - 23:19:47: [playercommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" slayed "swear to god<63><STEAM_1:0:525445108><>"
+L 08/14/2021 - 23:20:24: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "4.000000")
+L 08/14/2021 - 23:20:24: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "1.000000")
+L 08/14/2021 - 23:20:31: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "4.000000")
+L 08/14/2021 - 23:20:44: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "1.000000")
+L 08/14/2021 - 23:21:01: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "4.000000")
+L 08/14/2021 - 23:21:01: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "1.000000")
+L 08/14/2021 - 23:21:27: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "4.000000")
+L 08/14/2021 - 23:21:27: [funcommands.smx] "cockodemon<68><STEAM_1:0:159860788><>" set gravity on "swear to god<63><STEAM_1:0:525445108><>" (amount "1.000000")
+L 08/15/2021 - 01:00:49: Log file closed.

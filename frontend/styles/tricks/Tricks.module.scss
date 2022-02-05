@@ -1,0 +1,187 @@
+$circle-scale: 100px;
+
+.tricks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  height: 100%;
+}
+.content {
+  padding: 8px 5px;
+  padding-top: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  max-width: 1368px;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+
+  h1 {
+    color: var(--color-text);
+    font-size: 1.25rem;
+    font-weight: 900;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+  }
+
+  hr {
+    width: 50%;
+    height: 1px;
+    background-color: var(--color-border);
+    opacity: 0.5;
+    margin: 5px;
+  }
+}
+
+.item {
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+
+  @include desktop {
+    width: 33%;
+  }
+
+  @include tablet {
+    width: 35%;
+  }
+
+  @include mobile {
+    width: 100%;
+  }
+}
+
+.control {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  width: 100%;
+
+  &Search {
+    width: 100%;
+  }
+  &Filters {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+    width: 50px;
+    height: 100%;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+
+    svg {
+      width: 25px;
+      height: 25px;
+      fill: var(--color-text);
+    }
+
+    &Active {
+      svg {
+        fill: var(--color-highlight);
+      }
+    }
+  }
+}
+
+.filters {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: var(--color-background-content);
+  border-radius: 4px 4px 15px 15px;
+
+  margin: 15px 0;
+}
+
+.points {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  width: 100%;
+  height: 50px;
+}
+
+.triggers {
+  margin-top: 20px;
+
+  &List {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  &Item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+
+    background-color: var(--color-background-highlight);
+    padding: 5px 10px;
+    border-radius: 25px;
+
+    &:hover {
+      box-shadow: 0px 0px 5px var(--color-highlight);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+  }
+
+  &Inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+
+    :first-child {
+      color: var(--color-text);
+      font-size: 1rem;
+    }
+
+    :last-child {
+      fill: var(--color-text);
+      height: 20px;
+      width: 20px;
+    }
+
+    cursor: pointer;
+  }
+
+  &Add {
+    fill: var(--color-text);
+    height: 100%;
+    width: 30px;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+      transition: all 0.2s ease-in;
+    }
+    transition: all 0.2s ease-out;
+  }
+}

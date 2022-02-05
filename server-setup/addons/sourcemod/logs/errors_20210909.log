@@ -1,0 +1,175 @@
+L 09/09/2021 - 01:35:19: SourceMod error session started
+L 09/09/2021 - 01:35:19: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 01:35:19: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 01:35:19: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 01:35:19: [SM] Call stack trace:
+L 09/09/2021 - 01:35:19: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 01:35:19: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 01:47:09: Error log file session closed.
+L 09/09/2021 - 01:47:10: SourceMod error session started
+L 09/09/2021 - 01:47:10: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 01:47:10: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 01:47:10: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 01:47:10: [SM] Call stack trace:
+L 09/09/2021 - 01:47:10: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 01:47:10: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 08:35:58: Error log file session closed.
+L 09/09/2021 - 08:35:59: SourceMod error session started
+L 09/09/2021 - 08:35:59: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 08:35:59: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 08:35:59: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 08:35:59: [SM] Call stack trace:
+L 09/09/2021 - 08:35:59: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 08:35:59: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 09:00:09: Error log file session closed.
+L 09/09/2021 - 09:00:11: SourceMod error session started
+L 09/09/2021 - 09:00:11: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 09:00:11: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 09:00:11: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 09:00:11: [SM] Call stack trace:
+L 09/09/2021 - 09:00:11: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 09:00:11: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 10:02:48: Error log file session closed.
+L 09/09/2021 - 10:02:49: SourceMod error session started
+L 09/09/2021 - 10:02:49: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 10:02:49: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 10:02:49: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 10:02:49: [SM] Call stack trace:
+L 09/09/2021 - 10:02:49: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 10:02:49: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 11:38:30: Error log file session closed.
+L 09/09/2021 - 11:38:31: SourceMod error session started
+L 09/09/2021 - 11:38:31: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 11:38:31: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 11:38:31: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 11:38:31: [SM] Call stack trace:
+L 09/09/2021 - 11:38:31: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 11:38:31: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 12:06:25: Error log file session closed.
+L 09/09/2021 - 12:06:26: SourceMod error session started
+L 09/09/2021 - 12:06:26: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 12:06:26: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 12:06:26: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 12:06:26: [SM] Call stack trace:
+L 09/09/2021 - 12:06:26: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 12:06:26: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 13:49:00: Error log file session closed.
+L 09/09/2021 - 13:49:01: SourceMod error session started
+L 09/09/2021 - 13:49:01: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 13:49:01: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 13:49:01: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 13:49:01: [SM] Call stack trace:
+L 09/09/2021 - 13:49:01: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 13:49:01: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 13:59:56: Error log file session closed.
+L 09/09/2021 - 13:59:57: SourceMod error session started
+L 09/09/2021 - 13:59:57: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 13:59:57: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 13:59:57: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 13:59:57: [SM] Call stack trace:
+L 09/09/2021 - 13:59:57: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 13:59:57: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 14:00:33: Error log file session closed.
+L 09/09/2021 - 14:31:06: SourceMod error session started
+L 09/09/2021 - 14:31:06: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 14:31:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 14:31:06: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 14:31:06: [SM] Call stack trace:
+L 09/09/2021 - 14:31:06: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 14:31:06: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 15:06:14: Error log file session closed.
+L 09/09/2021 - 15:06:15: SourceMod error session started
+L 09/09/2021 - 15:06:15: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 15:06:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 15:06:15: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 15:06:15: [SM] Call stack trace:
+L 09/09/2021 - 15:06:15: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 15:06:15: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 17:14:05: Error log file session closed.
+L 09/09/2021 - 17:14:06: SourceMod error session started
+L 09/09/2021 - 17:14:06: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 17:14:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 17:14:06: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 17:14:06: [SM] Call stack trace:
+L 09/09/2021 - 17:14:06: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 17:14:06: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 17:30:57: Error log file session closed.
+L 09/09/2021 - 17:30:58: SourceMod error session started
+L 09/09/2021 - 17:30:58: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 17:30:58: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 17:30:58: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 17:30:58: [SM] Call stack trace:
+L 09/09/2021 - 17:30:58: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 17:30:58: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 18:02:52: Error log file session closed.
+L 09/09/2021 - 18:02:54: SourceMod error session started
+L 09/09/2021 - 18:02:54: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 18:02:54: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 09/09/2021 - 18:02:54: [SM] Blaming: dm_trick.smx
+L 09/09/2021 - 18:02:54: [SM] Call stack trace:
+L 09/09/2021 - 18:02:54: [SM]   [0] DBResultSet.HasResults.get
+L 09/09/2021 - 18:02:54: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 09/09/2021 - 21:16:43: Error log file session closed.
+L 09/09/2021 - 21:29:37: SourceMod error session started
+L 09/09/2021 - 21:29:37: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 21:29:37: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:37: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:37: [SM] Call stack trace:
+L 09/09/2021 - 21:29:37: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:37: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:38: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:38: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:38: [SM] Call stack trace:
+L 09/09/2021 - 21:29:38: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:38: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:38: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:38: [SM] Call stack trace:
+L 09/09/2021 - 21:29:38: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:38: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:38: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:38: [SM] Call stack trace:
+L 09/09/2021 - 21:29:38: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:38: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:39: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:39: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:39: [SM] Call stack trace:
+L 09/09/2021 - 21:29:39: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:39: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:39: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:39: [SM] Call stack trace:
+L 09/09/2021 - 21:29:39: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:39: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:40: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:40: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:40: [SM] Call stack trace:
+L 09/09/2021 - 21:29:40: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:40: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:40: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:40: [SM] Call stack trace:
+L 09/09/2021 - 21:29:40: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:40: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:59: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:59: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:59: [SM] Call stack trace:
+L 09/09/2021 - 21:29:59: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:59: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:59: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:59: [SM] Call stack trace:
+L 09/09/2021 - 21:29:59: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:29:59: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:29:59: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:29:59: [SM] Call stack trace:
+L 09/09/2021 - 21:29:59: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:29:59: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 21:30:00: [SM] Exception reported: Client index 795 is invalid
+L 09/09/2021 - 21:30:00: [SM] Blaming: sm_hide.smx
+L 09/09/2021 - 21:30:00: [SM] Call stack trace:
+L 09/09/2021 - 21:30:00: [SM]   [0] GetClientTeam
+L 09/09/2021 - 21:30:00: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 09/09/2021 - 22:21:46: Error log file session closed.

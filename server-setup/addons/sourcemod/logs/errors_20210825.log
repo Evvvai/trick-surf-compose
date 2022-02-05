@@ -1,0 +1,112 @@
+L 08/25/2021 - 04:44:22: SourceMod error session started
+L 08/25/2021 - 04:44:22: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 04:44:22: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/25/2021 - 04:48:03: Error log file session closed.
+L 08/25/2021 - 04:48:54: SourceMod error session started
+L 08/25/2021 - 04:48:54: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 04:48:54: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/25/2021 - 05:09:13: Error log file session closed.
+L 08/25/2021 - 05:09:30: SourceMod error session started
+L 08/25/2021 - 05:09:30: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 05:09:30: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/25/2021 - 05:09:45: Error log file session closed.
+L 08/25/2021 - 05:10:29: SourceMod error session started
+L 08/25/2021 - 05:10:29: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 05:10:29: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/25/2021 - 05:10:38: Error log file session closed.
+L 08/25/2021 - 05:11:20: SourceMod error session started
+L 08/25/2021 - 05:11:20: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 05:11:20: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/25/2021 - 05:11:25: Error log file session closed.
+L 08/25/2021 - 07:23:06: SourceMod error session started
+L 08/25/2021 - 07:23:06: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 07:23:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 07:23:06: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 07:23:06: [SM] Call stack trace:
+L 08/25/2021 - 07:23:06: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 07:23:06: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 08:22:24: Error log file session closed.
+L 08/25/2021 - 08:53:37: SourceMod error session started
+L 08/25/2021 - 08:53:37: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 08:53:37: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 08:53:37: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 08:53:37: [SM] Call stack trace:
+L 08/25/2021 - 08:53:37: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 08:53:37: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 10:26:26: Error log file session closed.
+L 08/25/2021 - 10:26:27: SourceMod error session started
+L 08/25/2021 - 10:26:27: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 10:26:27: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 10:26:27: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 10:26:27: [SM] Call stack trace:
+L 08/25/2021 - 10:26:27: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 10:26:27: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 12:58:12: Error log file session closed.
+L 08/25/2021 - 12:58:13: SourceMod error session started
+L 08/25/2021 - 12:58:13: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 12:58:13: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 12:58:13: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 12:58:13: [SM] Call stack trace:
+L 08/25/2021 - 12:58:13: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 12:58:13: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 13:16:16: Error log file session closed.
+L 08/25/2021 - 13:16:17: SourceMod error session started
+L 08/25/2021 - 13:16:17: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 13:16:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 13:16:17: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 13:16:17: [SM] Call stack trace:
+L 08/25/2021 - 13:16:17: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 13:16:17: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 14:07:39: Error log file session closed.
+L 08/25/2021 - 14:07:40: SourceMod error session started
+L 08/25/2021 - 14:07:40: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 14:07:40: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 14:07:40: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 14:07:40: [SM] Call stack trace:
+L 08/25/2021 - 14:07:40: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 14:07:40: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 14:13:26: Error log file session closed.
+L 08/25/2021 - 14:13:27: SourceMod error session started
+L 08/25/2021 - 14:13:27: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 14:13:27: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 14:13:27: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 14:13:27: [SM] Call stack trace:
+L 08/25/2021 - 14:13:27: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 14:13:27: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 14:14:16: Error log file session closed.
+L 08/25/2021 - 15:06:47: SourceMod error session started
+L 08/25/2021 - 15:06:47: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 15:06:47: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 15:06:47: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 15:06:47: [SM] Call stack trace:
+L 08/25/2021 - 15:06:47: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 15:06:47: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 15:58:54: [SM] Exception reported: Client index 798 is invalid
+L 08/25/2021 - 15:58:54: [SM] Blaming: sm_hide.smx
+L 08/25/2021 - 15:58:54: [SM] Call stack trace:
+L 08/25/2021 - 15:58:54: [SM]   [0] GetClientTeam
+L 08/25/2021 - 15:58:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/25/2021 - 18:29:17: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 18:29:17: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 18:29:17: [SM] Call stack trace:
+L 08/25/2021 - 18:29:17: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 18:29:17: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 19:35:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 19:35:41: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 19:35:41: [SM] Call stack trace:
+L 08/25/2021 - 19:35:41: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 19:35:41: [SM]   [1] Line 136, include/saveloc.sp::load_loc_cl_data_callback
+L 08/25/2021 - 19:35:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 19:35:41: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 19:35:41: [SM] Call stack trace:
+L 08/25/2021 - 19:35:41: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 19:35:41: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 08/25/2021 - 23:29:54: Error log file session closed.
+L 08/25/2021 - 23:29:55: SourceMod error session started
+L 08/25/2021 - 23:29:55: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210825.log")
+L 08/25/2021 - 23:29:55: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/25/2021 - 23:29:55: [SM] Blaming: dm_trick.smx
+L 08/25/2021 - 23:29:55: [SM] Call stack trace:
+L 08/25/2021 - 23:29:55: [SM]   [0] DBResultSet.HasResults.get
+L 08/25/2021 - 23:29:55: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/25/2021 - 23:33:13: Error log file session closed.

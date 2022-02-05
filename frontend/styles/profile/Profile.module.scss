@@ -1,0 +1,198 @@
+.profile {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  .Dashboard {
+    position: relative;
+    height: calc(100vw / 5);
+
+    &:hover &Edit {
+      opacity: 0.8;
+      transition: all 0.2s ease-in;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    &Back {
+      background: linear-gradient(
+        180deg,
+        transparent,
+        transparent,
+        rgba(20, 20, 20, 0.1) 0,
+        var(--color-background-modal)
+      );
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    &Edit {
+      cursor: pointer;
+      opacity: 0.25;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: all;
+
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      background-color: var(--color-background-modal);
+
+      padding: 15px;
+      svg {
+        height: 100%;
+        width: 100%;
+        fill: var(--color-text);
+      }
+
+      transition: all 0.2s ease-in;
+
+      &:hover {
+        opacity: 0.8;
+        transition: all 0.2s ease-in;
+      }
+    }
+  }
+}
+
+.info {
+  // position: relative;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: row;
+  max-width: 1368px;
+
+  .Avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 80px;
+
+    width: 100px;
+    height: 100px;
+
+    &:hover &Edit {
+      opacity: 0.8;
+      transition: all 0.2s ease-in;
+    }
+
+    &Back {
+      position: absolute;
+      background-color: var(--color-background);
+      margin-bottom: 80px;
+      z-index: 9;
+
+      overflow: hidden;
+      width: 104px;
+      height: 104px;
+      object-fit: cover;
+      border-radius: 50%;
+
+      @include mobile {
+        width: 70px;
+        height: 70px;
+      }
+    }
+
+    &Image {
+      user-select: none;
+      position: absolute;
+      overflow: hidden;
+      margin-bottom: 80px;
+      z-index: 10;
+
+      width: 96px;
+      height: 96px;
+      object-fit: cover;
+      border-radius: 50%;
+
+      @include mobile {
+        width: 64px;
+        height: 64px;
+      }
+    }
+
+    &Edit {
+      z-index: 12;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      opacity: 0;
+      margin-bottom: 80px;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      background-color: var(--color-background-modal);
+
+      transition: all 0.2s ease-in;
+
+      padding: 15px;
+      svg {
+        height: 100%;
+        width: 100%;
+        fill: var(--color-text);
+      }
+
+      &:hover {
+        opacity: 0.8;
+        transition: all 0.2s ease-in;
+      }
+    }
+  }
+
+  .Name {
+    font-size: 1.5rem;
+    z-index: 11;
+    color: var(--color-highlight);
+    font-weight: 700;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    margin-top: -25px;
+    margin-left: 10px;
+
+    @include mobile {
+      margin-top: -18px;
+      margin-left: 0px;
+      font-size: 1rem;
+    }
+  }
+}
+
+.wave {
+  position: absolute;
+  top: calc(100vw / 5);
+  left: 0;
+  width: 100%;
+  transform: rotate(180deg);
+  height: 30px;
+  fill: var(--color-background-modal);
+}
+
+.profileInner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}

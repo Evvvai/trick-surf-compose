@@ -1,0 +1,113 @@
+L 08/16/2021 - 00:06:24: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210816.log") (Version "1.10.0.6510")
+L 08/16/2021 - 00:06:24: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "20")
+L 08/16/2021 - 00:09:19: [funcommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<5><STEAM_1:0:108778791><>"
+L 08/16/2021 - 00:09:59: [funcommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<5><STEAM_1:0:108778791><>"
+L 08/16/2021 - 00:10:01: [funcommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<5><STEAM_1:0:108778791><>"
+L 08/16/2021 - 00:10:02: [funcommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<5><STEAM_1:0:108778791><>"
+L 08/16/2021 - 00:10:24: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 00:10:27: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 00:10:30: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 00:10:30: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 00:12:05: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed cvar (cvar "sv_specspeed") (value "15")
+L 08/16/2021 - 01:30:34: [funvotes.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" initiated a burn vote against "yakiness<19><STEAM_1:1:568198462><>"
+L 08/16/2021 - 01:30:40: [funvotes.smx] Vote burn successful, igniting "yakiness<19><STEAM_1:1:568198462><>"
+L 08/16/2021 - 01:42:15: [basevotes.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" initiated a ban vote against "I_AM_WILDCAT<22><STEAM_1:0:140353634><>"
+L 08/16/2021 - 01:42:24: [basevotes.smx] Vote ban failed, unable to ban "I_AM_WILDCAT" (reason "Player no longer available")
+L 08/16/2021 - 01:44:26: [funvotes.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" initiated a burn vote against "Гуин<20><STEAM_1:1:453450386><>"
+L 08/16/2021 - 01:44:34: [funvotes.smx] Vote failed.
+L 08/16/2021 - 01:59:53: [basevotes.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" initiated a generic vote.
+L 08/16/2021 - 02:00:36: [basecommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" kicked "yakiness<19><STEAM_1:1:568198462><>" (reason "")
+L 08/16/2021 - 02:03:22: [basevotes.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" initiated a generic vote.
+L 08/16/2021 - 02:04:10: [funvotes.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" initiated a burn vote against "yakiness<26><STEAM_1:1:568198462><>"
+L 08/16/2021 - 02:04:27: [funvotes.smx] Vote burn successful, igniting "yakiness<26><STEAM_1:1:568198462><>"
+L 08/16/2021 - 02:06:18: [basebans.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" banned "yakiness<26><STEAM_1:1:568198462><>" (minutes "0") (reason "Abusive")
+L 08/16/2021 - 02:07:45: [basebans.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:568198462")
+L 08/16/2021 - 02:09:02: [basevotes.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" initiated a generic vote.
+L 08/16/2021 - 02:11:15: [playercommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" slayed "yakiness<27><STEAM_1:1:568198462><>"
+L 08/16/2021 - 02:11:29: [playercommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" slayed "yakiness<27><STEAM_1:1:568198462><>"
+L 08/16/2021 - 02:16:13: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.500000")
+L 08/16/2021 - 02:16:13: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:16:27: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "2.000000")
+L 08/16/2021 - 02:16:28: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:16:40: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "2.000000")
+L 08/16/2021 - 02:16:40: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "2.000000")
+L 08/16/2021 - 02:16:45: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "2.000000")
+L 08/16/2021 - 02:16:46: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:16:49: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "2.000000")
+L 08/16/2021 - 02:16:49: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:16:53: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "4.000000")
+L 08/16/2021 - 02:16:54: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:16:58: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "4.000000")
+L 08/16/2021 - 02:16:59: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "ᴇᴠʌı<5><STEAM_1:0:108778791><>" (amount "4.000000")
+L 08/16/2021 - 02:17:01: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "juuqi<23><STEAM_1:0:172694433><>" (amount "1.000000")
+L 08/16/2021 - 02:17:02: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:17:06: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "ᴇᴠʌı<5><STEAM_1:0:108778791><>" (amount "1.000000")
+L 08/16/2021 - 02:17:07: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "juuqi<23><STEAM_1:0:172694433><>" (amount "1.000000")
+L 08/16/2021 - 02:17:16: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/16/2021 - 02:17:17: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "4.000000")
+L 08/16/2021 - 02:17:19: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "juuqi<23><STEAM_1:0:172694433><>" (amount "1.000000")
+L 08/16/2021 - 02:17:20: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:17:24: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/16/2021 - 02:17:25: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:17:33: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/16/2021 - 02:17:35: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:17:38: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/16/2021 - 02:17:39: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:17:41: [funcommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" set gravity on "ᴇᴠʌı<5><STEAM_1:0:108778791><>" (amount "1.000000")
+L 08/16/2021 - 02:17:45: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "0.100000")
+L 08/16/2021 - 02:17:46: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" set gravity on "yakiness<27><STEAM_1:1:568198462><>" (amount "1.000000")
+L 08/16/2021 - 02:20:23: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 02:20:26: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 02:20:29: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 02:20:29: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 02:20:43: [basecommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" kicked "yakiness<27><STEAM_1:1:568198462><>" (reason "")
+L 08/16/2021 - 02:21:05: [playercommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" renamed "yakiness<29><STEAM_1:1:568198462><>" (to "spawn return abuser")
+L 08/16/2021 - 02:22:10: [playercommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" renamed "yakiness<30><STEAM_1:1:568198462><>" (to "spawn return abuser")
+L 08/16/2021 - 02:22:34: [playercommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" renamed "yakiness<31><STEAM_1:1:568198462><>" (to "spawn return abuser")
+L 08/16/2021 - 02:45:48: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" froze "spawn return abuser<31><STEAM_1:1:568198462><>"
+L 08/16/2021 - 02:45:52: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" froze "spawn return abuser<31><STEAM_1:1:568198462><>"
+L 08/16/2021 - 03:12:07: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" toggled noclip on "spawn return abuser<31><STEAM_1:1:568198462><>"
+L 08/16/2021 - 03:12:44: [funcommands.smx] "surf_lags_x<25><STEAM_1:1:80244186><>" toggled noclip on "spawn return abuser<31><STEAM_1:1:568198462><>"
+L 08/16/2021 - 03:13:07: [basecommands.smx] "ᴇᴠʌı<5><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 03:13:10: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 03:13:13: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 03:13:13: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 03:24:39: [basecommands.smx] "ᴇᴠʌı<34><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 03:24:42: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 03:24:45: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 03:24:46: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 03:34:45: [basecommands.smx] "ᴇᴠʌı<34><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 03:34:49: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 03:34:51: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 03:34:51: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 05:18:56: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 05:18:56: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 05:30:33: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 06:57:55: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 07:51:01: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 08:55:13: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 18:05:09: Log file closed.
+L 08/16/2021 - 18:05:32: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210816.log") (Version "1.10.0.6510")
+L 08/16/2021 - 18:05:32: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 18:05:48: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 19:53:01: [basevotes.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" initiated a ban vote against "?<19><STEAM_1:0:200171136><>"
+L 08/16/2021 - 19:53:22: [basevotes.smx] Vote ban successful, banned "?<19><STEAM_1:0:200171136><>" (minutes "30") (reason "Votebanned")
+L 08/16/2021 - 19:53:39: [basecomm.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" silenced "yakiness<4><STEAM_1:1:568198462><>"
+L 08/16/2021 - 19:53:50: [basecomm.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" unsilenced "yakiness<4><STEAM_1:1:568198462><>"
+L 08/16/2021 - 20:02:47: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:47: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:47: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:47: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:48: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:48: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:02:48: [playercommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" slapped "shalomander<20><STEAM_1:1:1146082><>" (damage "0")
+L 08/16/2021 - 20:06:04: [basevotes.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" initiated a ban vote against "Evgeniy-CROW<21><STEAM_1:0:606910098><>"
+L 08/16/2021 - 20:06:25: [basevotes.smx] Vote ban successful, banned "Evgeniy-CROW<21><STEAM_1:0:606910098><>" (minutes "30") (reason "Votebanned")
+L 08/16/2021 - 20:08:00: [basecommands.smx] "ᴇᴠʌı<18><STEAM_1:0:108778791><>" changed map to "surf_trick_g"
+L 08/16/2021 - 20:08:03: [SM] Changed map to "surf_trick_g"
+L 08/16/2021 - 20:08:06: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 20:10:07: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210816.log") (Version "1.10.0.6510")
+L 08/16/2021 - 20:10:07: [dm_trick.smx]  SUCCESS db_connect()
+L 08/16/2021 - 20:10:42: -------- Mapchange to surf_trick_g --------
+L 08/16/2021 - 20:39:55: [basecommands.smx] "ᴇᴠʌı<17><STEAM_1:0:108778791><>" kicked "Yada<6><STEAM_1:1:197641908><>" (reason "")
+L 08/17/2021 - 00:26:58: Log file closed.

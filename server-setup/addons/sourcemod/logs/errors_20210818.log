@@ -1,0 +1,211 @@
+L 08/18/2021 - 00:08:28: SourceMod error session started
+L 08/18/2021 - 00:08:28: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 00:08:28: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 00:08:28: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 00:08:28: [SM] Call stack trace:
+L 08/18/2021 - 00:08:28: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 00:08:28: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 00:57:35: Error log file session closed.
+L 08/18/2021 - 00:57:40: SourceMod error session started
+L 08/18/2021 - 00:57:40: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 00:57:40: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 00:57:40: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 00:57:40: [SM] Call stack trace:
+L 08/18/2021 - 00:57:40: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 00:57:40: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 00:59:24: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 00:59:24: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 00:59:24: [SM] Call stack trace:
+L 08/18/2021 - 00:59:24: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 00:59:24: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 01:53:58: Error log file session closed.
+L 08/18/2021 - 01:54:02: SourceMod error session started
+L 08/18/2021 - 01:54:02: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 01:54:02: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 01:54:02: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 01:54:02: [SM] Call stack trace:
+L 08/18/2021 - 01:54:02: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 01:54:02: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 01:54:12: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 01:54:12: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 01:54:12: [SM] Call stack trace:
+L 08/18/2021 - 01:54:12: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 01:54:12: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 05:19:37: Error log file session closed.
+L 08/18/2021 - 05:19:41: SourceMod error session started
+L 08/18/2021 - 05:19:41: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 05:19:41: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 05:19:41: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 05:19:41: [SM] Call stack trace:
+L 08/18/2021 - 05:19:41: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 05:19:41: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 05:20:32: Error log file session closed.
+L 08/18/2021 - 05:26:16: SourceMod error session started
+L 08/18/2021 - 05:26:16: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 05:26:16: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 05:26:16: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 05:26:16: [SM] Call stack trace:
+L 08/18/2021 - 05:26:16: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 05:26:16: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 07:50:15: Error log file session closed.
+L 08/18/2021 - 07:50:20: SourceMod error session started
+L 08/18/2021 - 07:50:20: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 07:50:20: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 07:50:20: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 07:50:20: [SM] Call stack trace:
+L 08/18/2021 - 07:50:20: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 07:50:20: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 07:51:08: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 07:51:08: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 07:51:08: [SM] Call stack trace:
+L 08/18/2021 - 07:51:08: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 07:51:08: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 08:31:28: Error log file session closed.
+L 08/18/2021 - 08:31:33: SourceMod error session started
+L 08/18/2021 - 08:31:33: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 08:31:33: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 08:31:33: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 08:31:33: [SM] Call stack trace:
+L 08/18/2021 - 08:31:33: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 08:31:33: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 08:32:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 08:32:15: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 08:32:15: [SM] Call stack trace:
+L 08/18/2021 - 08:32:15: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 08:32:15: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 09:53:42: Error log file session closed.
+L 08/18/2021 - 09:53:46: SourceMod error session started
+L 08/18/2021 - 09:53:46: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 09:53:46: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 09:53:46: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 09:53:46: [SM] Call stack trace:
+L 08/18/2021 - 09:53:46: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 09:53:46: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 10:07:43: Error log file session closed.
+L 08/18/2021 - 10:07:47: SourceMod error session started
+L 08/18/2021 - 10:07:47: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 10:07:47: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 10:07:47: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 10:07:47: [SM] Call stack trace:
+L 08/18/2021 - 10:07:47: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 10:07:47: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 10:51:55: Error log file session closed.
+L 08/18/2021 - 10:52:00: SourceMod error session started
+L 08/18/2021 - 10:52:00: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 10:52:00: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 10:52:00: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 10:52:00: [SM] Call stack trace:
+L 08/18/2021 - 10:52:00: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 10:52:00: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 11:18:30: Error log file session closed.
+L 08/18/2021 - 11:18:35: SourceMod error session started
+L 08/18/2021 - 11:18:35: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 11:18:35: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 11:18:35: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 11:18:35: [SM] Call stack trace:
+L 08/18/2021 - 11:18:35: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 11:18:35: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 11:36:34: Error log file session closed.
+L 08/18/2021 - 11:36:39: SourceMod error session started
+L 08/18/2021 - 11:36:39: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 11:36:39: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 11:36:39: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 11:36:39: [SM] Call stack trace:
+L 08/18/2021 - 11:36:39: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 11:36:39: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 11:39:07: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 11:39:07: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 11:39:07: [SM] Call stack trace:
+L 08/18/2021 - 11:39:07: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 11:39:07: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 14:19:24: Error log file session closed.
+L 08/18/2021 - 14:19:28: SourceMod error session started
+L 08/18/2021 - 14:19:28: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 14:19:28: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 14:19:28: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 14:19:28: [SM] Call stack trace:
+L 08/18/2021 - 14:19:28: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 14:19:28: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 14:19:55: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 14:19:55: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 14:19:55: [SM] Call stack trace:
+L 08/18/2021 - 14:19:55: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 14:19:55: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 17:08:13: Error log file session closed.
+L 08/18/2021 - 17:08:18: SourceMod error session started
+L 08/18/2021 - 17:08:18: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 17:08:18: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 17:08:18: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 17:08:18: [SM] Call stack trace:
+L 08/18/2021 - 17:08:18: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 17:08:18: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 17:08:25: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 17:08:25: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 17:08:25: [SM] Call stack trace:
+L 08/18/2021 - 17:08:25: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 17:08:25: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 17:23:02: Error log file session closed.
+L 08/18/2021 - 17:25:48: SourceMod error session started
+L 08/18/2021 - 17:25:48: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 17:25:48: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 17:25:48: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 17:25:48: [SM] Call stack trace:
+L 08/18/2021 - 17:25:48: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 17:25:48: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 18:36:00: Error log file session closed.
+L 08/18/2021 - 18:36:34: SourceMod error session started
+L 08/18/2021 - 18:36:34: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 18:36:34: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 18:36:34: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 18:36:34: [SM] Call stack trace:
+L 08/18/2021 - 18:36:34: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 18:36:34: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 19:22:27: Error log file session closed.
+L 08/18/2021 - 19:22:32: SourceMod error session started
+L 08/18/2021 - 19:22:32: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210818.log")
+L 08/18/2021 - 19:22:32: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 19:22:32: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 19:22:32: [SM] Call stack trace:
+L 08/18/2021 - 19:22:32: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 19:22:32: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/18/2021 - 19:23:10: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 19:23:10: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 19:23:10: [SM] Call stack trace:
+L 08/18/2021 - 19:23:10: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 19:23:10: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 22:57:42: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 22:57:42: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 22:57:42: [SM] Call stack trace:
+L 08/18/2021 - 22:57:42: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 22:57:42: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/18/2021 - 22:57:42: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/18/2021 - 22:57:42: [SM] Blaming: dm_trick.smx
+L 08/18/2021 - 22:57:42: [SM] Call stack trace:
+L 08/18/2021 - 22:57:42: [SM]   [0] DBResultSet.HasResults.get
+L 08/18/2021 - 22:57:42: [SM]   [1] Line 88, include/trick_menu.sp::load_trick_cl_data_callback
+L 08/18/2021 - 23:19:09: [SM] Exception reported: Client index 819 is invalid
+L 08/18/2021 - 23:19:09: [SM] Blaming: sm_hide.smx
+L 08/18/2021 - 23:19:09: [SM] Call stack trace:
+L 08/18/2021 - 23:19:09: [SM]   [0] GetClientTeam
+L 08/18/2021 - 23:19:09: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/18/2021 - 23:19:11: [SM] Exception reported: Client index 819 is invalid
+L 08/18/2021 - 23:19:11: [SM] Blaming: sm_hide.smx
+L 08/18/2021 - 23:19:11: [SM] Call stack trace:
+L 08/18/2021 - 23:19:11: [SM]   [0] GetClientTeam
+L 08/18/2021 - 23:19:11: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/18/2021 - 23:19:54: [SM] Exception reported: Client index 819 is invalid
+L 08/18/2021 - 23:19:54: [SM] Blaming: sm_hide.smx
+L 08/18/2021 - 23:19:54: [SM] Call stack trace:
+L 08/18/2021 - 23:19:54: [SM]   [0] GetClientTeam
+L 08/18/2021 - 23:19:54: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/18/2021 - 23:20:29: [SM] Exception reported: Client index 819 is invalid
+L 08/18/2021 - 23:20:29: [SM] Blaming: sm_hide.smx
+L 08/18/2021 - 23:20:29: [SM] Call stack trace:
+L 08/18/2021 - 23:20:29: [SM]   [0] GetClientTeam
+L 08/18/2021 - 23:20:29: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/18/2021 - 23:20:32: [SM] Exception reported: Client index 819 is invalid
+L 08/18/2021 - 23:20:32: [SM] Blaming: sm_hide.smx
+L 08/18/2021 - 23:20:32: [SM] Call stack trace:
+L 08/18/2021 - 23:20:32: [SM]   [0] GetClientTeam
+L 08/18/2021 - 23:20:32: [SM]   [1] Line 141, /home/forums/content/files/2/7/7/4/6/3/183646.attach::OnNormalSoundPlayed
+L 08/19/2021 - 00:00:34: Error log file session closed.

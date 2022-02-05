@@ -1,0 +1,22 @@
+// "Patch"
+// {
+	// include "materials\models\crystal\player\base.vmt"
+	// insert
+	// {
+		// $basetexture "models/crystal/player/outline_noise"
+		// $basetexturetransform "center .14 0.12 scale 0.02 0.02 rotate 0 translate 0 0"
+		// $alphatest 1
+		// $nocull 1
+		// $envmap "crystal/cubemap_shards"
+		// $envmapcontrast 1
+		// $envmaptint "{70 70 70}"
+		// $envmapsaturation 0
+		// $nodecal 1
+	// }
+// }
+
+UnlitGeneric
+{
+	$no_draw 1
+	$nodecal 1
+}

@@ -1,0 +1,561 @@
+L 08/22/2021 - 01:18:50: SourceMod error session started
+L 08/22/2021 - 01:18:50: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 01:18:50: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 01:18:50: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 01:18:50: [SM] Call stack trace:
+L 08/22/2021 - 01:18:50: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 01:18:50: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 01:18:52: Error log file session closed.
+L 08/22/2021 - 01:18:52: SourceMod error session started
+L 08/22/2021 - 01:18:52: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 01:18:52: [SM] Error parsing gameconfig file "/home/container/csgo/addons/sourcemod/gamedata/dhooks.weapon_shootposition.txt":
+L 08/22/2021 - 01:18:52: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/22/2021 - 01:18:52: [SM] Exception reported: Unable to open dhooks.weapon_shootposition: File could not be opened: No such file or directory
+L 08/22/2021 - 01:18:52: [SM] Blaming: DM_HitReg.smx
+L 08/22/2021 - 01:18:52: [SM] Call stack trace:
+L 08/22/2021 - 01:18:52: [SM]   [0] LoadGameConfigFile
+L 08/22/2021 - 01:18:52: [SM]   [1] Line 20, c:\1\DM_HitReg\scripting\DM_HitReg.sp::OnPluginStart
+L 08/22/2021 - 01:18:52: [SM] Unable to load plugin "DM_HitReg.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 01:21:59: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 01:21:59: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 01:21:59: [SM] Call stack trace:
+L 08/22/2021 - 01:21:59: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 01:21:59: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 01:55:05: Error log file session closed.
+L 08/22/2021 - 01:55:09: SourceMod error session started
+L 08/22/2021 - 01:55:09: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 01:55:09: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 01:55:09: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 01:55:09: [SM] Call stack trace:
+L 08/22/2021 - 01:55:09: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 01:55:09: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 01:58:05: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 01:58:05: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 01:58:05: [SM] Call stack trace:
+L 08/22/2021 - 01:58:05: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 01:58:05: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 02:03:12: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 02:03:12: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 02:03:12: [SM] Call stack trace:
+L 08/22/2021 - 02:03:12: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 02:03:12: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 02:26:33: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 02:26:33: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 02:26:33: [SM] Call stack trace:
+L 08/22/2021 - 02:26:33: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 02:26:33: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 02:26:37: Error log file session closed.
+L 08/22/2021 - 02:27:00: SourceMod error session started
+L 08/22/2021 - 02:27:00: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:27:00: [SM] Error parsing gameconfig file "/home/container/csgo/addons/sourcemod/gamedata/dhooks.weapon_shootposition.txt":
+L 08/22/2021 - 02:27:00: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/22/2021 - 02:27:00: [SM] Exception reported: Unable to open dhooks.weapon_shootposition: File could not be opened: No such file or directory
+L 08/22/2021 - 02:27:00: [SM] Blaming: DM_HitReg.smx
+L 08/22/2021 - 02:27:00: [SM] Call stack trace:
+L 08/22/2021 - 02:27:00: [SM]   [0] LoadGameConfigFile
+L 08/22/2021 - 02:27:00: [SM]   [1] Line 20, c:\1\DM_HitReg\scripting\DM_HitReg.sp::OnPluginStart
+L 08/22/2021 - 02:27:00: [SM] Unable to load plugin "DM_HitReg.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 02:27:57: Error log file session closed.
+L 08/22/2021 - 02:28:06: SourceMod error session started
+L 08/22/2021 - 02:28:06: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:28:06: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 02:28:06: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 02:28:06: [SM] Call stack trace:
+L 08/22/2021 - 02:28:06: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 02:28:06: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 02:32:20: Error log file session closed.
+L 08/22/2021 - 02:32:20: SourceMod error session started
+L 08/22/2021 - 02:32:20: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:32:20: [SM] Exception reported: [FireBullets Fix] failed to find offset
+L 08/22/2021 - 02:32:20: [SM] Blaming: DM_HitReg.smx
+L 08/22/2021 - 02:32:20: [SM] Call stack trace:
+L 08/22/2021 - 02:32:20: [SM]   [0] SetFailState
+L 08/22/2021 - 02:32:20: [SM]   [1] Line 31, c:\1\DM_HitReg\scripting\DM_HitReg.sp::OnPluginStart
+L 08/22/2021 - 02:32:20: [SM] Unable to load plugin "DM_HitReg.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 02:33:12: SourceMod error session started
+L 08/22/2021 - 02:33:12: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:33:12: [SM] Error parsing gameconfig file "/home/container/csgo/addons/sourcemod/gamedata/dhooks.weapon_shootposition.txt":
+L 08/22/2021 - 02:33:12: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/22/2021 - 02:33:12: [SM] Exception reported: Unable to open dhooks.weapon_shootposition: File could not be opened: No such file or directory
+L 08/22/2021 - 02:33:12: [SM] Blaming: DM_HitReg.smx
+L 08/22/2021 - 02:33:12: [SM] Call stack trace:
+L 08/22/2021 - 02:33:12: [SM]   [0] LoadGameConfigFile
+L 08/22/2021 - 02:33:12: [SM]   [1] Line 20, c:\1\DM_HitReg\scripting\DM_HitReg.sp::OnPluginStart
+L 08/22/2021 - 02:33:12: [SM] Unable to load plugin "DM_HitReg.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 02:33:22: Error log file session closed.
+L 08/22/2021 - 02:34:15: SourceMod error session started
+L 08/22/2021 - 02:34:15: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:34:15: [SM] Error parsing gameconfig file "/home/container/csgo/addons/sourcemod/gamedata/dhooks.weapon_shootposition.txt":
+L 08/22/2021 - 02:34:15: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/22/2021 - 02:34:15: [SM] Exception reported: Unable to open dhooks.weapon_shootposition: File could not be opened: No such file or directory
+L 08/22/2021 - 02:34:15: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 02:34:15: [SM] Call stack trace:
+L 08/22/2021 - 02:34:15: [SM]   [0] LoadGameConfigFile
+L 08/22/2021 - 02:34:15: [SM]   [1] Line 18, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPluginStart
+L 08/22/2021 - 02:34:15: [SM] Unable to load plugin "HitReg_Gxd.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 02:34:28: Error log file session closed.
+L 08/22/2021 - 02:44:44: SourceMod error session started
+L 08/22/2021 - 02:44:44: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:44:44: [SM] Exception reported: [Lost Bullet Fix] failed to find offset
+L 08/22/2021 - 02:44:44: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 02:44:44: [SM] Call stack trace:
+L 08/22/2021 - 02:44:44: [SM]   [0] SetFailState
+L 08/22/2021 - 02:44:44: [SM]   [1] Line 27, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPluginStart
+L 08/22/2021 - 02:44:44: [SM] Unable to load plugin "HitReg_Gxd.smx": Error detected in plugin startup (see error logs)
+L 08/22/2021 - 02:46:48: Error log file session closed.
+L 08/22/2021 - 02:52:47: SourceMod error session started
+L 08/22/2021 - 02:52:47: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 02:52:47: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 02:53:07: Error log file session closed.
+L 08/22/2021 - 03:03:15: SourceMod error session started
+L 08/22/2021 - 03:03:15: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:03:15: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:03:25: Error log file session closed.
+L 08/22/2021 - 03:04:11: SourceMod error session started
+L 08/22/2021 - 03:04:11: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:04:11: [SM] Exception reported: Entity 3 (3) is invalid
+L 08/22/2021 - 03:04:11: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 03:04:11: [SM] Call stack trace:
+L 08/22/2021 - 03:04:11: [SM]   [0] GetEntProp
+L 08/22/2021 - 03:04:11: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 03:04:11: [SM] Exception reported: Entity 3 (3) is invalid
+L 08/22/2021 - 03:04:11: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 03:04:11: [SM] Call stack trace:
+L 08/22/2021 - 03:04:11: [SM]   [0] GetEntProp
+L 08/22/2021 - 03:04:11: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 03:05:03: Error log file session closed.
+L 08/22/2021 - 03:05:15: SourceMod error session started
+L 08/22/2021 - 03:05:15: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:05:15: [SM] Exception reported: Entity 4 (4) is invalid
+L 08/22/2021 - 03:05:15: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 03:05:15: [SM] Call stack trace:
+L 08/22/2021 - 03:05:15: [SM]   [0] GetEntProp
+L 08/22/2021 - 03:05:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 03:05:15: [SM] Exception reported: Entity 4 (4) is invalid
+L 08/22/2021 - 03:05:15: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 03:05:15: [SM] Call stack trace:
+L 08/22/2021 - 03:05:15: [SM]   [0] GetEntProp
+L 08/22/2021 - 03:05:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 03:06:01: Error log file session closed.
+L 08/22/2021 - 03:11:33: SourceMod error session started
+L 08/22/2021 - 03:11:33: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:11:33: [SM] Exception reported: Entity 4 (4) is invalid
+L 08/22/2021 - 03:11:33: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 03:11:33: [SM] Call stack trace:
+L 08/22/2021 - 03:11:33: [SM]   [0] GetEntProp
+L 08/22/2021 - 03:11:33: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 03:22:02: Error log file session closed.
+L 08/22/2021 - 03:27:21: SourceMod error session started
+L 08/22/2021 - 03:27:21: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:27:21: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:28:19: Error log file session closed.
+L 08/22/2021 - 03:29:29: SourceMod error session started
+L 08/22/2021 - 03:29:29: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:29:29: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:30:08: Error log file session closed.
+L 08/22/2021 - 03:37:29: SourceMod error session started
+L 08/22/2021 - 03:37:29: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:37:29: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:39:04: SourceMod error session started
+L 08/22/2021 - 03:39:04: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:39:04: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:40:52: SourceMod error session started
+L 08/22/2021 - 03:40:52: Info (map "surf_skyworld_nf") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:40:52: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:41:47: Error log file session closed.
+L 08/22/2021 - 03:42:59: SourceMod error session started
+L 08/22/2021 - 03:42:59: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 03:42:59: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 03:43:14: Error log file session closed.
+L 08/22/2021 - 05:13:07: SourceMod error session started
+L 08/22/2021 - 05:13:07: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 05:13:07: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 05:13:22: Error log file session closed.
+L 08/22/2021 - 05:13:49: SourceMod error session started
+L 08/22/2021 - 05:13:49: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 05:13:49: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 05:13:49: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 05:13:49: [SM] Call stack trace:
+L 08/22/2021 - 05:13:49: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 05:13:49: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 05:29:08: Error log file session closed.
+L 08/22/2021 - 05:29:28: SourceMod error session started
+L 08/22/2021 - 05:29:28: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 05:29:28: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 05:29:28: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 05:29:28: [SM] Call stack trace:
+L 08/22/2021 - 05:29:28: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 05:29:28: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 05:32:29: Error log file session closed.
+L 08/22/2021 - 05:32:37: SourceMod error session started
+L 08/22/2021 - 05:32:37: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 05:32:37: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 05:32:37: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 05:32:37: [SM] Call stack trace:
+L 08/22/2021 - 05:32:37: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 05:32:37: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 06:56:32: Error log file session closed.
+L 08/22/2021 - 06:56:36: SourceMod error session started
+L 08/22/2021 - 06:56:36: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 06:56:36: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 06:56:36: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 06:56:36: [SM] Call stack trace:
+L 08/22/2021 - 06:56:36: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 06:56:36: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 06:56:53: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 06:56:53: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 06:56:53: [SM] Call stack trace:
+L 08/22/2021 - 06:56:53: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 06:56:53: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 07:17:26: [SM] Exception reported: Client 9 is not in game
+L 08/22/2021 - 07:17:26: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 07:17:26: [SM] Call stack trace:
+L 08/22/2021 - 07:17:26: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 07:17:26: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 07:17:26: [SM]   [3] SDKHooks_TakeDamage
+L 08/22/2021 - 07:17:26: [SM]   [4] Line 83, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::CheckReg
+L 08/22/2021 - 07:17:26: [SM]   [5] Line 54, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnBulletImpact
+L 08/22/2021 - 07:17:38: [SM] Exception reported: Client 9 is not in game
+L 08/22/2021 - 07:17:38: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 07:17:38: [SM] Call stack trace:
+L 08/22/2021 - 07:17:38: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 07:17:38: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 07:17:38: [SM]   [3] SDKHooks_TakeDamage
+L 08/22/2021 - 07:17:38: [SM]   [4] Line 83, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::CheckReg
+L 08/22/2021 - 07:17:38: [SM]   [5] Line 54, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnBulletImpact
+L 08/22/2021 - 07:17:45: [SM] Exception reported: Client 8 is not in game
+L 08/22/2021 - 07:17:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 07:17:45: [SM] Call stack trace:
+L 08/22/2021 - 07:17:45: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 07:17:45: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 07:17:45: [SM]   [3] SDKHooks_TakeDamage
+L 08/22/2021 - 07:17:45: [SM]   [4] Line 83, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::CheckReg
+L 08/22/2021 - 07:17:45: [SM]   [5] Line 54, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnBulletImpact
+L 08/22/2021 - 11:33:44: Error log file session closed.
+L 08/22/2021 - 11:33:48: SourceMod error session started
+L 08/22/2021 - 11:33:48: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 11:33:48: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 11:33:48: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 11:33:48: [SM] Call stack trace:
+L 08/22/2021 - 11:33:48: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 11:33:48: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 11:34:15: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 11:34:15: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 11:34:15: [SM] Call stack trace:
+L 08/22/2021 - 11:34:15: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 11:34:15: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 11:39:52: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 11:39:52: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 11:39:52: [SM] Call stack trace:
+L 08/22/2021 - 11:39:52: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 11:39:52: [SM]   [1] Line 208, include/daily_tricks.sp::timer_daily_callback
+L 08/22/2021 - 11:42:09: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 11:42:09: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 11:42:09: [SM] Call stack trace:
+L 08/22/2021 - 11:42:09: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 11:42:09: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 12:01:12: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 12:01:12: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 12:01:12: [SM] Call stack trace:
+L 08/22/2021 - 12:01:12: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 12:01:12: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 12:03:09: [SM] Exception reported: Invalid query Handle 0 (error: 4)
+L 08/22/2021 - 12:03:09: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 12:03:09: [SM] Call stack trace:
+L 08/22/2021 - 12:03:09: [SM]   [0] DBResultSet.HasResults.get
+L 08/22/2021 - 12:03:09: [SM]   [1] Line 129, include/saveloc.sp::load_loc_cl_data_callback
+L 08/22/2021 - 12:36:19: Error log file session closed.
+L 08/22/2021 - 15:58:35: SourceMod error session started
+L 08/22/2021 - 15:58:35: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 15:58:35: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 13:00:57: Error log file session closed.
+L 08/22/2021 - 13:01:18: SourceMod error session started
+L 08/22/2021 - 13:01:18: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 13:01:18: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 13:05:12: Error log file session closed.
+L 08/22/2021 - 19:27:11: SourceMod error session started
+L 08/22/2021 - 19:27:11: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 19:27:11: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 19:28:27: Error log file session closed.
+L 08/22/2021 - 19:30:00: SourceMod error session started
+L 08/22/2021 - 19:30:00: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 19:30:00: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 19:34:33: Error log file session closed.
+L 08/22/2021 - 19:51:35: SourceMod error session started
+L 08/22/2021 - 19:51:35: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 19:51:35: [SM] Unable to load plugin "momsurffix2.smx": Native "DHookCreateDetour" was not found
+L 08/22/2021 - 19:51:41: Error log file session closed.
+L 08/22/2021 - 19:55:55: SourceMod error session started
+L 08/22/2021 - 19:55:55: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 19:55:55: [SM] Exception reported: Client 3 is a bot
+L 08/22/2021 - 19:55:55: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 19:55:55: [SM] Call stack trace:
+L 08/22/2021 - 19:55:55: [SM]   [0] GetClientTime
+L 08/22/2021 - 19:55:55: [SM]   [1] Line 994, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\DM_Trick_n_Combat\scripting\dm_trick.sp::OnClientDisconnect
+L 08/22/2021 - 19:55:55: [SM] Exception reported: Client 4 is a bot
+L 08/22/2021 - 19:55:55: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 19:55:55: [SM] Call stack trace:
+L 08/22/2021 - 19:55:55: [SM]   [0] GetClientTime
+L 08/22/2021 - 19:55:55: [SM]   [1] Line 994, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\DM_Trick_n_Combat\scripting\dm_trick.sp::OnClientDisconnect
+L 08/22/2021 - 19:55:56: Error log file session closed.
+L 08/22/2021 - 19:55:57: SourceMod error session started
+L 08/22/2021 - 19:55:57: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 2 (2) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 2 (2) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 4 (4) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 4 (4) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 3 (3) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:55:57: [SM] Exception reported: Entity 3 (3) is invalid
+L 08/22/2021 - 19:55:57: [SM] Blaming: DisableRadar.smx
+L 08/22/2021 - 19:55:57: [SM] Call stack trace:
+L 08/22/2021 - 19:55:57: [SM]   [0] GetEntProp
+L 08/22/2021 - 19:55:57: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 08/22/2021 - 19:56:03: Error log file session closed.
+L 08/22/2021 - 21:16:45: SourceMod error session started
+L 08/22/2021 - 21:16:45: Info (map "surf_trick_gxd") (file "/home/container/csgo/addons/sourcemod/logs/errors_20210822.log")
+L 08/22/2021 - 21:16:45: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:45: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:45: [SM] Call stack trace:
+L 08/22/2021 - 21:16:45: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:45: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:46: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:46: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:46: [SM] Call stack trace:
+L 08/22/2021 - 21:16:46: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:46: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:47: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:47: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:47: [SM] Call stack trace:
+L 08/22/2021 - 21:16:47: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:47: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:48: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:48: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:48: [SM] Call stack trace:
+L 08/22/2021 - 21:16:48: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:48: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:49: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:49: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:49: [SM] Call stack trace:
+L 08/22/2021 - 21:16:49: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:49: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:50: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:50: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:50: [SM] Call stack trace:
+L 08/22/2021 - 21:16:50: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:50: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:51: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:51: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:51: [SM] Call stack trace:
+L 08/22/2021 - 21:16:51: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:51: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:52: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:52: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:52: [SM] Call stack trace:
+L 08/22/2021 - 21:16:52: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:52: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:53: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:53: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:53: [SM] Call stack trace:
+L 08/22/2021 - 21:16:53: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:53: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:54: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:54: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:54: [SM] Call stack trace:
+L 08/22/2021 - 21:16:54: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:54: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:55: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:55: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:55: [SM] Call stack trace:
+L 08/22/2021 - 21:16:55: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:55: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:56: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:56: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:56: [SM] Call stack trace:
+L 08/22/2021 - 21:16:56: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:56: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:57: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:57: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:57: [SM] Call stack trace:
+L 08/22/2021 - 21:16:57: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:57: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:58: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:58: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:58: [SM] Call stack trace:
+L 08/22/2021 - 21:16:58: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:58: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:16:59: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:16:59: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:16:59: [SM] Call stack trace:
+L 08/22/2021 - 21:16:59: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:16:59: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:00: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:00: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:00: [SM] Call stack trace:
+L 08/22/2021 - 21:17:00: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:00: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:01: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:01: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:01: [SM] Call stack trace:
+L 08/22/2021 - 21:17:01: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:01: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:02: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:02: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:02: [SM] Call stack trace:
+L 08/22/2021 - 21:17:02: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:02: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:03: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:03: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:03: [SM] Call stack trace:
+L 08/22/2021 - 21:17:03: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:03: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:04: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:04: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:04: [SM] Call stack trace:
+L 08/22/2021 - 21:17:04: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:04: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:17:05: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:17:05: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:17:05: [SM] Call stack trace:
+L 08/22/2021 - 21:17:05: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:17:05: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:11: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:11: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:11: [SM] Call stack trace:
+L 08/22/2021 - 21:24:11: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:11: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:12: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:12: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:12: [SM] Call stack trace:
+L 08/22/2021 - 21:24:12: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:12: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:13: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:13: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:13: [SM] Call stack trace:
+L 08/22/2021 - 21:24:13: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:13: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:14: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:14: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:14: [SM] Call stack trace:
+L 08/22/2021 - 21:24:14: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:14: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:15: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:15: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:15: [SM] Call stack trace:
+L 08/22/2021 - 21:24:15: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:15: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:16: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:16: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:16: [SM] Call stack trace:
+L 08/22/2021 - 21:24:16: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:16: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:17: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:17: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:17: [SM] Call stack trace:
+L 08/22/2021 - 21:24:17: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:17: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:18: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:18: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:18: [SM] Call stack trace:
+L 08/22/2021 - 21:24:18: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:18: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:19: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:19: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:19: [SM] Call stack trace:
+L 08/22/2021 - 21:24:19: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:19: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:20: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:20: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:20: [SM] Call stack trace:
+L 08/22/2021 - 21:24:20: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:20: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:21: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:21: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:21: [SM] Call stack trace:
+L 08/22/2021 - 21:24:21: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:21: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:22: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:22: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:22: [SM] Call stack trace:
+L 08/22/2021 - 21:24:22: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:22: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:23: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:23: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:23: [SM] Call stack trace:
+L 08/22/2021 - 21:24:23: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:23: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:24: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:24: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:24: [SM] Call stack trace:
+L 08/22/2021 - 21:24:24: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:24: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:25: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:25: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:25: [SM] Call stack trace:
+L 08/22/2021 - 21:24:25: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:25: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:26: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:26: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:26: [SM] Call stack trace:
+L 08/22/2021 - 21:24:26: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:26: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:27: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:27: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:27: [SM] Call stack trace:
+L 08/22/2021 - 21:24:27: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:27: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:28: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:28: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:28: [SM] Call stack trace:
+L 08/22/2021 - 21:24:28: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:28: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:29: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:29: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:29: [SM] Call stack trace:
+L 08/22/2021 - 21:24:29: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:29: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:30: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:30: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:30: [SM] Call stack trace:
+L 08/22/2021 - 21:24:30: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:30: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 21:24:31: [SM] Exception reported: Client index 0 is invalid
+L 08/22/2021 - 21:24:31: [SM] Blaming: HitReg_Gxd.smx
+L 08/22/2021 - 21:24:31: [SM] Call stack trace:
+L 08/22/2021 - 21:24:31: [SM]   [0] GetClientWeapon
+L 08/22/2021 - 21:24:31: [SM]   [1] Line 116, c:\Users\Ваня\Desktop\Vse\Программы\SourcePawn\HitReg_Gxd\scripting\HitReg_Gxd.sp::OnPlayerHurt
+L 08/22/2021 - 22:56:48: [SM] Exception reported: Client 7 is not in game
+L 08/22/2021 - 22:56:48: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 22:56:48: [SM] Call stack trace:
+L 08/22/2021 - 22:56:48: [SM]   [0] IsPlayerAlive
+L 08/22/2021 - 22:56:48: [SM]   [1] Line 36, include/saveloc.sp::cmd_teleport
+L 08/22/2021 - 22:56:48: [SM] Exception reported: Client 7 is not in game
+L 08/22/2021 - 22:56:48: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 22:56:48: [SM] Call stack trace:
+L 08/22/2021 - 22:56:48: [SM]   [0] IsPlayerAlive
+L 08/22/2021 - 22:56:48: [SM]   [1] Line 36, include/saveloc.sp::cmd_teleport
+L 08/22/2021 - 22:56:48: [SM] Exception reported: Client 7 is not in game
+L 08/22/2021 - 22:56:48: [SM] Blaming: dm_trick.smx
+L 08/22/2021 - 22:56:48: [SM] Call stack trace:
+L 08/22/2021 - 22:56:48: [SM]   [0] IsPlayerAlive
+L 08/22/2021 - 22:56:48: [SM]   [1] Line 36, include/saveloc.sp::cmd_teleport
+L 08/23/2021 - 00:26:35: Error log file session closed.

@@ -1,0 +1,26 @@
+L 08/13/2021 - 08:43:47: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210813.log") (Version "1.10.0.6510")
+L 08/13/2021 - 08:43:47: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 10:15:02: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 10:58:40: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 12:06:39: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 14:09:43: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 14:57:01: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 14:57:32: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 15:06:01: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 15:34:10: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 15:53:09: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 16:40:49: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 18:39:11: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 19:00:55: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210813.log") (Version "1.10.0.6510")
+L 08/13/2021 - 19:00:55: [dm_trick.smx]  SUCCESS db_connect()
+L 08/13/2021 - 19:01:04: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 19:14:17: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 19:28:45: [basecommands.smx] "cockodemon<3><STEAM_1:0:159860788><>" kicked "cockodemon<3><STEAM_1:0:159860788><>" (reason "")
+L 08/13/2021 - 19:29:14: -------- Mapchange to surf_trick_g --------
+L 08/13/2021 - 22:00:36: [basecommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" kicked "el chumacha<6><STEAM_1:0:51713742><>" (reason "")
+L 08/13/2021 - 22:20:19: [funcommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" set gravity on "cockodemon<29><STEAM_1:0:159860788><>" (amount "0.100000")
+L 08/13/2021 - 22:20:22: [funcommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" set gravity on "cockodemon<29><STEAM_1:0:159860788><>" (amount "4.000000")
+L 08/13/2021 - 22:20:25: [funcommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" set gravity on "cockodemon<29><STEAM_1:0:159860788><>" (amount "1.000000")
+L 08/13/2021 - 22:22:26: [basecommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" kicked "Yada<30><STEAM_1:1:197641908><>" (reason "")
+L 08/13/2021 - 22:29:17: [basecommands.smx] "Порох в рукавицах<18><STEAM_1:1:80244186><>" kicked "Yada<34><STEAM_1:1:197641908><>" (reason "")
+L 08/14/2021 - 08:56:30: Log file closed.

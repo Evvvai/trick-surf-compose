@@ -1,0 +1,22 @@
+L 08/19/2021 - 02:13:02: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210819.log") (Version "1.10.0.6510")
+L 08/19/2021 - 02:13:02: [basebans.smx] "ᴇᴠʌı<68><STEAM_1:0:108778791><>" banned "ringo no kami<71><STEAM_1:0:51713742><>" (minutes "0") (reason "Racism")
+L 08/19/2021 - 02:13:15: [basebans.smx] "ᴇᴠʌı<68><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:5171374")
+L 08/19/2021 - 02:13:21: [basebans.smx] "ᴇᴠʌı<68><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:51713742")
+L 08/19/2021 - 02:40:44: [basecommands.smx] "ᴇᴠʌı<68><STEAM_1:0:108778791><>" changed map to "surf_trick_gxd"
+L 08/19/2021 - 02:40:48: [SM] Changed map to "surf_trick_gxd"
+L 08/19/2021 - 02:40:51: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 02:40:51: [dm_trick.smx]  SUCCESS db_connect()
+L 08/19/2021 - 03:53:18: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210819.log") (Version "1.10.0.6510")
+L 08/19/2021 - 03:53:18: [dm_trick.smx]  SUCCESS db_connect()
+L 08/19/2021 - 03:56:01: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 05:20:36: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 09:31:22: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 12:58:03: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 14:46:44: -------- Mapchange to surf_trick_gxd --------
+L 08/19/2021 - 16:53:55: [funcommands.smx] "surf_lags_x<33><STEAM_1:1:80244186><>" set gravity on "KingYoshi<31><STEAM_1:1:116460625><>" (amount "0.100000")
+L 08/19/2021 - 16:54:00: [funcommands.smx] "surf_lags_x<33><STEAM_1:1:80244186><>" set gravity on "KingYoshi<31><STEAM_1:1:116460625><>" (amount "1.000000")
+L 08/19/2021 - 19:08:01: [basebans.smx] "ᴇᴠʌı<39><STEAM_1:0:108778791><>" banned "lilac sunrise<40><STEAM_1:0:4230177><>" (minutes "0") (reason "Racism")
+L 08/19/2021 - 19:08:22: [basebans.smx] "ᴇᴠʌı<39><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:0:4230177")
+L 08/19/2021 - 20:50:57: [basechat.smx] "surf_lags_x<48><STEAM_1:1:80244186><>" triggered sm_say (text all)
+L 08/19/2021 - 23:54:40: -------- Mapchange to surf_trick_gxd --------
+L 08/20/2021 - 04:28:09: Log file closed.

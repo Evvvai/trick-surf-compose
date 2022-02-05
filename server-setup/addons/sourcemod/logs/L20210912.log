@@ -1,0 +1,126 @@
+L 09/12/2021 - 02:36:38: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210912.log") (Version "1.10.0.6510")
+L 09/12/2021 - 02:36:38: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 03:26:09: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 10:19:47: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 12:20:02: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 12:20:55: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 13:05:37: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 13:26:59: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 14:44:44: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 15:04:58: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 15:36:24: [basecommands.smx] "xsolncu<152><STEAM_1:0:159860788><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:36:27: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:36:28: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 15:37:16: [basecommands.smx] "xsolncu<152><STEAM_1:0:159860788><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:37:19: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:37:20: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 15:38:10: [basecommands.smx] "xsolncu<152><STEAM_1:0:159860788><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:38:13: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 15:38:14: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 16:12:23: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 16:13:29: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 16:17:29: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 16:40:46: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 17:49:42: [basecommands.smx] "das motherfucking krokodil<167><STEAM_1:1:1146082><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 17:49:45: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 17:49:46: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 17:50:26: [basecommands.smx] "das motherfucking krokodil<167><STEAM_1:1:1146082><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 17:50:29: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 17:50:30: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 17:54:14: Log file closed.
+L 09/12/2021 - 17:54:33: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210912.log") (Version "1.10.0.6510")
+L 09/12/2021 - 17:54:33: [dm_trick.smx]  SUCCESS db_connect()
+L 09/12/2021 - 17:54:39: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 18:54:41: [basecommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" changed map to "surf_trick_gxd"
+L 09/12/2021 - 18:54:44: [SM] Changed map to "surf_trick_gxd"
+L 09/12/2021 - 18:54:45: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 18:54:45: [dm_trick.smx]  SUCCESS db_connect()
+L 09/12/2021 - 18:59:38: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 18:59:39: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:02:38: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:02:39: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:03:40: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:03:40: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:04:02: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:04:03: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:12:17: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:12:29: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:12:37: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:13:04: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:13:23: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:13:28: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" toggled noclip on "ᴇᴠʌı<14><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:32:53: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" froze "ululu<17><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:33:00: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" froze "ululu<17><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:33:09: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" froze "ululu<17><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:33:21: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:33:30: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20")
+L 09/12/2021 - 19:33:32: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:33:35: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "2000")
+L 09/12/2021 - 19:33:37: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20")
+L 09/12/2021 - 19:33:45: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20000")
+L 09/12/2021 - 19:33:54: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "2000000")
+L 09/12/2021 - 19:33:58: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "200000000")
+L 09/12/2021 - 19:34:05: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "20000000")
+L 09/12/2021 - 19:34:06: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "2000000")
+L 09/12/2021 - 19:34:52: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "0.1")
+L 09/12/2021 - 19:35:13: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "0.5")
+L 09/12/2021 - 19:35:17: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:35:18: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:35:19: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "1")
+L 09/12/2021 - 19:35:32: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "0")
+L 09/12/2021 - 19:35:35: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "-1")
+L 09/12/2021 - 19:35:39: [basecommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" changed cvar (cvar "sv_noclipspeed") (value "10")
+L 09/12/2021 - 19:36:07: [funcommands.smx] "xsolncu<7><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<7><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:36:51: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" froze "das motherfucking krokodil<2><STEAM_1:1:1146082><>"
+L 09/12/2021 - 19:37:01: [basebans.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" banned "das motherfucking krokodil<2><STEAM_1:1:1146082><>" (minutes "0") (reason "Racism")
+L 09/12/2021 - 19:37:14: [basebans.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:1146082")
+L 09/12/2021 - 19:39:26: [funcommands.smx] "ᴇᴠʌı<14><STEAM_1:0:108778791><>" ignited "haunted<12><STEAM_1:0:560970073><>" (seconds "20.000000")
+L 09/12/2021 - 19:40:27: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20210912.log") (Version "1.10.0.6510")
+L 09/12/2021 - 19:40:27: [dm_trick.smx]  SUCCESS db_connect()
+L 09/12/2021 - 19:40:31: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 19:41:22: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:41:55: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:45:51: [basebans.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" banned "ululu<3><STEAM_1:1:550380730><>" (minutes "0") (reason "Racism")
+L 09/12/2021 - 19:45:59: [basebans.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" removed ban (filter "STEAM_1:1:550380730")
+L 09/12/2021 - 19:46:44: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ᴇᴠʌı<6><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:46:44: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:47:54: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:48:17: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:49:15: [funcommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" drugged "ᴇᴠʌı<6><STEAM_1:0:108778791><>"
+L 09/12/2021 - 19:49:32: [funcommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" drugged "Jvnko Still Loves You<7><STEAM_1:0:67907739><>"
+L 09/12/2021 - 19:49:34: [funcommands.smx] "ᴇᴠʌı<6><STEAM_1:0:108778791><>" undrugged "Jvnko Still Loves You<7><STEAM_1:0:67907739><>"
+L 09/12/2021 - 19:50:14: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:50:15: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" toggled noclip on "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:50:52: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:50:53: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:50:57: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" set blind on "xsolncu<4><STEAM_1:0:159860788><>" (amount "240")
+L 09/12/2021 - 19:51:24: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "haunted<5><STEAM_1:0:560970073><>"
+L 09/12/2021 - 19:51:27: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" set blind on "haunted<5><STEAM_1:0:560970073><>" (amount "240")
+L 09/12/2021 - 19:52:27: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:54:00: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" set blind on "haunted<5><STEAM_1:0:560970073><>" (amount "240")
+L 09/12/2021 - 19:54:04: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" set blind on "ululu<9><STEAM_1:1:550380730><>" (amount "240")
+L 09/12/2021 - 19:54:19: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:54:32: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:54:46: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:54:49: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 19:56:36: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:57:36: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:58:00: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:58:19: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:58:41: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "ululu<9><STEAM_1:1:550380730><>"
+L 09/12/2021 - 19:58:55: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "haunted<5><STEAM_1:0:560970073><>"
+L 09/12/2021 - 19:59:56: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "haunted<5><STEAM_1:0:560970073><>"
+L 09/12/2021 - 19:59:59: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "haunted<5><STEAM_1:0:560970073><>"
+L 09/12/2021 - 20:00:09: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" drugged "Jvnko Still Loves You<7><STEAM_1:0:67907739><>"
+L 09/12/2021 - 20:00:12: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "Jvnko Still Loves You<7><STEAM_1:0:67907739><>"
+L 09/12/2021 - 20:00:15: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "haunted<5><STEAM_1:0:560970073><>"
+L 09/12/2021 - 20:00:26: [funcommands.smx] "xsolncu<4><STEAM_1:0:159860788><>" undrugged "xsolncu<4><STEAM_1:0:159860788><>"
+L 09/12/2021 - 21:48:00: [basebans.smx] "xsolncu<16><STEAM_1:0:159860788><>" banned "заспидранил трик<21><STEAM_1:1:502946022><>" (minutes "0") (reason "Racism")
+L 09/12/2021 - 21:50:39: [basebans.smx] "Console<0><Console><Console>" removed ban (filter "STEAM_1:0:525445108")
+L 09/12/2021 - 21:53:58: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text TUDA EGO)
+L 09/12/2021 - 22:23:15: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 22:23:15: [dm_trick.smx]  SUCCESS db_connect()
+L 09/12/2021 - 22:42:23: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 22:48:20: -------- Mapchange to surf_trick_gxd --------
+L 09/12/2021 - 23:02:26: -------- Mapchange to surf_trick_gxd --------
+L 09/13/2021 - 01:46:25: Log file closed.
