@@ -7,22 +7,18 @@ import { Maps } from '@types'
 import { clientHandle } from 'utils/graphql'
 import { TRICKS_STATS, TRIGGERS } from 'types/graphql/quary'
 import { UPDATE_TRIGGER } from '../../../types/graphql/mutation/triggers'
-import {
-  FiltersTrick,
-  SortingTricksOptions,
-  SortTrickSetting,
-  Trick,
-} from '@store'
+import { useTrickFilters } from './useTrickFilters'
+import { SortingTricksOptions, SortTrickSetting, Trick } from '@store'
 
 // Trick Hook Selector / Dispatch
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 export const useTrick = () => {
+  const { filteringTricks } = useTrickFilters()
+
   const dispatch = useDispatch()
 
-  const { loadedTricks, filtered, updatedTrigger, sorted } = bindActionCreators(
-    ActionCreators.actions,
-    dispatch
-  )
+  const { loadedTricks, filtered, updatedTrigger, updatedTrick, sorted } =
+    bindActionCreators(ActionCreators.actions, dispatch)
   const { tricks, filteredTricks, triggers, sortSettings, filters } =
     useTypesSelector((state) => state.trick)
 
@@ -52,19 +48,19 @@ export const useTrick = () => {
     updatedTrigger(trigger)
   }
 
-  const filteringTricks = (tricks: Trick[], filters: FiltersTrick) => {
-    const filteredTricks = tricks.filter(
-      (val) =>
-        val.name.toLowerCase().includes(filters.term.toLowerCase()) &&
-        val.point > filters.pointsRange.min &&
-        val.point < filters.pointsRange.max
-    )
+  // const filteringTricks = (tricks: Trick[], filters: FiltersTrick) => {
+  //   const filteredTricks = tricks.filter(
+  //     (val) =>
+  //       val.name.toLowerCase().includes(filters.term.toLowerCase()) &&
+  //       val.point >= filters.pointsRange.min &&
+  //       val.point <= filters.pointsRange.max
+  //   )
 
-    filtered({
-      tricks: filteredTricks,
-      filters,
-    })
-  }
+  //   filtered({
+  //     tricks: filteredTricks,
+  //     filters,
+  //   })
+  // }
 
   const sortingTricks = (
     tricks: Trick[],
@@ -99,6 +95,7 @@ export const useTrick = () => {
   }
 
   return {
+    updatedTrick,
     updatingTrigger,
     tricks,
     filteredTricks,
@@ -107,7 +104,6 @@ export const useTrick = () => {
     loadTricks,
     sortSettings,
     filters,
-    filteringTricks,
     sortingTricks,
   }
 }

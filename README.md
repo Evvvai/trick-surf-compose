@@ -1,6 +1,6 @@
 <img align="center" src= "https://user-images.githubusercontent.com/66115913/129460181-8440da18-5022-467d-90bc-38842dde9800.jpg">
 
-Trick surf project containing everything I've ever done. Just decided to combine everything into one, maybe someone will need... Can work for any map, but with two conditions. All multiple triggers on the map must be unique, and the trigger on the route can only be touched once. It's also worth keeping in mind that the maps are hardcoded in the plugin(**trick_gxd_detect**). If you need only one map (I do not have such servers), it is worth prescribing conditions in the onMapStart. More information can be found in the folders to a particular section.
+Trick surf project containing everything I've ever done. Just decided to combine everything into one, maybe someone will need... Can work for any map, but with two conditions. All multiple triggers on the map must be unique, and the trigger on the route can only be touched once. It's also worth keeping in mind that the maps are hardcoded in the plugin(**trick_gxd_detect**). If you need only one map, which will be selected from the list in the database, then you should use **trick_gxd_detect_one**. The details of the related aspects of this or that part of the project are prescribed in the folders to it.
 
 > All jumps reset the execution of the trick, so decided our community, but you can make an exclusion for some triggers
 

@@ -34,8 +34,12 @@ const TricksPath: FC = ({ children }) => {
   }, [router.pathname])
 
   return (
-    <div>
-      <div className={cn({ [styles.hide]: section === undefined })}>
+    <Fragment>
+      <div
+        className={cn(styles.layoutsTricks, {
+          [styles.hide]: section === undefined,
+        })}
+      >
         <div className={styles.layoutsTricksTitle}>
           <h1>Tricks</h1>
         </div>
@@ -73,7 +77,7 @@ const TricksPath: FC = ({ children }) => {
         </ul>
       </div>
       {children}
-    </div>
+    </Fragment>
   )
 }
 export default TricksPath

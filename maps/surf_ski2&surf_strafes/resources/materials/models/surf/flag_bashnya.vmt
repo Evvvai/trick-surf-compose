@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture" "models/surf/flag_bashnya"
+	"$surfaceprop" "no_decal"
+	"$bumpmap" "models/surf/flag_bashnya_normal"
+	
+	"$reflectivity" "[0.25 0.25 0.25]"
+	"$envmaptint" "[0.15 0.15 0.15]"
+	"$envmaplightscale" "10"
+	"$envmapcontrast" 0.5
+}

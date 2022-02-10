@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "Glass/unbreakable_glass_a_01"
+	"$surfaceprop" "concrete"
+	$translucent 1
+	//$nocull 1
+	$envmaptint "[.5 .5 .5]"
+	$envmap env_cubemap
+}

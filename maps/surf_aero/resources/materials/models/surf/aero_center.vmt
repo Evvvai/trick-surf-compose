@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture" "concrete/baggage_concretefloora"
+	
+	"$reflectivity" "[0.25 0.25 0.25]"
+	"$envmaptint" "[0.15 0.15 0.15]"
+	"$envmaplightscale" "100"
+	"$envmapcontrast" 0.5
+}

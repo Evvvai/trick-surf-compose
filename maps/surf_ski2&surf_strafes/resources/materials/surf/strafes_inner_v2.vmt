@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/surf/strafes_inner_v2"
+	"$bumpmap" "models/surf/strafes_inner_v2_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	
+	"$ambientocclusion" 1
+	"$reflectivity" "[0.25 0.25 0.25]"
+	"$envmaptint" "[0.15 0.15 0.15]"
+	"$envmaplightscale" "1"
+	"$envmapcontrast" 0.2
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/indoor/hanging_light1"
+	$bumpmap "models/paradise/indoor/hanging_light1_normal"
+	$surfaceprop Metal
+
+	$phong 1
+	$phongexponenttexture "models/paradise/indoor/hanging_light1_specgloss"
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongalbedotint 1
+	$phongboost 19
+	$phongalbedoboost 170
+
+	$selfillum 1
+	$selfillummask "models/paradise/indoor/hanging_light1_selfillummask"
+}

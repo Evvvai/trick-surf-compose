@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"dust_massive/dust_massive_ground_rock_01_color"
+	"$bumpmap"		"dust_massive/dust_massive_ground_rock_01_normal"
+	"$surfaceprop"		"Concrete"
+	"%keywords"		"hrdust,ground,street,asphalt"
+	"$blendsoftness"		"0.030000"
+	"$layerbordersoftness"		"0.100000"
+	"$layerbordertint"		"[0.63 0.53 0.43]"
+	"$newlayerblending"		"1"
+	"$detail"		"detail/dt_stone1"
+	"$detailscale"		"16"
+	"$detailblendfactor"		"0.500000"
+}

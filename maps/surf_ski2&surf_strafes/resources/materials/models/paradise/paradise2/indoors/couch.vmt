@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/paradise2/indoors/couch"
+	$bumpmap "models/paradise/paradise2/indoors/couch_normal"
+
+	$detail "detail/dt_fabric2"
+	$detailscale "[20 10]"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+
+	$phong 1
+	$phongexponenttexture "models/paradise/paradise2/indoors/couch_specgloss"
+	$phongfresnelranges "[0.2 0.5 3]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 19
+	$phongalbedoboost 170
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+    "$model" 1
+    "$basetexture" "models\surf\throne"
+    "$surfaceprop" "concrete"
+    
+    "$reflectivity" "[0.25 0.25 0.25]"
+    "$envmaptint" "[0.15 0.15 0.15]"
+    "$envmaplightscale" "100"
+    "$envmapcontrast" 0.5
+}
+

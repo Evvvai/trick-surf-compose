@@ -20,7 +20,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     }),
     ...maps.map((val: Maps) => {
       return {
-        loc: process.env.NEXT_SITE_URL + '/suggested/' + val.name,
+        loc: process.env.NEXT_SITE_URL + '/tricks/suggested/' + val.name,
         lastmod: new Date().toISOString(),
         changefreq: 'hourly',
         priority: 0.85,
@@ -28,7 +28,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     }),
     ...maps.map((val: Maps) => {
       return {
-        loc: process.env.NEXT_SITE_URL + '/triggers/' + val.name,
+        loc: process.env.NEXT_SITE_URL + '/tricks/triggers/' + val.name,
         lastmod: new Date().toISOString(),
         changefreq: 'hourly',
         priority: 0.8,

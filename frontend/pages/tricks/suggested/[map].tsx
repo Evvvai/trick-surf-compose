@@ -1,6 +1,11 @@
 import { Fragment, useEffect, useRef } from 'react'
 import Head from 'next/head'
 
+import type { ReactElement } from 'react'
+
+// Layouts
+import TricksPath from 'components/layouts/TricksPath.layout'
+
 // Styles
 import styles from '../../../styles/tricks/SuggestedTricks.module.scss'
 
@@ -111,4 +116,8 @@ SuggestedTricks.getInitialProps = async ({ query, store, res }) => {
     res.writeHead(201, { Location: '/tricks/suggested/' + currentMap.name })
     res.end()
   }
+}
+
+SuggestedTricks.getLayout = function getLayout(page: ReactElement) {
+  return <TricksPath>{page}</TricksPath>
 }

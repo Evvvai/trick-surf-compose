@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$model" 1
+	"$basetexture"            "asphalt/asphalt_b"
+	"$keywords" 			  "asphalt"
+	"$surfaceprop" 			  "concrete"
+}

@@ -5,11 +5,9 @@ char sql_select_tricks[] 		= "SELECT route_str, id, name, point, velocity FROM t
 char sql_select_triggers[] 		= "SELECT t.name, t.x, t.y, t.z FROM triggers t where t.map_id = %i;";
 char sql_select_hop_triggers[] 	= "SELECT t.name FROM hop_triggers ht JOIN triggers t ON t.id = ht.trigger_id where t.map_id = %i;";
 
-char sql_insert_speed_time[] 	= "INSERT INTO triggers_time_speed_touch(complete_id, trigger_before_id, trigger_id, speed_start, speed_end, speed_before_max, speed_during_max, time_before, time_during) VALUES(%s, (SELECT st.id FROM triggers st WHERE st.name = '%s'), (SELECT st.id FROM triggers st WHERE st.name = '%s'), %i, %i, %i, %i, %f, %f);";
+char sql_insert_speed_time[] 	= "INSERT INTO triggers_time_speed_touch(complete_id, trigger_before_id, trigger_id, speed_start, speed_end, speed_before_max, speed_during_max, time_before, time_during) VALUES(%s, (SELECT st.id FROM triggers st WHERE st.name = '%s' AND map_id = %i), (SELECT st.id FROM triggers st WHERE st.name = '%s' AND map_id = %i), %i, %i, %i, %i, %f, %f);";
 
-// Need remove in separete plugin
 char sql_updatePlayer[] 		= "CALL `put_player_data`('%s', '%s', '%s');";
-
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 

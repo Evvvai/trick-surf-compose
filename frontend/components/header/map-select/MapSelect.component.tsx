@@ -46,15 +46,19 @@ export default function MapSelect(props: Props): JSX.Element {
           <ul className={styles.list}>
             {availableMaps.map((map) => {
               return (
-                <li onClick={handleClickMap(map)} key={map.id}>
-                  <a className={styles.item}>{map.name}</a>
-                  {/* <Link
-                    href={{
-                      pathname: '/tricks/' + map.name,
-                    }}
-                  >
-                    <a className={styles.item}>{map.name}</a>
-                  </Link> */}
+                <li
+                  className={styles.item}
+                  onClick={handleClickMap(map)}
+                  key={map.id}
+                >
+                  <div className={styles.itemInner}>
+                    <img
+                      className={styles.itemImg}
+                      src={map?.src || process.env.AVATAR_NULL}
+                    />
+                    <span className={styles.itemTitle}>{map.name}</span>
+                    <div className={styles.itemBack} />
+                  </div>
                 </li>
               )
             })}

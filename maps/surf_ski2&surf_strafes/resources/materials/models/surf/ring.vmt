@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/surf/ring"
+	"$envmap" 				  "env_cubemap"
+	"$reflectivity"           "[0.25 0.25 0.25]"
+	"$envmaptint"             "[0.25 0.25 0.25]"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0.0 0.80]"
+	"$envmapsaturation"       ".75"
+	"$envmapcontrast"         ".2"
+}

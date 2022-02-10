@@ -80,6 +80,21 @@ const trickSlice = createSlice({
         return val
       })
     },
+    updatedTrick: (state, { payload }: PayloadAction<Trick>) => {
+      state.tricks = state.tricks.map((val) => {
+        if (val.id === payload.id) {
+          val = payload
+        }
+        return val
+      })
+
+      state.filteredTricks = state.filteredTricks.map((val) => {
+        if (val.id === payload.id) {
+          val = payload
+        }
+        return val
+      })
+    },
   },
   extraReducers: {
     [HYDRATE]: (state, action) => {

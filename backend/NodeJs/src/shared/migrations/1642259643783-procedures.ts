@@ -4,6 +4,270 @@ export class procedures1642259643783 implements MigrationInterface {
   public async up(queryRunner: QueryRunner): Promise<void> {
     queryRunner.query(
       `
+        CREATE PROCEDURE put_leaderboard_cached()
+        LANGUAGE SQL
+        NOT DETERMINISTIC
+        CONTAINS SQL
+        SQL SECURITY DEFINER
+        COMMENT ''
+        BEGIN
+
+            START TRANSACTION;
+            
+                TRUNCATE leaderboard_cached;
+                
+                # Need select ammout of maps...but i dont know how to do it (9((
+                FOR i IN 1..4
+                DO
+                
+                    INSERT 
+                    INTO leaderboard_cached(player_id,steamid64,nick,ac_place,ac,ap_place,ap,up_place,up,uc_place,uc,avg,place,completes_percent,map_id)
+                    WITH 
+                    map_completes AS (
+                    SELECT sc.id,
+                            sc.player_id,
+                            sc.trick_id
+                    FROM completes sc
+                    JOIN tricks t ON sc.trick_id = t.id
+                    WHERE t.map_id = i
+                    ),
+                    percent AS (
+                    SELECT 100 / COUNT(DISTINCT(player_id)) 
+                    FROM map_completes
+                    ),
+                    uc AS (
+                    SELECT sc.player_id,
+                            sc.trick_id
+                    FROM map_completes sc
+                    GROUP BY sc.trick_id, sc.player_id
+                    ),
+                    upuc AS (
+                    SELECT ROW_NUMBER() over (ORDER BY SUM(st.point) DESC) upPlace,
+                            SUM(st.point) up,
+                            ROW_NUMBER() over (ORDER BY COUNT(1) DESC) ucPlace,
+                            COUNT(1) uc,
+                            uc.player_id
+                    FROM uc
+                    JOIN tricks st ON uc.trick_id = st.id
+                    WHERE map_id = i
+                    GROUP BY uc.player_id
+                    ),
+                    apac AS (
+                    SELECT sc.player_id, 
+                        p.steamid64,
+                            p.nick,
+                            ROW_NUMBER() over (ORDER BY COUNT(sc.id) DESC) acPlace,
+                            COUNT(sc.id) ac,
+                            ROW_NUMBER() over (ORDER BY SUM(st.point) DESC) apPlace,
+                            SUM(st.point) ap,
+                            upuc.upPlace,
+                            upuc.up,
+                            upuc.ucPlace,
+                            upuc.uc
+                    FROM map_completes sc
+                    JOIN tricks st ON st.id = sc.trick_id 
+                    JOIN players p ON sc.player_id = p.id
+                    JOIN upuc ON upuc.player_id = sc.player_id
+                    WHERE map_id = i
+                    GROUP BY sc.player_id
+                    ORDER BY upuc.up, upuc.uc ASC
+                    ),
+                    result AS (
+                    SELECT  player_id,
+                        steamid64,
+                            nick,
+                            acPlace as ac_place,
+                            ac,
+                            apPlace as ap_place,
+                            ap,
+                            upPlace as up_place,
+                            up,
+                            ucPlace as uc_place,
+                            uc,
+                            ROUND((((SUM(acPlace + apPlace + upPlace + ucPlace - 4) over (PARTITION BY player_id)) * (SELECT * FROM percent)) / 4), 2) avg,
+                            ROW_NUMBER() over (ORDER BY (acPlace + apPlace + upPlace + ucPlace) ASC) place,
+                            (SELECT uc * (100 / COUNT(*)) FROM tricks WHERE map_id = i) completes_percent,
+                            i map_id
+                    FROM apac
+                    ORDER BY (SELECT uc * (100 / COUNT(*)) FROM tricks WHERE map_id = 4) ASC 
+                    )
+                    
+                    SELECT  *
+                    FROM result
+                    ORDER BY place ASC;
+                    
+                END FOR;
+                
+            COMMIT;
+            
+        END;
+    `,
+    );
+
+    queryRunner.query(
+      `
+        CREATE PROCEDURE get_player_record_breaks(
+            IN p_steamid64 VARCHAR(50),
+            IN p_map_id INT
+        )
+        LANGUAGE SQL
+        NOT DETERMINISTIC
+        CONTAINS SQL
+        SQL SECURITY DEFINER
+        COMMENT ''
+        BEGIN
+
+            WITH 
+            playerId AS (
+            SELECT p.id
+            FROM players p
+            WHERE p.steamid64 = p_steamid64
+            ),
+            map_completes AS (
+                SELECT sc.id,
+                            sc.trick_id,
+                            t.name,
+                            sc.speed,
+                            sc.time,
+                            sc.date_add,
+                            sc.player_id
+                FROM completes sc
+                JOIN tricks t ON sc.trick_id = t.id
+                WHERE t.map_id = p_map_id
+            )
+            
+            SELECT *
+            FROM 
+            ((
+                SELECT su.now_wr,
+                        su.before_wr,
+                        0 type_record,
+                        0 type_beat,
+                        sc.trick_id,
+                        sc.name,
+                        sc.speed res,
+                        scc.speed res_before,
+                        p.steamid,
+                        p.nick,
+                        sc.date_add,
+                        (SELECT COUNT(wr.id) actual FROM swr wr WHERE wr.complete_id = su.now_wr) actual
+                
+                FROM swr_update su
+                JOIN map_completes sc ON sc.id = su.now_wr
+                JOIN map_completes scc ON scc.id = su.before_wr
+                JOIN players p ON p.id = sc.player_id
+                WHERE scc.player_id = (SELECT id FROM playerId)
+                AND sc.player_id != (SELECT id FROM playerId)
+            )
+            UNION
+            (
+                SELECT su.now_wr,
+                    su.before_wr,
+                    0 type_record,
+                    1 type_beat,
+                    sc.trick_id,
+                    sc.name,
+                    sc.speed res,
+                    scc.speed res_before,
+                    p.steamid,
+                    p.nick,
+                    sc.date_add,
+                    (SELECT COUNT(wr.id) actual FROM swr wr WHERE wr.complete_id = su.now_wr) actual
+                
+                FROM swr_update su
+                JOIN map_completes sc ON sc.id = su.now_wr
+                JOIN map_completes scc ON scc.id = su.before_wr
+                JOIN players p ON p.id = scc.player_id
+                WHERE sc.player_id = (SELECT id FROM playerId)
+                AND scc.player_id != (SELECT id FROM playerId)
+            )
+            UNION
+            (
+                SELECT su.now_wr,
+                    su.before_wr,
+                    1 type_record,
+                    1 type_beat,
+                    sc.trick_id,
+                    sc.name,
+                    sc.time res,
+                    scc.time res_before,
+                    p.steamid,
+                    p.nick,
+                    sc.date_add,
+                    (SELECT COUNT(wr.id) actual FROM twr wr WHERE wr.complete_id = su.now_wr) actual
+                
+                FROM twr_update su
+                JOIN map_completes sc ON sc.id = su.now_wr
+                JOIN map_completes scc ON scc.id = su.before_wr
+                JOIN players p ON p.id = scc.player_id
+                WHERE sc.player_id = (SELECT id FROM playerId)
+                AND scc.player_id != (SELECT id FROM playerId)
+            )
+            UNION
+            (
+                SELECT su.now_wr,
+                    su.before_wr,
+                    1 type_record,
+                    0 type_beat,
+                    sc.trick_id,
+                    sc.name,
+                    sc.time res,
+                    scc.time res_before,
+                    p.steamid,
+                    p.nick,
+                    sc.date_add,
+                    (SELECT COUNT(wr.id) actual FROM twr wr WHERE wr.complete_id = su.now_wr) actual
+                
+                FROM twr_update su
+                JOIN map_completes sc ON sc.id = su.now_wr
+                JOIN map_completes scc ON scc.id = su.before_wr
+                JOIN players p ON p.id = sc.player_id
+                WHERE scc.player_id = (SELECT id FROM playerId)
+                AND sc.player_id != (SELECT id FROM playerId)
+            )) rb
+            ORDER BY rb.date_add DESC;
+
+        END;
+    `,
+    );
+
+    queryRunner.query(
+      `
+        CREATE PROCEDURE get_player_activity(
+            IN p_steamid64 VARCHAR(50),
+            IN p_limit INT,
+            IN p_offset INT
+        )
+        LANGUAGE SQL
+        NOT DETERMINISTIC
+        CONTAINS SQL
+        SQL SECURITY DEFINER
+        COMMENT ''
+        BEGIN
+
+            SET @cur := -1;
+
+            SELECT * 
+            FROM(
+            SELECT DATE_FORMAT(d.d,'%Y-%m-%d') origin_date, 
+                    DATE_FORMAT(d.d,'%m.%d') sub_month_day, 
+                    TIME_FORMAT(if(dd.t IS NULL, 0, dd.t),'%H:%i') time_played, 
+                    if(time_to_sec(dd.t) > 43200, '100', if(time_to_sec(dd.t) IS NULL,0, ROUND((time_to_sec(dd.t)*100)/43200))) percent
+                    
+            FROM(	SELECT (DATE_SUB(CURDATE(), INTERVAL @cur:=@cur+1 DAY)) d
+                    FROM time_online t
+                    LIMIT p_limit
+                    OFFSET p_offset) d
+            LEFT JOIN (SELECT date(ton.time_join) d, sec_to_time(SUM(time_to_sec(ton.time))) t
+                    FROM time_online ton
+                    WHERE ton.player_id = (SELECT p.id FROM players p WHERE p.steamid64 = p_steamid64)
+                    GROUP BY date(ton.time_join)) dd ON dd.d = d.d) res ORDER BY res.sub_month_day ASC;
+        END;
+    `,
+    );
+
+    queryRunner.query(
+      `
         CREATE PROCEDURE get_top_avg(
             IN p_map_id INT,
             IN p_limit INT,
@@ -164,7 +428,7 @@ export class procedures1642259643783 implements MigrationInterface {
                     (SELECT c.speed FROM completes c WHERE c.id = ss.complete_id) speed_wr,
                     (SELECT MAX(c.speed) FROM my_completes c WHERE c.trick_id = v.id) my_best_speed,
                     (SELECT COUNT(*) FROM my_completes c WHERE c.trick_id = v.id) my_completes,
-                (SELECT round(MIN(c.time),2) FROM my_completes c WHERE c.trick_id = v.id) my_best_time
+                    (SELECT round(MIN(c.time),2) FROM my_completes c WHERE c.trick_id = v.id) my_best_time
                     
                                         
             FROM tricks_route_viewer v
@@ -315,9 +579,9 @@ export class procedures1642259643783 implements MigrationInterface {
     queryRunner.query(
       `
     CREATE PROCEDURE patch_trick_route_parse(
-            IN p_map_id INT,
             IN p_id INT,
-            IN p_route TEXT
+            IN p_route TEXT,
+            IN p_map_id INT
         )
         LANGUAGE SQL
         NOT DETERMINISTIC
@@ -325,6 +589,7 @@ export class procedures1642259643783 implements MigrationInterface {
         SQL SECURITY DEFINER
         COMMENT ''
         BEGIN
+
         DECLARE Leng INT DEFAULT NULL;
         DECLARE Route TEXT;
 
@@ -337,7 +602,7 @@ export class procedures1642259643783 implements MigrationInterface {
         while @LengLoop <= Leng do 
         
             SET @tr := SUBSTRING_INDEX(Route,',',1);
-            SET @tr_id := (SELECT tst.id FROM triggers tst WHERE tst.name = @tr);
+            SET @tr_id := (SELECT tst.id FROM triggers tst WHERE tst.name = @tr AND map_id = p_map_id);
             INSERT INTO routes(trick_id,trigger_id) VALUES(p_id,@tr_id);                                         	
             SET Route = SUBSTR(Route,LOCATE(',',Route)+1,LENGTH(Route));
         
@@ -353,6 +618,7 @@ export class procedures1642259643783 implements MigrationInterface {
             trv.len
         FROM tricks_route_viewer trv
         where trv.id = p_id;
+        
         END;
     `,
     );
@@ -506,6 +772,9 @@ export class procedures1642259643783 implements MigrationInterface {
   }
 
   public async down(queryRunner: QueryRunner): Promise<void> {
+    queryRunner.query('DROP PROCEDURE if EXISTS put_leaderboard_cached;');
+    queryRunner.query('DROP PROCEDURE if EXISTS get_player_record_breaks;');
+    queryRunner.query('DROP PROCEDURE if EXISTS get_player_activity;');
     queryRunner.query('DROP PROCEDURE if EXISTS get_top_avg;');
     queryRunner.query('DROP PROCEDURE if EXISTS get_tricks;');
     queryRunner.query('DROP PROCEDURE if EXISTS get_tricks_user;');

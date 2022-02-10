@@ -4,7 +4,10 @@
 ![socket.io](https://img.shields.io/badge/-socket.io-050505?logo=socket.io&style=for-the-badge)
 ![REDIS](https://img.shields.io/badge/redis-050505?style=for-the-badge&logo=redis&logoColor=white)
 
-```bash
+To start correctly, you will first need to initialize the database, so when you run it for the first time, you should write
+
+```yaml
+yarn install
 yarn run start:dev
 yarn run typeorm:run
 ```

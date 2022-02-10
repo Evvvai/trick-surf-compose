@@ -5,6 +5,7 @@ import styles from './TrickEditorSelector.module.scss'
 
 // Components
 import TriggerImage from '../../UI/MyImage/TriggerImage/TriggerImage.component'
+import MyInput from '../../UI/MyInput/MyInput.component'
 
 // Custom hooks
 import { usePlayer } from '../../../hooks/store/player/usePlayer'
@@ -49,6 +50,7 @@ export default function LeaderboardListHeader(): JSX.Element {
 
   const handleClickSelectTrigger = (trigger: Trigger) => (e: any) => {
     setTriggerTrick(trigger)
+    setIsSuggestOpen(false)
   }
 
   const handleChangeTerm = (e: any) => {
@@ -74,13 +76,29 @@ export default function LeaderboardListHeader(): JSX.Element {
           <img src={trigger?.src || ''} alt="none"></img>
         </div>
         <div
+          ref={listRef}
           className={cn(styles.list, { [styles.listActive]: isSuggestOpen })}
         >
           <div className={styles.listHeader}>
             <h1>Suggested triggers</h1>
             <hr />
           </div>
-          <div ref={listRef} className={styles.listContent}>
+          <div className={styles.control}>
+            <MyInput
+              label={'write term'}
+              model={{ value: term, setValue: setTerm }}
+              type={'text'}
+              name={'search'}
+              callback={(term: string) =>
+                setFilteredTriggers(
+                  triggers.filter((x) => x.name.includes(term))
+                )
+              }
+              debounce={350}
+              dependencies={[triggers]}
+            />
+          </div>
+          <div className={styles.listContent}>
             {filteredTriggers.map((triggerItem) => {
               const matches = match(triggerItem.name, term)
               const parts = parse(triggerItem.name, matches)

@@ -25,7 +25,7 @@ export const newRecord = async (
             scc.speed res_speed_before,
             sc.time res_time,
             scc.time res_time_before,
-            p.steamid,
+            p.steamid64,
             p.nick,
             pp.steamid before_steamid,
             pp.nick before_nick,

@@ -114,8 +114,8 @@ public void save_speed_time_during_trick(int client, ArrayList speed_time_touch,
 		speed_time_touch.GetArray(0, st_now, sizeof st_now);
 		Format(szQuery, 1096, sql_insert_speed_time, 
 													 complete_id,
-													 "NULL",
-													 st_now.trigger,
+													 "NULL", 		 cl_map[client],
+													 st_now.trigger, cl_map[client],
 													 0, st_now.speed, 
 													 0, st_now.speed, 
 													 0.0, 0.0);
@@ -126,8 +126,8 @@ public void save_speed_time_during_trick(int client, ArrayList speed_time_touch,
 
 		Format(szQuery, 1096, sql_insert_speed_time,
 													 complete_id,
-													 st_before.trigger, 
-													 st_now.trigger, 
+													 st_before.trigger, cl_map[client],
+													 st_now.trigger, 	cl_map[client],
 													 st_now.speed, 0, 
 													 st_now.speed_max, 0, 
 													 st_now.get_game_time - st_before.get_game_time, 0.0);
@@ -137,8 +137,8 @@ public void save_speed_time_during_trick(int client, ArrayList speed_time_touch,
 		speed_time_touch.GetArray(0, st_now, sizeof st_now);
 		Format(szQuery, 1096, sql_insert_speed_time,
 													 complete_id,
-													 "NULL",
-													 st_now.trigger,
+													 "NULL",			cl_map[client],
+													 st_now.trigger,	cl_map[client],
 													 0, st_now.speed, 
 													 0, st_now.speed, 
 													 0.0, 0.0);
@@ -152,8 +152,8 @@ public void save_speed_time_during_trick(int client, ArrayList speed_time_touch,
 
 			Format(szQuery, 1096, sql_insert_speed_time,
 														 complete_id,  
-														 st_before.trigger, 
-														 st_now.trigger, 
+														 st_before.trigger, cl_map[client],
+														 st_now.trigger, 	cl_map[client],
 														 st_now.speed, st_next.speed, 
 														 st_now.speed_max, st_next.speed_max, 
 														 st_now.get_game_time - st_before.get_game_time, st_next.get_game_time - st_now.get_game_time);
@@ -165,8 +165,8 @@ public void save_speed_time_during_trick(int client, ArrayList speed_time_touch,
 
 		Format(szQuery, 1096, sql_insert_speed_time,
 													 complete_id, 
-													 st_before.trigger, 
-													 st_now.trigger, 
+													 st_before.trigger, cl_map[client],
+													 st_now.trigger, 	cl_map[client],
 													 st_now.speed, 0, 
 													 st_now.speed_max, 0, 
 													 st_now.get_game_time - st_before.get_game_time, 0.0);
@@ -185,7 +185,8 @@ public bool is_valid_client(int client) {
 }
 
 public void teleport_on_map(int client, const char[] map) {
-	
+	if(!IsPlayerAlive(client)) return;
+
 	float origin[3];
 	origin[0] = -11775.0;
 	origin[1] = -8903.0;
@@ -195,8 +196,6 @@ public void teleport_on_map(int client, const char[] map) {
 	velocity[0] = 0.0;
 	velocity[1] = 0.0;
 	velocity[2] = 0.0;
-
-	char last_map[4];
 
 	if(StrEqual(map, "ski2")) {
 		PrintToChat(client, "\x03 Ski2 TrickReg Activated");
@@ -214,32 +213,60 @@ public void teleport_on_map(int client, const char[] map) {
 		velocity[1] = 90.0;
 		velocity[2] = 0.0;
 	}
+	else if(StrEqual(map, "wedge")) {
+		PrintToChat(client, "\x03 Wedge TrickReg Activated");
+		cl_map[client] = MAP_WEDGE;
+		
+		origin[0] = -10206.0;
+		origin[1] = 13398.0;
+		origin[2] = -10061.0;
+
+		velocity[0] = 25.0;
+		velocity[1] = -90.0;
+		velocity[2] = 0.0;
+	}
 	else {
-		PrintToChat(client, "\x03 Write map ski2 / strafes");
+		PrintToChat(client, "\x03 Write map ski2 / strafes / wedge");
 		return;
 	}
-
+	
 	reset_trigger_data(client);
 	TeleportEntity(client, origin, NULL_VECTOR, velocity);
 }
 
+public void refresh_start_type(int client) {
+	
+	if (cl_prestrafe_speed[client] <= GetConVarInt(g_pre_speed)) {
+		set_start_type(client, 0); // pre strafe
+		return;
+	}
+
+	set_start_type(client, 1); // unlimited
+	return;
+}
+
+public void set_start_type(int client, int value) {
+	cl_start_type[client] = value;
+
+	if(cl_debug[client]) PrintToChat(client, " T - %b | %i | %i - %i", cl_is_jump[client], cl_prestrafe_speed[client], count_triggers(cl_triggers[client]), cl_start_type[client]);
+}
 
 public void reset_cl_vars(int client) {
-	//client
 	cl_triggers[client] 		= NULL_STRING; 
 	cl_steamid64[client] 		= NULL_STRING; 
 	cl_steamid2[client] 		= NULL_STRING; 
 	cl_name[client] 			= NULL_STRING; 
-	cl_prevelocity[client] 		= 0;
+	cl_start_type[client] 		= 0;
 	cl_prestrafe_speed[client] 	= 0;
 	cl_freez[client] 			= 0;
-	cl_debug[client] 			= false;
 	cl_max_speed[client] 		= 0;
 	cl_trick_assist[client]		= 0;
+	cl_is_jump[client]			= false;
+	cl_debug[client] 			= false;
+	cl_map[client] 				= g_maps[0];
 
 	cl_global_view[client]		= 1;
 	cl_complete_sound[client]	= 1;
-	cl_map[client] 				= MAP_SKI;
 	
 	delete cl_time[client];
 	delete cl_speed[client];
@@ -249,16 +276,16 @@ public void reset_cl_vars(int client) {
 }
 
 public void reset_trigger_data(int client) {
-    cl_prevelocity[client]   = 1;
-    cl_triggers[client]      = NULL_STRING;
-    
+    cl_triggers[client]     	= NULL_STRING;
+    cl_max_speed[client] 		= 0;
+    cl_prestrafe_speed[client]	= 0;
+	cl_is_jump[client]			= false;
+
     cl_speed[client].Clear();
     cl_time[client].Clear();
 
     cl_speed_time_touch[client].Clear();
     cl_last_speed_time_touch[client].Clear();
-
-    cl_max_speed[client] = 0;
 }
 
 public void cl_save_cookies(int client) {
@@ -276,5 +303,5 @@ public void cl_save_cookies(int client) {
 public void init_cookies() {
 	g_cookie_global_view    	= RegClientCookie("gxd_global_view",  	"Gxd global view",    	CookieAccess_Public);
     g_cookie_complete_sound  	= RegClientCookie("gxd_complete_sound", "Gxd complete sound",   CookieAccess_Public);
-    g_cookie_last_map  			= RegClientCookie("gxd_last_map", 		"Gxd last map",  		CookieAccess_Public);
+	g_cookie_last_map  			= RegClientCookie("gxd_last_map", 		"Gxd last map",  		CookieAccess_Public);
 }

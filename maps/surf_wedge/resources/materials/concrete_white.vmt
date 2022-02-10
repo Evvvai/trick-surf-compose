@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture" "models/surf_trick/concrete_white"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	
+	"$bumpmap" "models/surf_trick/concrete_white_normal"
+	"$bumpscale" "0.5"
+	
+	"$parallaxmap" "models/surf_trick/concrete_white_height"
+    "$parallaxmapscale"	0.05
+	
+	"$AmbientOcclTexture" "models/surf_trick/concrete_white_occ" 
+	"$envmapmask" "models/surf_trick/concrete_white_spec"
+	
+	"$ambientocclusion" 1
+	"$reflectivity" "[0.25 0.25 0.25]"
+	"$envmaptint" "[0.15 0.15 0.15]"
+	"$envmaplightscale" "1"
+	"$envmapcontrast" 0.2
+}

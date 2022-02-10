@@ -1,6 +1,11 @@
 import { Fragment, useEffect, useState } from 'react'
 import Head from 'next/head'
 
+import type { ReactElement } from 'react'
+
+// Layouts
+import FriendsPath from 'components/layouts/FriendsPath.layout'
+
 // Styles
 import styles from '../../styles/friends/Friends.module.scss'
 const {
@@ -119,10 +124,6 @@ const Friends = (props: Props) => {
 
 export default Friends
 
-// export async function getStaticProps(context: any): Promise<GetStaticPropsResult<Props>> {
-
-//   return {
-//     props: {
-//     },
-//   };
-// }
+Friends.getLayout = function getLayout(page: ReactElement) {
+  return <FriendsPath>{page}</FriendsPath>
+}

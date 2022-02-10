@@ -4,42 +4,45 @@
 #include <sdkhooks>
 #include <clientprefs>
 
-#define MAX_PRE_SPEED 405
 #define REDUCE_TIME_TOUCH 0.25
 
-#define MAP_COUNT 2
+#define MAP_COUNT 	3
+
 #define MAP_STRAFES 0
-#define MAP_SKI 1
+#define MAP_SKI 	1
+#define MAP_WEDGE 	2
 // ... more maps
 
-int 		cl_map[MAXPLAYERS + 1];
-int 		cl_prestrafe_speed[MAXPLAYERS + 1];
-char 		cl_triggers[MAXPLAYERS + 1][4096];
-char 		cl_steamid64[MAXPLAYERS + 1][32];
-char 		cl_steamid2[MAXPLAYERS + 1][32];
-char 		cl_name[MAXPLAYERS+1][MAX_NAME_LENGTH];
-int 		cl_prevelocity[MAXPLAYERS + 1];
-int 		cl_freez[MAXPLAYERS + 1];
+int 		cl_map					[MAXPLAYERS + 1];
+int 		cl_prestrafe_speed		[MAXPLAYERS + 1];
+char 		cl_triggers				[MAXPLAYERS + 1][4096];
+char 		cl_steamid64			[MAXPLAYERS + 1][32];
+char 		cl_steamid2				[MAXPLAYERS + 1][32];
+char 		cl_name					[MAXPLAYERS + 1][MAX_NAME_LENGTH];
+int 		cl_freez				[MAXPLAYERS + 1];
+int 		cl_start_type			[MAXPLAYERS + 1];
+bool 		cl_is_jump				[MAXPLAYERS + 1];
 
-bool 		cl_debug[MAXPLAYERS + 1]; // Debug
-bool 		cl_trick_assist[MAXPLAYERS + 1]; 		// Debug
-// bool 		cl_trick_assist_hud[MAXPLAYERS + 1]; 	// Debug
+bool 		cl_debug				[MAXPLAYERS + 1]; // Debug
+bool 		cl_trick_assist			[MAXPLAYERS + 1]; // Debug
+// bool 		cl_trick_assist_hud[MAXPLAYERS + 1];  // Debug
 
-int 		cl_global_view[MAXPLAYERS + 1];
-int 		cl_complete_sound[MAXPLAYERS + 1];
+int 		cl_global_view			[MAXPLAYERS + 1];
+int 		cl_complete_sound		[MAXPLAYERS + 1];
 
-ArrayList 	cl_time[MAXPLAYERS+1];
-ArrayList 	cl_speed[MAXPLAYERS+1];
+ArrayList 	cl_time					[MAXPLAYERS + 1];
+ArrayList 	cl_speed				[MAXPLAYERS + 1];
 
-ArrayList 	cl_speed_time_touch[MAXPLAYERS+1];
-ArrayList 	cl_last_speed_time_touch[MAXPLAYERS+1];
-int 		cl_max_speed[MAXPLAYERS + 1];
+ArrayList 	cl_speed_time_touch		[MAXPLAYERS + 1];
+ArrayList 	cl_last_speed_time_touch[MAXPLAYERS + 1];
+int 		cl_max_speed			[MAXPLAYERS + 1];
+
 
 Database 	g_db = null;
 
-ArrayList 	g_tricks[MAP_COUNT]; 
-ArrayList 	g_triggers[MAP_COUNT]; 
-ArrayList 	g_hop_triggers[MAP_COUNT]; 
+ArrayList 	g_tricks		[MAP_COUNT]; 
+ArrayList 	g_triggers		[MAP_COUNT]; 
+ArrayList 	g_hop_triggers	[MAP_COUNT]; 
 
 enum struct Triggers {
   char name[128];
@@ -59,12 +62,17 @@ enum struct SpeedTime {
 int g_maps[MAP_COUNT] = {
 	2,
 	1,
+	4
 };
 
 // Cookie handle
 Handle  g_cookie_global_view  	= INVALID_HANDLE;
 Handle  g_cookie_complete_sound = INVALID_HANDLE;
 Handle  g_cookie_last_map 		= INVALID_HANDLE;
+
+// Convar handle
+Handle g_hop		 		= INVALID_HANDLE;
+Handle g_pre_speed		 	= INVALID_HANDLE;
 
 #include "include/db.sp"
 #include "include/utils.sp"
@@ -79,23 +87,29 @@ public void OnPluginStart() {
 	// DataBase
 	db_connect(g_db == null ? true : false);
 	
+	// Convars
+	g_hop  				= CreateConVar("gxd_hop", 			"1", 	"Enable/Disable allow jumps");
+	g_pre_speed 		= CreateConVar("gxd_pre_speed", 	"405", 	"Ammount pre strafe | default 405");
+	AutoExecConfig(true, "gxd_trick_detect");
+	
 	// HookEntityOutput
 	HookEntityOutput("trigger_multiple", "OnStartTouch", 	OnTriggerStartTouch);
 	HookEntityOutput("trigger_multiple", "OnEndTouch", 		OnTriggerEndTouch);	
-	HookEvent("player_jump", 	PlayerJumpEvent);	
+	HookEvent("player_jump", 	PlayerJumpEvent, EventHookMode_Pre);	
 	HookEvent("player_spawn", 	PlayerSpawnEvent);	
 	HookEvent("player_death", 	PlayerDeathEvent);
 	
 	// SaveLoc
-	RegConsoleCmd("sm_teleport", 	cmd_teleport);
-	RegConsoleCmd("sm_r", 			cmd_teleport);
-	RegConsoleCmd("sm_tele", 		cmd_teleport);
-	RegConsoleCmd("sm_back", 		cmd_teleport);
+	RegConsoleCmd("sm_teleport", 	  cmd_teleport);
+	RegConsoleCmd("sm_r", 			  cmd_teleport);
+	RegConsoleCmd("sm_tele", 		  cmd_teleport);
+	RegConsoleCmd("sm_back", 		  cmd_teleport);
 
 	// MapTeleport
-	RegConsoleCmd("sm_tp", 			cmd_map_switch);
-	RegConsoleCmd("sm_ski2", 		cmd_ski2);
-	RegConsoleCmd("sm_strafes", 	cmd_strafes);
+	RegConsoleCmd("sm_tp", 			  cmd_map_switch);
+	RegConsoleCmd("sm_ski2", 		  cmd_ski2);
+	RegConsoleCmd("sm_strafes", 	  cmd_strafes);
+	RegConsoleCmd("sm_wedge", 		  cmd_wedge);
 
 	// Debug
 	RegConsoleCmd("sm_debug", 		  cmd_debug);
@@ -159,8 +173,6 @@ public Action cmd_update_tricks(int client, int args){
 
 public Action cmd_map_switch(int client, int args) {
 
-	if(!IsPlayerAlive(client)) return Plugin_Continue;
-
 	char arg_map[16];
     GetCmdArg(1, arg_map, sizeof(arg_map));
 
@@ -170,16 +182,20 @@ public Action cmd_map_switch(int client, int args) {
 }
 
 public Action cmd_ski2(int client, int args) {
-	if(!IsPlayerAlive(client)) return Plugin_Continue;
 	teleport_on_map(client, "ski2");
     return Plugin_Continue;
 }
 
 public Action cmd_strafes(int client, int args) {
-	if(!IsPlayerAlive(client)) return Plugin_Continue;
 	teleport_on_map(client, "strafes");
     return Plugin_Continue;
 }
+
+public Action cmd_wedge(int client, int args) {
+	teleport_on_map(client, "wedge");
+    return Plugin_Continue;
+}
+
 
 public Action cmd_debug(int client, int args){
 	if(cl_debug[client] == true) PrintToChat(client, " \x02 Debug deactivated")
@@ -222,9 +238,9 @@ public void OnTriggerEndTouch(const char[] output, int caller, int activator, fl
 		cl_speed[client].Clear(); 			  //Clear cuz trick started from null trigger
 		cl_time[client].Clear();  			  //Clear cuz trick started from null trigger
 		cl_speed_time_touch[client].Clear();  //Clear cuz trick started from null trigger
-	
-		if (get_cl_speed(client) < MAX_PRE_SPEED) 	cl_prevelocity[client] = 0;
-		else 										cl_prevelocity[client] = 1;
+
+		cl_prestrafe_speed[client] = get_cl_speed(client);
+		refresh_start_type(client);
 
 		add_part_time_and_speed(client); 	  //Save part between triggers intervals
 	}
@@ -274,30 +290,32 @@ public Action PlayerJumpEvent(Event event, const char[] name, bool dontBroadcast
 	int client = GetClientOfUserId(event.GetInt("userid"));
 	int count = count_triggers(cl_triggers[client]);
 
-	 if(count < 2) return Plugin_Handled;
+	if(!cl_is_jump[client]) cl_is_jump[client] = true;
+	if(GetConVarInt(g_hop) <= 0 || count < 2) return Plugin_Handled;
 
-	 char trigger[64];
-	 int c = FindCharInString(cl_triggers[client], ',', true);
-	 strcopy(trigger, sizeof(trigger), cl_triggers[client][c+1]);
+	char trigger[64];
+	int c = FindCharInString(cl_triggers[client], ',', true);
+	strcopy(trigger, sizeof(trigger), cl_triggers[client][c+1]);
 
-	 int size = g_hop_triggers[cl_map[client]].Length;
-	 char _name[64];
+	int size = g_hop_triggers[cl_map[client]].Length;
+	char _name[64];
 
-	 for (int i = 0; i < size; i += 1) {
-	 	g_hop_triggers[cl_map[client]].GetString(i, _name, sizeof(_name));
-	 	if(StrEqual(trigger, _name)) {
-	 		return Plugin_Handled;
-	 	}
-	 }
-	
-	 PrintToChat(client, " \x07 Jump during trick...");
-	 reset_trigger_data(client);
-	
+	for (int i = 0; i < size; i += 1) {
+		g_hop_triggers[cl_map[client]].GetString(i, _name, sizeof(_name));
+		if(StrEqual(trigger, _name)) {
+			return Plugin_Handled;
+		}
+	}
+
+	PrintToChat(client, " \x07 Jump during trick...");
+	reset_trigger_data(client);
+
 	return Plugin_Handled;
 }
 
 public Action PlayerSpawnEvent(Event event, const char[] name, bool dontBroadcast) {
 	int client = GetClientOfUserId(event.GetInt("userid"));
+	if(is_valid_client(client)) reset_trigger_data(client);
 	
 	return Plugin_Handled;
 }
@@ -305,10 +323,7 @@ public Action PlayerSpawnEvent(Event event, const char[] name, bool dontBroadcas
 public Action PlayerDeathEvent(Event event, const char[] name, bool dontBroadcast) {
 	int client = GetClientOfUserId(event.GetInt("userid"));
 	int clientAttacker = GetClientOfUserId(event.GetInt("attacker"));
-
-	if(is_valid_client(client)){
-		reset_trigger_data(client);
-	}
+	// if(is_valid_client(client)) reset_trigger_data(client);
 
 	return Plugin_Handled;
 }
@@ -319,12 +334,12 @@ public void OnClientPutInServer(int client) {
 	cl_time[client] 					= new ArrayList(ByteCountToCells(512));
 	cl_speed[client] 					= new ArrayList(ByteCountToCells(512));
 
-	// cl_map[client] 						= MAP_SKI;
-	// cl_global_view[client]				= 1;
-	// cl_complete_sound[client]			= 1;
-
 	cl_speed_time_touch[client]			= new ArrayList(view_as<int>(sizeof(SpeedTime)));
 	cl_last_speed_time_touch[client]	= new ArrayList(view_as<int>(sizeof(SpeedTime)));
+
+	// need remowe after added menu
+	cl_global_view[client]		= 1;
+	cl_complete_sound[client]	= 1;
 
 	char steamid2[32];
 	GetClientAuthId(client, AuthId_Steam2, steamid2, sizeof(steamid2));
@@ -337,7 +352,7 @@ public void OnClientPutInServer(int client) {
 	StrCat(cl_steamid64[client], sizeof(cl_steamid64[]), steamid64);
 	StrCat(cl_name[client], sizeof(cl_name[]), nickname);
 	
-	// Need remove in separete plugin
+	// will be remove in separete plugin
 	char szQuery[512];
 	Format(szQuery, sizeof(szQuery), sql_updatePlayer, steamid2,  steamid64, nickname);
     SQL_TQuery(g_db, update_player_callback, szQuery, GetClientUserId(client), DBPrio_Low);

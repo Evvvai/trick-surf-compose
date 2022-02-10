@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture"		"de_train/train_dirt_floor_01"
+	"%keywords"		    "de_train"
+	"$surfaceprop"		"gravel"
+}

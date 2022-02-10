@@ -44,7 +44,7 @@ public void route_checker(int client){ //Check contains tricks
 		g_tricks[cl_map[client]].GetString(i+2, _trick_name, sizeof(_trick_name));
 		g_tricks[cl_map[client]].GetString(i+4, _speed_trick, sizeof(_speed_trick));
 
-		if(StrContains(_route, cl_triggers[client]) > - 1 && cl_prevelocity[client] == StringToInt(_speed_trick)) {
+		if(StrContains(_route, cl_triggers[client]) > - 1 && cl_start_type[client] == StringToInt(_speed_trick)) {
 			if(cl_debug[client]) PrintToConsole(client, "CONTAIN >> %s | %s", _trick_name, _route); // Debug
 			++containTricks;
 			if (StrEqual(_route, cl_triggers[client]) == 1) {
@@ -63,9 +63,9 @@ public void route_checker(int client){ //Check contains tricks
 	if (containTricks == 0 && strlen(cl_triggers[client]) != 0) trim_client_triggers(client);
 }
 
-public void trim_client_triggers(int client){ //Trim first trigger in cl_triggers
+public void trim_client_triggers(int client){ // Trim first trigger in cl_triggers
 
-    cl_prevelocity[client] = 1;
+	set_start_type(client, 1);
 	
 	if(cl_speed[client].Length > 0) 					cl_speed[client].Erase(0);
 	if(cl_time[client].Length > 0) 						cl_time[client].Erase(0);
@@ -74,16 +74,10 @@ public void trim_client_triggers(int client){ //Trim first trigger in cl_trigger
     char buf[1000];
 	int c = FindCharInString(cl_triggers[client], ',');
 	if (c == -1) {
-        cl_triggers[client] = NULL_STRING;
-        
-		cl_speed[client].Clear();
-		cl_time[client].Clear();
-		cl_speed_time_touch[client].Clear();
-		cl_last_speed_time_touch[client].Clear();
-		cl_max_speed[client] = 0;
-		
+		reset_trigger_data(client);
 		return;
 	}
+	if(count_triggers(cl_triggers[client]) == 1) cl_is_jump[client] = false;
 
 	strcopy(buf, sizeof(buf), cl_triggers[client][c+1]);
 	strcopy(cl_triggers[client], 1000, buf);
@@ -94,7 +88,7 @@ public void trim_client_triggers(int client){ //Trim first trigger in cl_trigger
 
 	for (int i = 0; i < size; i += 5) {
 		g_tricks[cl_map[client]].GetString(i, _route, sizeof(_route));
-		g_tricks[cl_map[client]].GetString(i+4, _speed_trick, sizeof(_speed_trick));
+		g_tricks[cl_map[client]].GetString(i + 4, _speed_trick, sizeof(_speed_trick));
 
 		if(StrContains(_route, cl_triggers[client])>-1) {
 			route_checker(client);
@@ -146,7 +140,7 @@ public void select_trick_touch_callback(Database db, DBResultSet results, const 
 			results.FetchString(0, _id, 256);
 		}
 
-		// save_speed_time_during_trick(client, cl_last_speed_time_touch[client], _id);
+		save_speed_time_during_trick(client, cl_last_speed_time_touch[client], _id);
 	}
 }
 
@@ -188,9 +182,9 @@ public void check_wr_callback(Database db, DBResultSet results, const char[] err
 			results.FetchString(10, _trick_points,	256);
 		}
 
-    	Format(_complete_message, 512, " \x02Trick   \x07| \x0Cby \x0C%s \x06| Trick \x06 %s \x02| Points \x02 %s", cl_name[client], _trick_name, _trick_points);
-		Format(_time_message,  512, " \x02Time \x07| \x06 %s \x07WR \x03 %s \x0Cby \x0C %s",_time, _time_wr, _time_nick_wr);
-		Format(_speed_message, 512, " \x02Спид \x07| \x06 %s \x07WR \x03 %s \x0Cby \x0C %s",_speed, _speed_wr, _speed_nick_wr);
+    	Format(_complete_message, 512, 	" \x02Trick   \x07| \x0Cby \x0C%s \x06| Trick \x06 %s \x02| Points \x02 %s", cl_name[client], _trick_name, _trick_points);
+		Format(_time_message,  512, 	" \x02Time \x07| \x06 %s \x07WR \x03 %s \x0Cby \x0C %s",_time, _time_wr, _time_nick_wr);
+		Format(_speed_message, 512, 	" \x02Спид \x07| \x06 %s \x07WR \x03 %s \x0Cby \x0C %s",_speed, _speed_wr, _speed_nick_wr);
 
 		for (int i = 1; i < MaxClients+1; ++i) {
 			if (IsClientInGame(i) && (cl_global_view[i] == 1 || i == client)) {

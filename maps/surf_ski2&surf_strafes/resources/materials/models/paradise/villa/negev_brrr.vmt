@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/villa/negev_brrr_d"
+	$bumpmap "models/paradise/villa/negev_brrr_n"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 80
+	$phongboost 4
+}

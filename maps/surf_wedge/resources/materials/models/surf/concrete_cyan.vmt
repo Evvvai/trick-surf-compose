@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture" "models/surf/concrete_cyan"
+	
+	"$selfillum"              "1"
+	"$selfillumtint"          "[0.45 0.55 0.75]"
+	
+	$envmap "environment maps/metal_generic_002"
+	"$surfaceprop" "concrete"
+	
+	//"$bumpmap" "models/surf/concrete_white_normal"
+	//"$bumpmap" "models/surf/white_normal_3"
+	//"$bumptransform"          "center 0 0 scale 3 3 rotate 0 translate 0 0"
+	
+	//$reflectivity "[0.85 0.85 0.85]"
+	$reflectivity "[0.55 0.55 0.55]"
+
+	$envmaptint "[0.75 0.75 0.75]"
+	$envmapcontrast 0.5
+	$fresnelreflection 0.31
+	$envmaplightscale 1
+
+	$phong 1
+	$phongexponent 15
+	$phongamount "[3.62 3.62 3.62 1]"
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_dust/hr_dust/hr_dust_brick_ground_02_color"
+	"$bumpmap"		"de_dust/hr_dust/hr_dust_brick_ground_02_normal"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.100000"
+	"$LAYERBORDERSTRENGTH"		"0.250000"
+	"$LAYERBORDEROFFSET"		"0"
+	"$LAYERBORDERSOFTNESS"		"0.125000"
+	"$LAYERBORDERTINT"		"{160 135 110}"
+	"$surfaceprop"		"concrete"
+	"%keywords"		"ground,brick,rock"
+}

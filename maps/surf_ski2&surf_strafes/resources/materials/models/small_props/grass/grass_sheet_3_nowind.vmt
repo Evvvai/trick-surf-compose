@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/small_props/grass/grass_sheet_3_baseColor"
+	$surfaceprop Foliage
+
+	$alphatest 1
+	$alphatestreference 0.3
+	$nocull 1
+}

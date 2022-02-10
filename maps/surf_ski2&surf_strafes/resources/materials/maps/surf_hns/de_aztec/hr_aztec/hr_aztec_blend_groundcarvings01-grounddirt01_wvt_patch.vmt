@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_ground_carvings_01_color"
+	"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_ground_carvings_01_normal"
+	"$basetexturetransform2"		"center .5 .5 scale 2 2 rotate 0 translate 0 0"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.010000"
+	"$LAYERBORDERSTRENGTH"		"0.100000"
+	"$LAYERBORDEROFFSET"		"0.010000"
+	"$LAYERBORDERSOFTNESS"		"0.080000"
+	"$LAYERBORDERTINT"		"{106 91 74}"
+	"$surfaceprop"		"rock"
+	"%keywords"		"ground,dirt,grass,weeds,rock,blend,aztec"
+}

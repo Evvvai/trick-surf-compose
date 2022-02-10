@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/surf/concrete_red"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	
+	"$bumpmap" "models/surf/white_normal_3"
+}

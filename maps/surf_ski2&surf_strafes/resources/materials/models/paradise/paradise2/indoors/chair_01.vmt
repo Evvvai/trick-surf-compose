@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/paradise2/indoors/chair_01"
+	$bumpmap "models/paradise/paradise2/indoors/chair_01_normal"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.08 0.08 0.08]"
+	$envmapfresnel 0.2
+	$envmaplightscale 0.2
+	$envmaplightscaleminmax "[0 1]"
+
+	$phong 1
+	$phongexponenttexture "models/paradise/paradise2/indoors/chair_01_specgloss"
+	$phongfresnelranges "[0.2 0.5 3]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 19
+	$phongalbedoboost 170
+}

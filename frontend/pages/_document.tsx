@@ -5,7 +5,7 @@ import firebase from '../utils/firebase'
 export default class Document extends SourceDocument {
   render(): JSX.Element {
     return (
-      <Html lang="en">
+      <Html lang="en" data-theme="blue">
         <Head>
           <link
             href="https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap"
@@ -14,7 +14,7 @@ export default class Document extends SourceDocument {
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
-            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Slab:wght@300;400;500&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Roboto+Slab:wght@300;400;500;700;900&display=swap"
             rel="stylesheet"
           ></link>
           <link rel="icon" href="/surfgxds.ico" />

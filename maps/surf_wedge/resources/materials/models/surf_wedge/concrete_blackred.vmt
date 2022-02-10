@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/surf/concrete_blackred"
+	"$selfillum"              "1"
+	"$selfillumtint"          "[4 4 4]"
+	"$selfillummask"          "models/surf/concrete_blackred"
+	"$selfillummaskscale"     "1"
+	"$selfillumtexture"       "models/surf/concrete_blackred"
+	
+	"$reflectivity"           "[0.4 0.4 0.4]"
+	"$addbumpmaps"            "1"
+	"$bumpmap2"               "concrete/hr_c/hr_concrete_floor_generic_001_normals"
+	"$bumptransform2"         "center 0 0 scale .023 .023 rotate 0 translate 0 0"
+	"$bumpdetailscale2"       ".10"
+		"$bumpmap" "models/surf/concrete_white_normal"
+	"$bumptransform"          "center 0 0 scale 1 1 rotate 0 translate 0 0"
+	"$bumpdetailscale1"       "1"
+	"$surfaceprop"            "concrete"
+	"$detail"                 "concrete/hr_c/hr_concrete_polished_001_detail"
+	"$detailscale"            ".13"
+	"$detailblendfactor"      "1.55"
+	"$envmap"                 "environment maps/metal_generic_002"
+	"$envmaptint"             "[0.25 0.25 0.25]"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0.0 0.80]"
+	"$envmapsaturation"       ".75"
+	"$envmapcontrast"         ".2"
+	
+	$phong 1
+
+	$phongexponent			10
+	$phongboost				2.5
+	$phongfresnelranges		"[0 0.5 1]"
+}

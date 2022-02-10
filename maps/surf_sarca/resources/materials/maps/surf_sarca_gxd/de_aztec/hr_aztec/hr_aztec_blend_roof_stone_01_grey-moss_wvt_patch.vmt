@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_color"
+	"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_normal"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.010000"
+	"$LAYERBORDERSTRENGTH"		"0.500000"
+	"$LAYERBORDEROFFSET"		"0"
+	"$LAYERBORDERSOFTNESS"		"0.500000"
+	"$LAYERBORDERTINT"		"{128 128 128}"
+	"$surfaceprop"		"rock"
+	"%keywords"		"roof,stone,rock,grey,moss,blend,aztec"
+}

@@ -30,7 +30,7 @@ const FriendsPath: FC = ({ children }) => {
 
   if (section !== undefined)
     return (
-      <div>
+      <div className={styles.layoutsFriends}>
         <div className={styles.layoutsFriendsTitle}>
           <h1>Friends</h1>
         </div>

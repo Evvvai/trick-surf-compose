@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "paradise/new/plaster_01_d"
+	$bumpmap "paradise/new/plaster_01_n"
+	$surfaceprop Plaster
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.15 0.15 0.15]"
+	$envmapcontrast 0.5
+	$envmapsaturation 1.5
+	$fresnelreflection 0.21
+
+	$phong 1
+	$phongexponent 40
+	$phongamount "[4 4 4 1]"
+}

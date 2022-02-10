@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/villa/tv_d"
+	$bumpmap "dev/bump_normal"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.20 0.20 0.20]"
+	$envmapfresnel 0.8
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.65 1]"
+	$phongexponent 400
+	$phongboost 3
+	$basemapalphaphongmask 1
+}

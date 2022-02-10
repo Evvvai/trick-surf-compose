@@ -18,7 +18,7 @@ export const newTrick = async (eventMessage: any, producer: AmqpProducer) => {
         p.steamid64,
         p.nick,
         m.id map_id,
-        m.name map_name,
+        m.alternative_name map_name,
         t.route_str,
         if(ISNULL(p.avatarCustom), if(ISNULL(p.avatarfull), '${process.env.NONE_AVATAR}', p.avatarfull), p.avatarCustom) avatar
 

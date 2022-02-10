@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PARADISE/NEW/PLASTER_01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-13909_-9331_9650"
+	}
+}

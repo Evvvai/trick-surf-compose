@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_dust/hr_dust/hr_dust_ground_dirt_rough_01_color"
+	"$bumpmap"		"de_dust/hr_dust/hr_dust_ground_dirt_rough_01_normal"
+	"$surfaceprop"		"gravel"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.200000"
+	"$LAYERBORDERSTRENGTH"		"0.300000"
+	"$LAYERBORDEROFFSET"		"0"
+	"$LAYERBORDERSOFTNESS"		"0.200000"
+	"$LAYERBORDERTINT"		"{94 68 47}"
+	"%keywords"		"ground,dirt,blend"
+}

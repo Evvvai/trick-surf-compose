@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/small_props/grass/grass_sheet_3_basecolor"
+	$surfaceprop Foliage
+
+	$alphatest 1
+	$alphatestreference 0.3
+	$nocull 1
+
+	$treesway 1
+	$treeswayheight 0
+	$treeswaystartheight 0.05
+	$treeswayradius 0
+	$treeswaystartradius 0
+	$treeswaystrength 1.14
+	$treeswayspeed 2.24
+	$treeswayfalloffexp 150
+	$treeswayscrumblestrength 0
+	$treeswayscrumblespeed 0
+	$treeswayscrumblefrequency 0
+	$treeswayscrumblefalloffexp 0
+	$treeswayspeedhighwindmultiplier 0
+	$treeswayspeedlerpstart 0
+	$treeswayspeedlerpend 0
+}

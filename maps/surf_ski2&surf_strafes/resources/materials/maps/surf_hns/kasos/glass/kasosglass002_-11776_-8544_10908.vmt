@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/KASOS/GLASS/KASOSGLASS002.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-11776_-8544_10908"
+	}
+}

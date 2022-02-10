@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/HR_W/WOOD_PLANK_A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-13909_-9331_9650"
+	}
+}

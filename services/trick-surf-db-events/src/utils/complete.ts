@@ -14,11 +14,10 @@ export const newComplete = async (eventMessage: any, producer: AmqpProducer) => 
            sc.speed,
            st.name,
            st.point,
-           p.steamid,
            p.steamid64,
            p.nick,
            m.id map_id,
-           m.name map_name,
+           m.alternative_name map_name,
            if(ISNULL(p.avatarCustom), if(ISNULL(p.avatarfull), '${process.env.NONE_AVATAR}', p.avatarfull), p.avatarCustom) avatar
 
     FROM completes sc

@@ -30,8 +30,8 @@ export const useTrickFilters = () => {
       trick.name.toLowerCase().includes(filters.term.toLowerCase())
 
     const validPoints = (trick: Trick): boolean =>
-      trick.point > filters.pointsRange.min &&
-      trick.point < filters.pointsRange.max
+      trick.point >= filters.pointsRange.min &&
+      trick.point <= filters.pointsRange.max
 
     const validTriggers = (trick: Trick): boolean => {
       if (filters.triggers.length === 0) return true

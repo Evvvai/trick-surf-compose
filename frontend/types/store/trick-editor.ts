@@ -1,4 +1,4 @@
-import { Trigger } from '@store'
+import { Trigger, Trick } from '@store'
 
 export interface TrickEditorState {
   isLoad: boolean
@@ -8,5 +8,5 @@ export interface TrickEditorState {
   trigger: Trigger
   route: Trigger[]
   velocity: boolean
-  trickEditingId: number | null
+  trickEditing: Trick | null
 }

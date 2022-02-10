@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_ground_dirt_01_color"
+	"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_ground_dirt_01_normal"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.050000"
+	"$LAYERBORDERSTRENGTH"		"0.010000"
+	"$LAYERBORDEROFFSET"		"0.010000"
+	"$LAYERBORDERSOFTNESS"		"0.001000"
+	"$LAYERBORDERTINT"		"{106 91 74}"
+	"$surfaceprop"		"dirt"
+	"%keywords"		"ground,dirt,grass,weeds,blend,aztec"
+}

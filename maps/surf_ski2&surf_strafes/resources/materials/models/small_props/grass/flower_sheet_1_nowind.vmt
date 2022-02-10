@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "models/small_props/grass/flower_sheet_1"
+
+	$alphatest 1
+	$alphatestreference 0.3
+	$nocull 1
+
+	$tintmasktexture "models/small_props/grass/flower_sheet_1_tintmask"
+
+
+}

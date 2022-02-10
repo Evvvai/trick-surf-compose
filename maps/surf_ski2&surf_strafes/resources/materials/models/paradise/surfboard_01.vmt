@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/surfboard_01"
+	$bumpmap "models/paradise/surfboard_01_normal"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+
+	$phong 1
+	$phongexponenttexture "models/paradise/surfboard_01_specgloss"
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongalbedotint 1
+	$phongboost 19
+	$phongalbedoboost 170
+
+	$blendtintbybasealpha 1
+}

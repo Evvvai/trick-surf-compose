@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_dust/hr_dust/hr_concrete_floor_01_color"
+	"$surfaceprop"		"concrete"
+	"$detail"		"de_dust/hr_dust/hr_dust_asphalt_04_detail"
+	"$detailscale"		"0.250000"
+	"$detailblendfactor"		"0.550000"
+	"%keywords"		"hrdust,ground,street,asphalt"
+}

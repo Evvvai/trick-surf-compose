@@ -144,32 +144,6 @@
       }
     }
 
-    &Indicator {
-      width: 14px;
-      height: 14px;
-      flex-shrink: 0;
-      position: relative;
-      cursor: pointer;
-      transition: 0.15s ease;
-
-      &::after {
-        content: '';
-        position: absolute;
-        top: -1px;
-        bottom: -1px;
-        left: -1px;
-        right: -1px;
-        opacity: 0;
-        background-position: 50%;
-        background-repeat: no-repeat;
-        transition: opacity 0.15s ease, transform 0.15s ease;
-      }
-
-      border-radius: 50%;
-      background-color: var(--color-background-content);
-      border: solid 1px var(--color-border);
-    }
-
     &Text {
       white-space: nowrap;
       text-overflow: ellipsis;
@@ -180,15 +154,41 @@
 }
 
 .submit {
-  cursor: pointer;
-  font-size: 1.4rem;
-  padding-top: 15px;
+  margin: 5px 0;
 
-  color: var(--color-submit-bg);
+  &Text {
+    cursor: pointer;
+    font-size: 1.4rem;
 
-  &:hover {
-    color: var(--color-submit-bg-hover);
+    color: var(--color-submit-bg);
+
+    &:hover {
+      color: var(--color-submit-bg-hover);
+      transition: all 0.2s ease-in;
+    }
     transition: all 0.2s ease-in;
   }
-  transition: all 0.2s ease-in;
+}
+
+.back {
+  margin: 15px 0;
+
+  &Text {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 900;
+
+    color: var(--color-highlight);
+    transform: translateX(0px);
+    transition: all 0.2s ease-in;
+  }
+
+  &:hover {
+    .back {
+      &Text {
+        transform: translateX(10px);
+        transition: all 0.2s ease-in;
+      }
+    }
+  }
 }

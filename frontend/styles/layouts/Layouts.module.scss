@@ -23,83 +23,9 @@
     }
   }
 
-  &Auth {
-    // position: relative;
-    // top: 0;
-    // left: 0;
-    // width: 100vw;
-    // height: 100vh;
-    // display: flex;
-    // flex-direction: column;
-    // align-items: center;
-    // justify-content: center;
-
-    position: fixed;
-
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
-    z-index: 15;
-    transform-origin: 0 0;
-
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-
-    &Svg {
-      &First {
-        height: 250px;
-        width: 100%;
-        position: absolute;
-        fill: var(--color-header-bg);
-        // fill: var(--color-highlight);
-        top: 0px;
-      }
-      &Second {
-        height: 250px;
-        width: 100%;
-        position: absolute;
-        fill: var(--color-header-bg);
-        // fill: var(--color-highlight);
-        bottom: 0px;
-      }
-    }
-
-    &Open {
-      display: flex;
-
-      svg {
-        &:first-child {
-          // fill: red;
-          animation: auth-open-first 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
-        }
-
-        &:last-child {
-          // fill: red;
-          animation: auth-open-second 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
-        }
-      }
-    }
-
-    &Close {
-      svg {
-        &:first-child {
-          // fill: red;
-          animation: auth-close-first 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
-        }
-
-        &:last-child {
-          // fill: red;
-          animation: auth-close-second 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
-        }
-      }
-    }
-  }
-
   &Tricks {
+    padding-top: calc(var(--header-height) + 20px);
+
     &Title {
       display: flex;
       flex-direction: column;
@@ -167,6 +93,7 @@
   }
 
   &Friends {
+    padding-top: calc(var(--header-height) + 20px);
     &Title {
       display: flex;
       flex-direction: column;
@@ -225,54 +152,6 @@
 
       transition: all 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
     }
-  }
-}
-
-@keyframes auth-open-second {
-  0% {
-    opacity: 0;
-    bottom: -250px;
-  }
-
-  100% {
-    opacity: 1;
-    bottom: 0px;
-  }
-}
-
-@keyframes auth-close-second {
-  0% {
-    opacity: 1;
-    bottom: 0px;
-  }
-
-  100% {
-    opacity: 0;
-    bottom: -250px;
-  }
-}
-
-@keyframes auth-open-first {
-  0% {
-    opacity: 0;
-    top: -250px;
-  }
-
-  100% {
-    opacity: 1;
-    top: 0px;
-  }
-}
-
-@keyframes auth-close-first {
-  0% {
-    opacity: 1;
-    top: 0px;
-  }
-
-  100% {
-    opacity: 0;
-    top: -250px;
   }
 }
 

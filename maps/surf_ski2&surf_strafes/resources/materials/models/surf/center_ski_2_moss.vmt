@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/surf/center_ski_2_moss"
+	"$bumpmap" 				  "models/surf/center_ski_2_moss_normal"
+	"$envmap" 				  "env_cubemap"
+	"$reflectivity"           "[0.25 0.25 0.25]"
+	"$envmaptint"             "[0.25 0.25 0.25]"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0.0 0.80]"
+	"$envmapsaturation"       ".75"
+	"$envmapcontrast"         ".2"
+}

@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Kasos/glass/kasosglass002"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"%keywords" "kasos"
+	"$envmapmask" "Kasos/glass/kasosglass002_mask"
+	"$translucent" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .75]"
+}

@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/shortdam/hr_squidski_diffuse"
+	$bumpmap "models/shortdam/hr_squidski_normal"
+	$surfaceprop Upholstery
+
+	$detail "detail/dt_fabric2"
+
+	$phong 1
+	$phongexponenttexture "models/shortdam/hr_squidski_specgloss"
+	$phongfresnelranges "[0.12 0.45 3]"
+	$phongalbedotint 1
+	$phongboost 18.98
+	$phongalbedoboost 170
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1
+}

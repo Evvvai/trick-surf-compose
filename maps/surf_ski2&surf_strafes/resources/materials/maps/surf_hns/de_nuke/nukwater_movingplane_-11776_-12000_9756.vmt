@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKWATER_MOVINGPLANE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-11776_-12000_9756"
+		"Proxies"
+		{
+		}
+	}
+}

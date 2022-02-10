@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_wall_stone_04_grey_color"
+	"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_wall_stone_04_grey_normal"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.001000"
+	"$LAYERBORDERSTRENGTH"		"0.400000"
+	"$LAYERBORDEROFFSET"		"0.010000"
+	"$LAYERBORDERSOFTNESS"		"0.080000"
+	"$LAYERBORDERTINT"		"{106 91 74}"
+	"$surfaceprop"		"rock"
+	"%keywords"		"wall,stone,rock,grey,moss,blend,aztec"
+}

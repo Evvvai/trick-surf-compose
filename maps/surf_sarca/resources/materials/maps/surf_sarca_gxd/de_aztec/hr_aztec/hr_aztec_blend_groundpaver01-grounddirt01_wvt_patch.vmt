@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_ground_paver_01_color"
+	"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_ground_paver_01_normal"
+	"$NEWLAYERBLENDING"		"1"
+	"$BLENDSOFTNESS"		"0.010000"
+	"$LAYERBORDERSTRENGTH"		"0.100000"
+	"$LAYERBORDEROFFSET"		"0.010000"
+	"$LAYERBORDERSOFTNESS"		"0.080000"
+	"$LAYERBORDERTINT"		"{106 91 74}"
+	"$surfaceprop"		"rock"
+	"%keywords"		"ground,dirt,grass,weeds,rock,blend,aztec"
+}

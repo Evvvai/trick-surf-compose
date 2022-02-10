@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { TrickEditorState, Trigger } from '@store'
+import { Trick, TrickEditorState, Trigger } from '@store'
 import { HYDRATE } from 'next-redux-wrapper'
 
 const initialState: TrickEditorState = {
@@ -10,7 +10,7 @@ const initialState: TrickEditorState = {
   trigger: {} as Trigger,
   route: [],
   velocity: false,
-  trickEditingId: null,
+  trickEditing: null,
 }
 
 // Slice
@@ -44,7 +44,7 @@ const trickEditorSlice = createSlice({
       state.trigger = {} as Trigger
       state.route = []
       state.velocity = false
-      state.trickEditingId = null
+      state.trickEditing = null
     },
     clearTrickEditor: (state) => {
       state.name = ''
@@ -52,7 +52,18 @@ const trickEditorSlice = createSlice({
       state.trigger = {} as Trigger
       state.route = []
       state.velocity = false
-      state.trickEditingId = null
+      state.trickEditing = null
+    },
+    setEditMod: (
+      state,
+      { payload }: PayloadAction<{ trick: Trick; route: Trigger[] }>
+    ) => {
+      state.name = payload.trick.name
+      state.points = payload.trick.point
+      state.trigger = payload.route[0]
+      state.route = payload.route
+      state.velocity = payload.trick.velocity === 1 ? true : false //! xD
+      state.trickEditing = payload.trick
     },
     resetTrickEditor: (state) => {
       state.isLoad = false
@@ -62,7 +73,7 @@ const trickEditorSlice = createSlice({
       state.trigger = {} as Trigger
       state.route = []
       state.velocity = false
-      state.trickEditingId = null
+      state.trickEditing = null
     },
   },
   extraReducers: {

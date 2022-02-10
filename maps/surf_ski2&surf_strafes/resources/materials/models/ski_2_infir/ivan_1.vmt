@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/ski_2_infir/ivan_1"
+	$surfaceprop "no_decal"
+
+	$model "1"
+}

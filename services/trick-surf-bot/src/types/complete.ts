@@ -3,7 +3,6 @@ export interface CompleteI {
   speed: number
   name: string
   point: number
-  steamid: string
   steamid64: string
   nick: string
   user_id: number

@@ -23,9 +23,10 @@ export const useTrickEditor = () => {
     sendTrick,
     loadedTrickEditor,
     setVelocityTrick,
+    setEditMod,
   } = bindActionCreators(ActionCreators.actions, dispatch)
 
-  const { name, points, route, trickEditingId, trigger, velocity } =
+  const { name, points, route, trickEditing, trigger, velocity } =
     useTypesSelector((state) => state.trickEditor)
 
   const loadTrickEditor = useCallback(async (map: Maps) => {
@@ -42,10 +43,11 @@ export const useTrickEditor = () => {
     setNameTrick,
     setTriggerTrick,
     setRouteTrick,
+    setEditMod,
     name,
     points,
     route,
-    trickEditingId,
+    trickEditing,
     trigger,
     velocity,
   }

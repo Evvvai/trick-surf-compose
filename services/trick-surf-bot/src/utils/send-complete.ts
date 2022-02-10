@@ -5,16 +5,18 @@ import { rgbToHex } from './rgb-to-hex'
 // Complete
 //////////////////////////////////////////////////////////////////////////////////////////////////
 export const sendComplete = async (channels: ChannelManager, complete: CompleteI) => {
-  const value = complete?.point / 4 > 255 ? 255 : complete?.point / 4
+  const value = 255 - complete?.point / 4 > 254 ? 254 : Math.round(complete?.point / 4)
+
+  console.log('color > ', value, ' | ', complete?.point)
 
   const Embed = new MessageEmbed()
-    .setColor(rgbToHex(240, 240, value))
+    .setColor(rgbToHex(100, 100, 240))
     .setTitle(`${complete?.name} ${complete?.point}`)
     .setURL('https://surfgxds.xyz/')
     .setAuthor(
       `${complete?.nick}`,
       `${complete.avatar}`,
-      `https://surfgxds.xyz/${complete?.steamid}`
+      `https://surfgxds.xyz/${complete?.steamid64}`
     )
     .setThumbnail(`${complete.avatar}`)
     .addField('Time', `${complete?.time}`, true)
@@ -24,7 +26,7 @@ export const sendComplete = async (channels: ChannelManager, complete: CompleteI
     // )
     .setTimestamp()
     .setFooter(
-      `surf_${complete.map_name}`
+      `${complete.map_name}`
       // ,'https://firebasestorage.googleapis.com/v0/b/trick-a871a.appspot.com/o/icon%2Fcomplete.png?alt=media&token=35639870-044a-486f-a651-b1c5f1d8f39a'
     )
 

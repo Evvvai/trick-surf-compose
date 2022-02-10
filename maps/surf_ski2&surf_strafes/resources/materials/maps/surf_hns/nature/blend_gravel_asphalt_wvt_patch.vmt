@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/docks_gravel"
+	"$bumpmap"		"nature/docks_gravel_height-ssbump"
+	"$ssbump"		"1"
+	"$surfaceprop"		"gravel"
+}

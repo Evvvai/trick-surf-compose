@@ -13,8 +13,9 @@ import cn from 'classnames'
 import { useTrickEditor } from 'hooks/store/trick-editor'
 import { usePlayer } from '../../../hooks/store/player/usePlayer'
 import { clientHandle } from 'utils/graphql'
-import { SEND_TRICK } from 'types/graphql/mutation/trick-editor'
+import { SEND_TRICK, UPDATE_TRICK } from 'types/graphql/mutation/trick-editor'
 import { useApp } from '../../../hooks/store/app/useApp'
+import { useTrick } from '../../../hooks/store/trick/useTrick'
 
 interface Props {}
 
@@ -29,10 +30,18 @@ export default function TrickEditorSubmit(props: Props): JSX.Element {
     setPointsTrick,
     setVelocityTrick,
     sendTrick,
+    trickEditing,
+    clearTrickEditor,
   } = useTrickEditor()
   const { isLoggedIn, playerInfo } = usePlayer()
+  const { updatedTrick } = useTrick()
   const { currentMap } = useApp()
   const router = useRouter()
+
+  const handleClickBack = () => {
+    clearTrickEditor()
+    router.push('/tricks/' + currentMap.name)
+  }
 
   const handleClickSumbit = async (e: any) => {
     var regName = /^[A-Za-z0-9 ]*$/
@@ -53,26 +62,42 @@ export default function TrickEditorSubmit(props: Props): JSX.Element {
     if (route.length < 2) errors = 'Route have less than 2 triggers'
 
     if (errors) {
+      console.log('errors', errors)
       // Staff
     } else {
-      const [data, errors] = await clientHandle(SEND_TRICK, {
-        name: name,
-        point: points,
-        velocity: velocity ? 1 : 0,
-        authorId: playerInfo.id,
-        mapId: currentMap?.id,
-        route: route.map((trigger) => trigger.id).join(','),
-      })
+      if (trickEditing) {
+        const variables = {
+          id: trickEditing.id,
+          name: name || trickEditing.name,
+          point: points || trickEditing.point,
+          velocity: velocity ? 1 : 0,
+          routeIds: route.map((trigger) => trigger.id).join(','),
+        }
 
-      if (data && !errors) {
-        router.push('/tricks/suggested/' + currentMap?.name)
-        sendTrick()
+        const [data, errors] = await clientHandle(UPDATE_TRICK, variables)
+
+        if (data && !errors) {
+          updatedTrick({ ...trickEditing, ...variables })
+          handleClickBack()
+        } else {
+          // setError('')
+        }
       } else {
-        // setError('')
+        const [data, errors] = await clientHandle(SEND_TRICK, {
+          name: name,
+          point: points,
+          velocity: velocity ? 1 : 0,
+          authorId: playerInfo.id,
+          mapId: currentMap?.id,
+          route: route.map((trigger) => trigger.id).join(','),
+        })
+        if (data && !errors) {
+          router.push('/tricks/suggested/' + currentMap?.name)
+          sendTrick()
+        } else {
+          // setError('')
+        }
       }
-      // isTrickEditing !== TrickEditing.NONE
-      //   ? sendEditedTrick(trickCreator, map, isTrickEditing)
-      //   : sendTrick(trickCreator, map)
     }
   }
 
@@ -93,7 +118,7 @@ export default function TrickEditorSubmit(props: Props): JSX.Element {
         <div> Points </div>
         <input
           onChange={(event) => {
-            if (event.target.valueAsNumber > 9999) return
+            if (event.target.valueAsNumber > 1500) return
             setPointsTrick(event.target.valueAsNumber)
           }}
           value={points || ''}
@@ -101,24 +126,19 @@ export default function TrickEditorSubmit(props: Props): JSX.Element {
           placeholder="write amount points for trick"
         />
       </div>
+
       <div className={styles.velocity}>
         <div> Velocity </div>
         <div
           onClick={() => setVelocityTrick(!velocity)}
           className={styles.velocityControl}
         >
-          {/* <input
-            checked={velocity}
-            className={styles.velocityControlInput}
-            type="radio"
-            onClick={() => setVelocityTrick(!velocity)}
-          /> 
-          <span className={styles.velocityControlIndicator}></span>*/}
           <div className={styles.velocityControlText}>
             {velocity ? 'unlimited speed' : 'pre-strafe'}
           </div>
         </div>
       </div>
+
       <div className={styles.route}>
         <div> Route </div>
         <div>
@@ -130,21 +150,18 @@ export default function TrickEditorSubmit(props: Props): JSX.Element {
         </div>
       </div>
 
-      {/* <FormControlLabelSwitch
-        control={
-          <CyanSwitch
-            checked={!velocity}
-            onChange={(e) => setVelocityTrick(!velocity)}
-            color="primary"
-            name="checkedB"
-            inputProps={{ 'aria-label': 'primary checkbox' }}
-          />
-        }
-        label="Pre-Strafe"
-        labelPlacement="start"
-      /> */}
-      <div onClick={handleClickSumbit} className={styles.submit}>
-        Submit for review
+      {trickEditing && (
+        <div className={styles.back}>
+          <h1 className={styles.backText} onClick={handleClickBack}>
+            You in edit mode! wanna back!?
+          </h1>
+        </div>
+      )}
+
+      <div className={styles.submit}>
+        <h1 onClick={handleClickSumbit} className={styles.submitText}>
+          {trickEditing ? 'Update trick' : 'Submit for review'}
+        </h1>
       </div>
     </div>
   )

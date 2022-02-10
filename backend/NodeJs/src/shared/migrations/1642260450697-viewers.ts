@@ -5,15 +5,15 @@ export class viewers1642260450697 implements MigrationInterface {
     queryRunner.query(
       `
             CREATE VIEW suggested_tricks_route_viewer AS
-            SELECT st.status AS status,
-                st.date_modify AS date_modify,
-                st.id AS id,
-                st.name AS name,
-                st.point AS point,
-                st.velocity AS velocity,
-                st.date_add AS date_add,
-                st.author_id AS author_id,
-                p.steamid64 AS author_steamid,
+            SELECT  st.status AS status,
+                    st.date_modify AS date_modify,
+                    st.id AS id,
+                    st.name AS name,
+                    st.point AS point,
+                    st.velocity AS velocity,
+                    st.date_add AS date_add,
+                    st.author_id AS author_id,
+                    p.steamid64 AS author_steamid,
 
             (SELECT p.nick
             FROM players p
@@ -38,29 +38,6 @@ export class viewers1642260450697 implements MigrationInterface {
                 st.map_id AS map_id
             FROM (suggested_tricks st
                 JOIN players p on((p.id = st.author_id)));
-        `,
-    );
-
-    queryRunner.query(
-      `
-        CREATE VIEW time_online_trend AS
-        SELECT cast(t.time_join AS date) AS d,
-            sec_to_time(sum(time_to_sec(t.time))) AS t,
-            round(((sum(time_to_sec(t.time)) * 100) /
-                        (SELECT round(avg(a.t), 0)
-                        FROM
-                        (SELECT sum(time_to_sec(t.time)) AS t
-                            FROM time_online t
-                            GROUP BY cast(t.time_join AS date)) a)),0) AS trend,
-            if((
-                    (SELECT round(avg(a.t), 0)
-                    FROM
-                        (SELECT sum(time_to_sec(t.time)) AS t
-                        FROM time_online t
-                        GROUP BY cast(t.time_join AS date)) a) > sum(time_to_sec(t.time))),'down', 'up') AS trendStatus
-        FROM time_online t
-        GROUP BY cast(t.time_join AS date)
-        ORDER BY d DESC;
         `,
     );
 
@@ -96,11 +73,35 @@ export class viewers1642260450697 implements MigrationInterface {
             LEFT JOIN players p on((p.id = st.author_id)));
         `,
     );
+
+    queryRunner.query(
+      `
+        CREATE VIEW time_online_trend_viewer AS
+        SELECT cast(t.time_join AS date) AS d,
+            sec_to_time(sum(time_to_sec(t.time))) AS t,
+            round(((sum(time_to_sec(t.time)) * 100) /
+                        (SELECT round(avg(a.t), 0)
+                        FROM
+                        (SELECT sum(time_to_sec(t.time)) AS t
+                            FROM time_online t
+                            GROUP BY cast(t.time_join AS date)) a)),0) AS trend,
+            if((
+                    (SELECT round(avg(a.t), 0)
+                    FROM
+                        (SELECT sum(time_to_sec(t.time)) AS t
+                        FROM time_online t
+                        GROUP BY cast(t.time_join AS date)) a) > sum(time_to_sec(t.time))),'down', 'up') AS trendStatus
+        FROM time_online t
+        GROUP BY cast(t.time_join AS date)
+        ORDER BY d DESC;
+        `,
+    );
+
   }
 
   public async down(queryRunner: QueryRunner): Promise<void> {
     queryRunner.query('DROP VIEW if EXISTS suggested_tricks_route_viewer;');
-    queryRunner.query('DROP VIEW if EXISTS time_online_trend;');
     queryRunner.query('DROP VIEW if EXISTS tricks_route_viewer;');
+    queryRunner.query('DROP VIEW if EXISTS time_online_trend_viewer;');
   }
 }

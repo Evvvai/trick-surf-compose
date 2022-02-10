@@ -30,3 +30,31 @@ export const SEND_TRICK = gql`
     }
   }
 `
+
+export const UPDATE_TRICK = gql`
+  mutation (
+    $id: Int!
+    $name: String!
+    $point: Int!
+    $routeIds: String!
+    $velocity: Int!
+  ) {
+    updateTrick(
+      input: {
+        id: $id
+        name: $name
+        point: $point
+        route: $routeIds
+        velocity: $velocity
+      }
+    ) {
+      id
+      name
+      point
+      velocity
+      dateAdd
+      authorId
+      mapId
+    }
+  }
+`

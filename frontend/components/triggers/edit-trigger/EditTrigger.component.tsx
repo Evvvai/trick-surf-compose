@@ -107,6 +107,7 @@ const EditTrigger: FC<Props> = (props: Props) => {
       () => {
         getDownloadURL(uploadTask.snapshot.ref).then((downloadURL) => {
           props.close()
+          setProgress(0)
           updatingTrigger(props.trigger.name, props.trigger.id, downloadURL)
         })
       }
@@ -114,12 +115,7 @@ const EditTrigger: FC<Props> = (props: Props) => {
   }
 
   const verifyImage = () => {
-    if (
-      playerInfo.avatarCustom !== image.imageUrl &&
-      playerInfo.avatarfull !== image.imageUrl &&
-      progress === 0
-    )
-      return true
+    if (props.trigger?.src !== image.imageUrl && progress === 0) return true
 
     return false
   }

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "paradise/villa/water_overlay_d"
+
+	$alpha 0.37
+	$translucent 1
+	$decal 1
+}

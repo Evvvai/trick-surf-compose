@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/de_aztec/hr_aztec/hr_aztec_water_shallow.vmt"
+	"insert"
+	{
+		"$waterdepth"		"51"
+	}
+}

@@ -1,16 +1,14 @@
 import '../styles/index.scss' // Styles
-import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import { ThemeProvider } from '../contexts/theme' // Theme Use Context
 import { wrapper } from 'stores'
-import { useEffect } from 'react'
+import { Fragment, useEffect } from 'react'
 
 // Layouts
 import MainLayout from 'components/layouts/Main.layout'
 
 /* May be reworekd... */
 import FriendsPath from 'components/layouts/FriendsPath.layout'
-import TricksPath from 'components/layouts/TricksPath.layout'
 
 // Components
 import Header from '../components/header/Header.component'
@@ -31,8 +29,20 @@ import { useDispatch } from 'react-redux'
 import { usePlayer } from '../hooks/store/player/usePlayer'
 import { Maps } from '@types'
 
+import type { ReactElement, ReactNode } from 'react'
+import type { NextPage } from 'next'
+import type { AppProps } from 'next/app'
+
+type NextPageWithLayout = NextPage & {
+  getLayout?: (page: ReactElement) => ReactNode
+}
+
+type AppPropsWithLayout = AppProps & {
+  Component: NextPageWithLayout
+}
+
 /////////////////////////////////////////////////////////////////////////////////////
-function MyApp({ Component, pageProps }: AppProps) {
+function MyApp({ Component, pageProps }: AppPropsWithLayout) {
   const { isLoggedIn } = usePlayer()
   const dispatch = useDispatch()
 
@@ -45,8 +55,10 @@ function MyApp({ Component, pageProps }: AppProps) {
     if (isLoggedIn) dispatch({ type: 'socket/connect' })
   }, [])
 
-  return (
-    <>
+  const getLayout = Component.getLayout ?? ((page) => page)
+
+  return getLayout(
+    <Fragment>
       <Head>
         <meta
           name="viewport"
@@ -60,18 +72,13 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <ThemeProvider>
         {/* <NotificationList /> */}
-        {/* <MenuAside /> */}
         <Header />
         <MainLayout>
-          <FriendsPath>
-            <TricksPath>
-              <Component {...pageProps} />
-            </TricksPath>
-          </FriendsPath>
+          <Component {...pageProps} />
         </MainLayout>
         <Footer />
       </ThemeProvider>
-    </>
+    </Fragment>
   )
 }
 

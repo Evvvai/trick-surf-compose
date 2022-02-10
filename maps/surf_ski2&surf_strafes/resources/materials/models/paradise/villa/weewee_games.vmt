@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/villa/weewee_games_d"
+	$bumpmap "dev/bump_normal"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.20 0.20 0.20]"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 150
+	$basemapalphaphongmask 1
+}

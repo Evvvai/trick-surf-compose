@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+	$basetexture "paradise/glass/glass_01a_d"
+	$bumpmap "paradise/glass/glass_01a_n"
+	$surfaceprop Glass
+
+	$alpha 0.25
+	$translucent 1
+
+	$envmap "paradise/cubemaps/paradise_sunset_hdr"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.16 0.24 0.40]"
+	$fresnelreflection 0.9
+	$envmaplightscale 0.12
+	$envmaplightscaleminmax "[0.50 4]"
+
+	$phong 1
+	$phongexponent 160
+	$phongamount "[1.5 1.5 1.5 1]"
+	$phongmaskcontrastbrightness "[2 1]"
+}

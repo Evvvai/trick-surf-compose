@@ -20,9 +20,6 @@ public/css/main.css
 # Coverage reports
 coverage
 
-# API keys and secrets
-.env
-
 # Dependency directory
 node_modules
 bower_components
@@ -30,6 +27,10 @@ bower_components
 # Editors
 .idea
 *.iml
+
+# Env
+.env
+
 
 # OS metadata
 .DS_Store

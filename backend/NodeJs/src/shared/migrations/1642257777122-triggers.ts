@@ -155,23 +155,41 @@ export class triggers1642257777122 implements MigrationInterface {
         ' 		END IF; \n' +
         ' END; ',
     );
+
+    queryRunner.query(
+      ' CREATE TRIGGER twr_update_after_insert AFTER INSERT ON twr_update FOR EACH ROW BEGIN \n' +
+      ' 		INSERT INTO twr_lost_notify(wr_id, player_id) \n' +
+      ' 		VALUES(NEW.id,( SELECT c.player_id FROM completes c WHERE c.id = NEW.before_wr)); \n' +
+      ' END; ',
+    );
+
+    queryRunner.query(
+      ' CREATE TRIGGER swr_update_after_insert AFTER INSERT ON swr_update FOR EACH ROW BEGIN \n' +
+      ' 		INSERT INTO swr_lost_notify(wr_id, player_id) \n' +
+      ' 		VALUES(NEW.id,( SELECT c.player_id FROM completes c WHERE c.id = NEW.before_wr)); \n' +
+      ' END; ',
+    );
   }
 
   public async down(queryRunner: QueryRunner): Promise<void> {
     queryRunner.query('drop trigger if exists completes_after_insert;');
     queryRunner.query('drop trigger if exists players_after_insert;');
     queryRunner.query('drop trigger if exists suggested_tricks_after_update;');
-    queryRunner.query('drop trigger if exists swr_after_update;');
-    queryRunner.query('drop trigger if exists swr_update_after_delete;');
-    queryRunner.query('drop trigger if exists swr_update_before_delete;');
     queryRunner.query(
       'drop trigger if exists time_online_status_before_update;',
     );
     queryRunner.query(
       'drop trigger if exists triggers_time_speed_touch_after_insert;',
     );
+
+    queryRunner.query('drop trigger if exists swr_after_update;');
+    queryRunner.query('drop trigger if exists swr_update_after_delete;');
+    queryRunner.query('drop trigger if exists swr_update_before_delete;');
+    queryRunner.query('drop trigger if exists swr_update_after_insert;');
+
     queryRunner.query('drop trigger if exists twr_after_update;');
     queryRunner.query('drop trigger if exists twr_update_after_delete;');
     queryRunner.query('drop trigger if exists twr_update_before_delete;');
+    queryRunner.query('drop trigger if exists twr_update_after_insert;');
   }
 }

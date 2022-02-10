@@ -12,7 +12,7 @@ export const sendRecord = async (
     .setColor('#DAA520')
     .setTitle(`${record?.name} ${record?.point}`)
     .setURL('https://surfgxds.xyz/')
-    .setAuthor(`${record?.nick}`, `${record?.avatar}`, `https://surfgxds.xyz/${record?.steamid}`)
+    .setAuthor(`${record?.nick}`, `${record?.avatar}`, `https://surfgxds.xyz/${record?.steamid64}`)
     .setDescription(typeRecord === TypeRecordI.swr ? 'Speed records' : 'Time records')
     .setThumbnail(`${record?.avatar}`)
     .addField(

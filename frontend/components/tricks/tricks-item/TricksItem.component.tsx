@@ -13,11 +13,14 @@ import { useTrickFilters } from 'hooks/store/trick/useTrickFilters'
 
 // Utils
 import cn from 'classnames'
-import { Trick, TrickWR, Trigger } from '@store'
+import { Role, Trick, TrickWR, Trigger } from '@store'
 import { SWR, TWR } from 'types/graphql/quary'
 import { clientHandle } from 'utils/graphql'
 import dayjs from 'dayjs'
 import TricksRelated from '../tricks-related/TricksRelated.component'
+import { useTrickEditor } from '../../../hooks/store/trick-editor/useTrickEditor'
+import { useRouter } from 'next/router'
+import { useApp } from 'hooks/store/app'
 
 interface Props {
   trick: Trick
@@ -26,8 +29,12 @@ interface Props {
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 export default function TricksItem({ trick, triggers }: Props): JSX.Element {
-  const { isLoggedIn } = usePlayer()
+  const router = useRouter()
+  const { isLoggedIn, playerInfo } = usePlayer()
   const { addTriggerToFilters, filters } = useTrickFilters()
+
+  const { setEditMod } = useTrickEditor()
+  const { currentMap } = useApp()
 
   const [isActive, setIsActive] = useState<boolean>(false)
   const [isRelatedActive, setIsRelatedActive] = useState<boolean>(false)
@@ -41,6 +48,19 @@ export default function TricksItem({ trick, triggers }: Props): JSX.Element {
     twr: {} as TrickWR,
     isLoading: true,
   })
+
+  const handleOnClickEdit = () => {
+    setEditMod({ trick, route: route as Trigger[] })
+
+    router.push(
+      {
+        pathname: '/trick-editor/' + currentMap?.name,
+      },
+
+      undefined,
+      { shallow: true }
+    )
+  }
 
   const handleClick = (trick: Trick) => (e: any) => {
     if (!route) {
@@ -204,6 +224,21 @@ export default function TricksItem({ trick, triggers }: Props): JSX.Element {
                   {dayjs(trick.dateAdd)?.fromNow()}
                 </div>
               </div>
+              {/* <div className={styles.related}>
+                <span
+                  onClick={() => setIsRelatedActive(!isRelatedActive)}
+                  className={styles.relatedTitle}
+                >
+                  {isRelatedActive ? 'unsow' : 'show'} related tricks
+                </span>
+              </div> */}
+            </div>
+            <div className={styles.control}>
+              {playerInfo.role === Role.ADMIN && (
+                <div onClick={handleOnClickEdit} className={styles.edit}>
+                  <span>edit</span>
+                </div>
+              )}
               <div className={styles.related}>
                 <span
                   onClick={() => setIsRelatedActive(!isRelatedActive)}

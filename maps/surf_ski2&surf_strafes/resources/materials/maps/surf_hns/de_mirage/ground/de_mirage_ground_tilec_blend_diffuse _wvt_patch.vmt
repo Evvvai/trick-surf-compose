@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"de_mirage/ground/ground_tilec_blend_diffuse"
+	"$bumpmap"		"de_mirage/ground/ground_tilec_normal"
+	"$detail"		"detail\noise_detail_01"
+	"$detailscale"		"[ 8 8 ]"
+	"$detailblendfactor"		"0.250000"
+	"$bumpscale"		"0.100000"
+	"$surfaceprop"		"rock"
+}

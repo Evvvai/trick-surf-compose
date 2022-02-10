@@ -1,5 +1,9 @@
 import { Fragment, useEffect, useRef, useState } from 'react'
 import Head from 'next/head'
+import type { ReactElement } from 'react'
+
+// Layouts
+import TricksPath from 'components/layouts/TricksPath.layout'
 
 // Styles
 import styles from '../../../styles/tricks/Triggers.module.scss'
@@ -172,4 +176,8 @@ Triggers.getInitialProps = async ({ query, store, res }) => {
     })
     store.dispatch(loadedTricks({ tricks, triggers }))
   }
+}
+
+Triggers.getLayout = function getLayout(page: ReactElement) {
+  return <TricksPath>{page}</TricksPath>
 }

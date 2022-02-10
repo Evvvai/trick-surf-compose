@@ -17,7 +17,7 @@ export const newPlayer = async (eventMessage: any, producer: AmqpProducer) => {
             if(ISNULL(avatarCustom), if(ISNULL(avatarfull), '${process.env.NONE_AVATAR}', avatarfull), avatarCustom) avatar
 
     FROM players
-    WHERE t.date_joined >= FROM_UNIXTIME(${eventMessage.timestamp} * POWER(10, 9 - FLOOR(LOG10(${eventMessage.timestamp}))))
+    WHERE date_joined >= FROM_UNIXTIME(${eventMessage.timestamp} * POWER(10, 9 - FLOOR(LOG10(${eventMessage.timestamp}))))
     LIMIT 1;
     `,
       async (err, result) => {

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/hr_c/hr_grass_001_color"
+	"$detail"		"nature/hr_c/hr_grass_001_detail"
+	"$detailscale"		"[.019 .019 .019]"
+	"$surfaceprop"		"grass"
+}

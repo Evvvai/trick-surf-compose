@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SURF/STRAFES_FLOOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-7936_-11232_9116"
+	}
+}

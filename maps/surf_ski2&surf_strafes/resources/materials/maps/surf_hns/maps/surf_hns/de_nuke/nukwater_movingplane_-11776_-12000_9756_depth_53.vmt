@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/surf_hns/de_nuke/nukwater_movingplane_-11776_-12000_9756.vmt"
+	"insert"
+	{
+		"$waterdepth"		"53"
+	}
+}

@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/paradise/woodwall_d"
+	$bumpmap "models/paradise/woodwall_n"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.02 0.02 0.02]"
+	$envmapfresnel 0.7
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 50
+}

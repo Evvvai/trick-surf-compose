@@ -8,7 +8,7 @@ export interface RecordI {
   res_speed_before: number
   res_time: number
   res_time_before: number
-  steamid: string
+  steamid64: string
   nick: string
   before_steamid: string
   before_nick: string

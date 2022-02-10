@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SURF/CENTER_SKI_2_MOSS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/surf_hns/c-7936_-10976_12444"
+	}
+}

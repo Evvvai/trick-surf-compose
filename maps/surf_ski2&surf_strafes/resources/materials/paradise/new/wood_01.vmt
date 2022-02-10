@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	$basetexture "paradise/new/wood_01_d"
+	$bumpmap "paradise/new/wood_01_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+	$fresnelreflection 0.2
+
+	$phong 1
+	$phongexponent 40
+	$phongamount "[4 4 4 1]"
+}
